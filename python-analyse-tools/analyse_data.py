@@ -2,7 +2,7 @@ import json
 from bs4 import BeautifulSoup
 
 def read_HTML_table():
-    with open('table.txt', 'r', encoding="utf-8") as file:
+    with open('./python-analyse-tools/table.txt', 'r', encoding="utf-8") as file:
         html_content = file.read()
     return html_content
 
@@ -14,9 +14,11 @@ def fetch_songlist():
     # collect song data
     tabel_rows = table.find_all('tr')[1:]  # Skip the header row
     song_list = []
+    id_counter = 0
     for row in tabel_rows:
         cells = row.find_all('td')
         if len(cells) >= 3:
+            id = id_counter
             song_name = cells[1].get_text(strip=True)
             artist_name = cells[2].get_text(strip=True)
             past_level = cells[3].get_text(strip=True)
@@ -33,6 +35,7 @@ def fetch_songlist():
             else:
                 append_version = cells.get_text(strip=True)
             song_list.append({
+                'id': id,
                 'song_name': song_name,
                 'artist_name': artist_name,
                 'past_level': past_level,
@@ -45,6 +48,7 @@ def fetch_songlist():
                 'album_name': album_name,
                 'append_version': append_version
             })
+            id_counter += 1
 
     return song_list
 
