@@ -18,8 +18,7 @@ function getDailySong() {
   return randomSong;
 }
 
-// TODO: Complete the logic
-// seemingly complete?
+// FIXME: 'Last' contains 2 beyond levels!
 function compareSongs(selectedSong, targetedSong) {
     const isCorrect = selectedSong.id === targetedSong.id;
     const isSameArtist = selectedSong.artist_name === targetedSong.artist_name;

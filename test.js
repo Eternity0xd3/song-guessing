@@ -168,7 +168,7 @@ const select = {
   present_level: "7",
   future_level: "11+",
   eternal_level: "",
-  beyond_level: "9+",
+  beyond_level: "9",
   song_length: "2:04",
   bpm: "100",
   album_name: "Arcaea",
@@ -176,18 +176,18 @@ const select = {
 };
 
 const target = {
-  id: 31,
-  song_name: "DataErr0r",
-  artist_name: "Cosmograph",
-  past_level: "3",
-  present_level: "7",
-  future_level: "9+",
-  eternal_level: "11",
-  beyond_level: "10",
-  song_length: "2:05",
-  bpm: "100",
-  album_name: "Memory Archive",
-  append_version: "1.0.5",
-};
+    "id": 282,
+    "song_name": "LastLast | MomentLast | Eternity",
+    "artist_name": "onoken",
+    "past_level": "4",
+    "present_level": "7",
+    "future_level": "9",
+    "eternal_level": "",
+    "beyond_level": "9/9+",
+    "song_length": "2:27",
+    "bpm": "175",
+    "album_name": "Silent Answer",
+    "append_version": "4.0.255"
+  };
 
 compareSongs(select, target);
