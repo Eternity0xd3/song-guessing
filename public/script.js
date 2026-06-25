@@ -2,6 +2,7 @@ const searchBar = document.getElementById("search-bar");
 const searchBtn = document.getElementById("search-button")
 const searchSongListDiv = document.getElementById("search-song-list");
 const resultsDiv = document.getElementById("results");
+const resultTable = document.getElementById('result-table');
 const songs = [];
 let attempts = []
 let seatchedSongs = [];
@@ -25,10 +26,36 @@ async function toggleGuess(songDiv){
     addAndRefreshDisplayResults(songData, guessResult);
 }
 
+function searchSongs(){
+    const input = searchBar.value;
+    if (!input) {
+        displaySelections([]);
+        return;
+    }
+    const filteredSongs = [];
+    filteredSongs.push(
+        ...songs.filter((song) =>
+            song.song_name.toLowerCase().includes(input.toLowerCase()),
+        ),
+    );
+    filteredSongs.push(
+        ...songs.filter(
+            (song) =>
+                song.artist_name.toLowerCase().includes(input.toLowerCase()) &&
+                !filteredSongs.includes(song),
+        ),
+    );
+    searchedSongs = filteredSongs;
+    displaySelections(searchedSongs);
+}
+
 function displaySelections(songs) {
     console.log(songs);
     searchSongListDiv.innerHTML = "";
     searchSongListDiv.style.display = "block";
+    if(songs.length === 0){
+        searchSongListDiv.innerHTML = "No result..."
+    }
     songs.forEach((song) => {
         const childDiv = document.createElement("div");
         childDiv.textContent = `${song.song_name} - ${song.artist_name}`;
@@ -40,21 +67,54 @@ function displaySelections(songs) {
 }
 
 function addAndRefreshDisplayResults(selectedSong, result) {
+
     attempts.push({ 
         "song": selectedSong, 
         "result": result
     });
 
-    resultsDiv.innerHTML = "";
+    resultTable.innerHTML = `
+    <thead>
+        <tr>
+            <td>Title</td>
+            <td>Artist</td>
+            <td>Song Pack</td>
+            <td>BPM</td>
+            <td>Future Level</td>
+            <td>Eternal Level</td>
+            <td>Beyond Level</td>
+            <td>Append Version</td>
+        </tr>
+    </thead>
+    `;
+    
+
     attempts.forEach((attempt, index) => {
-        const attemptDiv = document.createElement("div");
-        attemptDiv.classList.add("attempt");
-        attemptDiv.innerHTML = `
-            <p>Your guess: ${JSON.stringify(attempt.song)}</p>
-            <p>Results: ${JSON.stringify(attempt.result)}</p>
-            <p>------------------------------------------<p>
+        const eachSong = attempt.song;
+        const eachResult = attempt.result;
+        const row = document.createElement("tr");
+
+        row.innerHTML = `
+        <td>${eachSong.song_name || "-"}<hr>${eachResult.isCorrect}</td>
+        <td>${eachSong.artist_name || "-"}<hr>${eachResult.isSameArtist}</td>
+        <td>${eachSong.album_name || "-"}<hr>${eachResult.isSameAlbum}</td>
+        <td>${eachSong.bpm || "-"}<hr>${eachResult.bpmDirection}</td>
+        <td>${eachSong.future_level || "-"}<hr>${eachResult.futureDirection}</td>
+        <td>${eachSong.eternal_level || "-"}<hr>${eachResult.eternalDirection}</td>
+        <td>${eachSong.beyond_level || "-"}<hr>${eachResult.beyondDirection}</td>
+        <td>${eachSong.append_version || "-"}<hr>${eachResult.versionDirection}</td>
         `;
-        resultsDiv.appendChild(attemptDiv);
+
+        resultTable.appendChild(row);
+
+        // const attemptDiv = document.createElement("div");
+        // attemptDiv.classList.add("attempt");
+        // attemptDiv.innerHTML = `
+        //     <p>Your guess: ${JSON.stringify(attempt.song)}</p>
+        //     <p>Results: ${JSON.stringify(attempt.result)}</p>
+        //     <p>------------------------------------------<p>
+        // `;
+        // resultsDiv.appendChild(attemptDiv);
     });
 }
 
@@ -64,22 +124,10 @@ document.addEventListener("DOMContentLoaded", () => {
 })
 document.addEventListener("keydown", (event) => {
     if(event.key === "Enter"){
-        searchBtn.click();
+        searchSongs();
     }
 })
 
-searchBtn.addEventListener("click", async () => {
-    const input = searchBar.value;
-    if(!input){
-        return;
-    }
+searchBtn.addEventListener("click", searchSongs);
 
-    // There are 2 available methods: frontend filter or backend search
-    const filteredSongs = []
-    filteredSongs.push(...songs.filter(song => song.song_name.toLowerCase().includes(input.toLowerCase())));
-    filteredSongs.push(...songs.filter(song => song.artist_name.toLowerCase().includes(input.toLowerCase()) && !filteredSongs.includes(song)));
-    searchedSongs = filteredSongs;
-    displaySelections(searchedSongs);
-    // ----------------------------------
-
-})
+searchBar.addEventListener("input", searchSongs);

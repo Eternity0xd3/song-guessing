@@ -1,11 +1,19 @@
 import songs from "../data/songs.json" with { type: "json" };
 
 function hashing(str){
-    let hash = 0;
+    let seed = 0;
     for (let i = 0; i < str.length; i++) {
-        hash = (hash * 31 + str.charCodeAt(i)) >>> 0;
+        seed = (seed * 31 + str.charCodeAt(i)) & 0xffffffff;
     }
-    return hash;
+  
+    // multiple hashing: to magnify the difference
+    let hash = BigInt(seed);
+    hash = (BigInt(hash) ^ (BigInt(hash) << 13n)) & 0xffffffffn;
+    hash = (hash * 9301n + 49297n) & 0xffffffffn;
+    hash = ((hash << 15n) ^ hash) & 0xffffffffn;
+    hash = (hash * 11995408973635179863n) & 0xffffffffffffffffn;
+  
+    return Math.abs(Number(hash));
 }
 
 export function getDailySong() {

@@ -1,18 +1,39 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./styles.css">
     <title>Song Guessing Game</title>
 </head>
+
 <body>
-    <h1>Welcome to the Song Guessing Game!</h1>
-    <p>Guess!!!!!!!!!!!!!!!!</p>
-    <input type="text" id="search-bar" placeholder="Search for a song...">
-    <button id="search-button">Search</button>
-    <div id="search-song-list"></div>
-    <div id="results"></div>
-    <script src="./script.js"></script>
+    <main>
+        <h1>Welcome to the Song Guessing Game!</h1>
+        <p>Guess!!!!!!!!!!!!!!!!</p>
+        <input type="text" id="search-bar" placeholder="Search for a song...">
+        <button id="search-button">Search</button>
+        <div id="search-song-list"></div>
+        <div id="results">
+            <h3>Your attempts</h3>
+            <table id="result-table">
+                <thead>
+                    <tr>
+                        <td>Title</td>
+                        <td>Artist</td>
+                        <td>Song Pack</td>
+                        <td>BPM</td>
+                        <td>Future Level</td>
+                        <td>Eternal Level</td>
+                        <td>Beyond Level</td>
+                        <td>Append Version</td>
+                    </tr>
+                </thead>
+            </table>
+        </div>
+        <script src="./script.js"></script>
+    </main>
 </body>
+
 </html>

@@ -120,7 +120,7 @@ export function compareSongs(selectedSong, targetedSong) {
     // eternal level
     let eternalDirection;
     if (!selectedSong.eternal_level || !targetedSong.eternal_level) {
-        eternalDirection = "N/A";
+        eternalDirection = "-";
     } else {
         eternalDirection =
             parseLevel(selectedSong.eternal_level) ===
@@ -136,7 +136,7 @@ export function compareSongs(selectedSong, targetedSong) {
     // beyond level
     let beyondDirection;
     if (!selectedSong.beyond_level || !targetedSong.beyond_level) {
-        beyondDirection = "N/A";
+        beyondDirection = "-";
     } else {
         beyondDirection =
             parseLevel(selectedSong.beyond_level) ===
