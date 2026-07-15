@@ -3,6 +3,7 @@ const searchBtn = document.getElementById("search-button");
 const searchSongListDiv = document.getElementById("search-song-list");
 const resultsDiv = document.getElementById("results");
 const resultTable = document.getElementById("result-table");
+const dialog = document.getElementById("about-dialog");
 const songs = [];
 let attempts = [];
 let seatchedSongs = [];
@@ -24,7 +25,6 @@ async function toggleGuess(songDiv) {
       body: JSON.stringify({ selectedSongId: Number(songId) }),
     })
   ).json();
-  console.log(guessResult);
   addAndRefreshDisplayResults(songData, guessResult);
 }
 
@@ -52,7 +52,6 @@ function searchSongs() {
 }
 
 function displaySelections(songs) {
-  console.log(songs);
   searchSongListDiv.innerHTML = "";
   searchSongListDiv.style.display = "block";
   if (songs.length === 0) {
@@ -106,21 +105,11 @@ function addAndRefreshDisplayResults(selectedSong, result) {
         `;
 
     resultTable.appendChild(row);
-
-    // const attemptDiv = document.createElement("div");
-    // attemptDiv.classList.add("attempt");
-    // attemptDiv.innerHTML = `
-    //     <p>Your guess: ${JSON.stringify(attempt.song)}</p>
-    //     <p>Results: ${JSON.stringify(attempt.result)}</p>
-    //     <p>------------------------------------------<p>
-    // `;
-    // resultsDiv.appendChild(attemptDiv);
   });
 }
 
 document.addEventListener("DOMContentLoaded", () => {
   getSongs();
-  console.log(songs);
 });
 document.addEventListener("keydown", (event) => {
   if (event.key === "Enter") {
@@ -131,3 +120,26 @@ document.addEventListener("keydown", (event) => {
 searchBtn.addEventListener("click", searchSongs);
 
 searchBar.addEventListener("input", searchSongs);
+
+document.getElementById("about-btn").addEventListener("click", () => {
+  dialog.showModal();
+});
+
+document.getElementById("close-dialog").addEventListener("click", () => {
+  dialog.close();
+});
+
+
+dialog.addEventListener("click", (event) => {
+  const rect = dialog.getBoundingClientRect();
+
+  const inside =
+    rect.top <= event.clientY &&
+    event.clientY <= rect.bottom &&
+    rect.left <= event.clientX &&
+    event.clientX <= rect.right;
+
+  if (!inside) {
+    dialog.close();
+  }
+});
