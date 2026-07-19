@@ -2,11 +2,33 @@ const searchBar = document.getElementById("search-bar");
 const searchBtn = document.getElementById("search-button");
 const searchSongListDiv = document.getElementById("search-song-list");
 const resultsDiv = document.getElementById("results");
-const resultTable = document.getElementById("result-table");
+const guessResults = document.getElementById("guess-results");
 const dialog = document.getElementById("about-dialog");
 const songs = [];
 let attempts = [];
-let seatchedSongs = [];
+let searchedSongs = [];
+
+let isDesktop = navigator["userAgent"].match(
+  /(ipad|iphone|ipod|android|windows phone)/i,
+)
+  ? false
+  : true;
+
+// map
+const resultMap = {
+  "true": "正确",
+  "false": "错误",
+  "correct": "正确",
+  "larger": "太大",
+  "smaller": "太小",
+  "in range": "在范围内",
+  "overlap": "有重叠",
+}
+function mappingResult(result) {
+  result = result.toString();
+  return resultMap[result] || result;
+}
+
 
 async function getSongs() {
   resJson = await (await fetch("/api/song-list")).json();
@@ -55,7 +77,7 @@ function displaySelections(songs) {
   searchSongListDiv.innerHTML = "";
   searchSongListDiv.style.display = "block";
   if (songs.length === 0) {
-    searchSongListDiv.innerHTML = "No result...";
+    searchSongListDiv.style.display = "none";
   }
   songs.forEach((song) => {
     const childDiv = document.createElement("div");
@@ -67,45 +89,74 @@ function displaySelections(songs) {
   });
 }
 
+function generatePropertyDiv(key, value, result, isTotallyCorrect) {
+  divContent = `
+    <div class="property${(result === "correct" || result.toString() === "true" || isTotallyCorrect) ? " correct" : ""}">
+      <span class="property-label">${key}</span>
+      <br>
+      <span class="property-value">${value || "-"}</span>
+      <hr>
+      <span class="property-result">${mappingResult(result)}</span>
+    </div>
+    `;
+    return divContent;
+}
+
+function generateGuessCard(attempt) {
+  const eachSong = attempt.song;
+  const eachResult = attempt.result;
+  const element = document.createElement("div");
+  element.classList.add("guess-card");
+  let titleDiv = `
+    <div class="song-title${eachResult.isCorrect ? " correct" : ""}">
+      ${eachSong.song_name || "-"}
+    </div>
+  `;
+
+  // isTotallyCorrect: if the song is correct, then all properties are correct
+  // the argument is used because some of the arguments are missing,
+  // and the result is not correct, but the song is correct, so we need to mark all properties as correct
+
+  let propertiesDiv = `
+    <div class="properties">
+      ${generatePropertyDiv("曲师", eachSong.artist_name, eachResult.isSameArtist, eachResult.isCorrect)}
+      ${generatePropertyDiv("曲包", eachSong.album_name, eachResult.isSameAlbum, eachResult.isCorrect)}
+      ${generatePropertyDiv("BPM", eachSong.bpm, eachResult.bpmDirection, eachResult.isCorrect)}
+      ${generatePropertyDiv("Future", eachSong.future_level, eachResult.futureDirection, eachResult.isCorrect)}
+      ${generatePropertyDiv("Eternal", eachSong.eternal_level, eachResult.eternalDirection, eachResult.isCorrect)}
+      ${generatePropertyDiv("Beyond", eachSong.beyond_level, eachResult.beyondDirection, eachResult.isCorrect)}
+      ${generatePropertyDiv("添加版本", eachSong.append_version, eachResult.versionDirection, eachResult.isCorrect)}
+    </div>
+  `;
+  element.innerHTML = titleDiv + propertiesDiv;
+  return element;
+}
+
 function addAndRefreshDisplayResults(selectedSong, result) {
   attempts.push({
     song: selectedSong,
     result: result,
   });
 
-  resultTable.innerHTML = `
-    <thead>
-        <tr>
-            <td>Title</td>
-            <td>Artist</td>
-            <td>Song Pack</td>
-            <td>BPM</td>
-            <td>Future Level</td>
-            <td>Eternal Level</td>
-            <td>Beyond Level</td>
-            <td>Append Version</td>
-        </tr>
-    </thead>
-    `;
+  // clear the search bar and hide the search results
+  searchBar.value = "";
+  searchSongs();
+
+  // display the guess results
+  guessResults.innerHTML = "";
 
   attempts.forEach((attempt, index) => {
-    const eachSong = attempt.song;
-    const eachResult = attempt.result;
-    const row = document.createElement("tr");
-
-    row.innerHTML = `
-        <td>${eachSong.song_name || "-"}<hr>${eachResult.isCorrect}</td>
-        <td>${eachSong.artist_name || "-"}<hr>${eachResult.isSameArtist}</td>
-        <td>${eachSong.album_name || "-"}<hr>${eachResult.isSameAlbum}</td>
-        <td>${eachSong.bpm || "-"}<hr>${eachResult.bpmDirection}</td>
-        <td>${eachSong.future_level || "-"}<hr>${eachResult.futureDirection}</td>
-        <td>${eachSong.eternal_level || "-"}<hr>${eachResult.eternalDirection}</td>
-        <td>${eachSong.beyond_level || "-"}<hr>${eachResult.beyondDirection}</td>
-        <td>${eachSong.append_version || "-"}<hr>${eachResult.versionDirection}</td>
-        `;
-
-    resultTable.appendChild(row);
+    eachGuessCard = generateGuessCard(attempt);
+    guessResults.appendChild(eachGuessCard);
   });
+
+  // automatically scroll to the bottom of the guess results
+  resultsDiv.scrollTop = resultsDiv.scrollHeight;
+
+  // focus back to the search bar for the next guess (except on touch devices)
+  if (isDesktop) {
+    searchBar.focus();
+  }
 }
 
 document.addEventListener("DOMContentLoaded", () => {

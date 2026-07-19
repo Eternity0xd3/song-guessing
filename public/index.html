@@ -11,35 +11,22 @@
 
 <body>
   <main>
-    <h1>Welcome to the Arcaea Song Guessing Game!</h1>
-    <p>Guess!!!!!!!!!!!!!!!!</p>
+    <h1>Arcaea猜盐！</h1>
+    <p>不限次数，猜到歌曲就是胜利</p>
     <button id="about-btn">?</button>
     <div class="search-row">
-      <input type="text" id="search-bar" placeholder="Search for a song...">
-      <button id="search-button">Search</button>
+      <input type="text" id="search-bar" placeholder="在此搜索歌曲">
+      <button id="search-button">⌕</button>
     </div>
     <div id="search-song-list"></div>
     <div id="results">
       <h3>Your attempts</h3>
-      <table id="result-table">
-        <thead>
-          <tr>
-            <td>Title</td>
-            <td>Artist</td>
-            <td>Song Pack</td>
-            <td>BPM</td>
-            <td>Future Level</td>
-            <td>Eternal Level</td>
-            <td>Beyond Level</td>
-            <td>Append Version</td>
-          </tr>
-        </thead>
-      </table>
+      <div id="guess-results">
+      </div>
     </div>
     <dialog id="about-dialog">
       <button id="close-dialog">&times;</button>
       <h2>About Arcaea Song Guess</h2>
-    
       <p>
         An information bar<br>
         1<br>

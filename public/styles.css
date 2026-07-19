@@ -7,7 +7,7 @@
 body {
     margin: 0;
     min-height: 100vh;
-    padding: 50px 0;
+    padding: 3.1rem 0;
     background:
         linear-gradient(rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0.15)),
         url("./images/background.jpg");
@@ -19,103 +19,132 @@ body {
 }
 
 main {
-  width: min(1100px, 92vw);
+  width: min(68.75rem, 92vw);
   margin: 0px auto;
-  padding: 40px;
-  border-radius: 20px;
+  padding: 2.5rem;
+  border-radius: 1.25rem;
   background: rgba(255, 255, 255, 0.75);
-  backdrop-filter: blur(12px);
+  backdrop-filter: blur(0.75rem);
   box-shadow:
-      0 20px 40px rgba(255, 255, 255, 0.35);
+      0 1.25rem 2.5rem rgba(255, 255, 255, 0.35);
   color: rgb(0, 0, 0);
 }
 
 .search-row{
   display:flex;
-  gap:12px;
+  gap:1.25rem;
 }
 
 #search-bar {
-  padding: 10px;
-  width: 80%;
-  height: 30px;
+  padding: 0.625rem;
+  width: 90%;
+  height: 1.875rem;
 }
 #search-button {
-  height: 30px;
+  height: 1.875rem;
+  font-size: 1.25rem;
+  width: 2rem;
 }
 
 #search-song-list {
-  width: 80%;
-  margin: 20px 10px;
-  padding: 10px;
+  width: 100%;
+  margin: 1.25rem 0;
+  padding: 0.625rem;
   border: 3px solid #6fbece;
   background: #cad4ec;
-  border-radius: 5px;
-  max-height: 300px;
+  border-radius: 0.3125rem;
+  max-height: 18.75rem;
   overflow-y: auto;
   display: none;
 }
 
 #results {
-  width: 80%;
-  margin: 20px 10px;
-  padding: 10px;
+  width: 100%;
+  margin: 1.25rem 0;
+  padding: 0.625rem;
   border: 3px solid #97d797;
   border-collapse: separate;
   border-spacing: 0;
   background: #cae5ec;
-  border-radius: 5px;
-  max-height: 400px;
+  border-radius: 0.3125rem;
+  max-height: 25rem;
   overflow-y: auto;
-}
-
-#results h3 {
-  margin-top: 0;
-  color: #333;
-}
-
-#result-table {
-  width: 100%;
-  border: 3px solid;
-  border-collapse: collapse;
-  margin: 15px 0;
-  font-size: 14px;
-}
-
-#result-table th {
-  background: #667eea;
-  color: white;
-  padding: 10px 12px;
-  border: 3px solid;
-  text-align: left;
-  font-weight: bold;
-}
-
-#result-table td {
-  padding: 10px 12px;
-  border: 3px solid;
-  border-bottom: 1px solid #e0e0e0;
-}
-
-tr{
-    transition:.2s;
-}
-
-tr:hover{
-    background:rgba(255,255,255,.05);
 }
 
 .song-selection {
   cursor: pointer;
-  gap: 10px;
-  padding: 12px;
+  gap: 1.25rem;
+  padding: 0.75rem;
   background-color: rgba(255, 255, 255, 0.08);
   border-color: gray;
-  border-radius: 3px;
+  border-radius: 0.1875rem;
 }
 
 .song-selection:hover {
   background: rgba(0, 0, 0, 0.08);
+}
+
+.guess-card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0.5rem 1.25rem;
+    border: 0.125rem solid gray;
+    border-radius: 0.625rem;
+    box-shadow:
+        0 0.5rem 1rem rgba(0,0,0,.15);
+}
+
+.song-title{
+  font-size: 1.1rem;
+  font-weight: bold;
+  text-align:center;
+  border-radius:0.625rem;
+  width: 100%;
+}
+
+.properties {
+  margin-top: 0.65rem;
+  width:100%;
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:center;
+  gap:0.625rem;
+}
+
+.property {
+    flex:0 1 auto;
+    min-width:4rem;
+    padding:0.625rem;
+    text-align:center;
+    border-radius:0.625rem;
+    background:
+        rgba(255,255,255,.75);
+    box-shadow:
+        0 0.25rem 0.5rem rgba(0,0,0,.12);
+    transition:
+        transform .15s;
+}
+
+.property:hover {
+    transform:translateY(-2px);
+}
+
+.property-value {
+    white-space: normal;
+    overflow-wrap: anywhere;
+}
+
+.correct {
+    background: mediumseagreen;
+    color:white;
+}
+
+
+.close {
+    background: #ebc230;
+    color:black;
 }
 
 dialog {
@@ -123,15 +152,15 @@ dialog {
   top: 45%;
   left: 50%;
   transform: translate(-50%, -50%);
-  width: min(650px, 90vw);
+  width: min(40.625rem, 90vw);
   max-height: 90vh;
-  padding: 30px;
+  padding: 1.875rem;
   border: none;
-  border-radius: 20px;
+  border-radius: 1.25rem;
   background: rgba(25, 30, 40, 0.88);
   color: white;
-  backdrop-filter: blur(20px);
-  box-shadow: 0 20px 50px rgba(0,0,0,.45);
+  backdrop-filter: blur(1.25rem);
+  box-shadow: 0 1.25rem 3.125rem rgba(0,0,0,.45);
   margin: 0;
   opacity: 1;
   transition: opacity .2s ease, transform .2s ease;
@@ -139,27 +168,27 @@ dialog {
 
 dialog::backdrop {
     background: rgba(0,0,0,.6);
-    backdrop-filter: blur(6px);
+    backdrop-filter: blur(0.375rem);
 }
 
 #close-dialog {
     position: absolute;
-    top: 15px;
-    right: 15px;
+    top: 1.25rem;
+    right: 1.25rem;
     border: none;
     background: none;
     color: white;
-    font-size: 28px;
+    font-size: 1.75rem;
     cursor: pointer;
 }
 
 #about-btn {
-  padding: 5px 5px;
+  padding: 0.3125rem 0.3125rem;
   background: rgba(0, 4, 255, 0.5);
   color: rgb(0, 0, 0);
   border: none;
-  border-radius: 5px;
-  font-size: 16px;
+  border-radius: 0.3125rem;
+  font-size: 1rem;
   font-weight: 600;
   cursor: pointer;
   letter-spacing: 0.5px;
@@ -170,4 +199,17 @@ dialog::backdrop {
         opacity: 0;
         transform: translate(-50%, -50%) scale(.95);
     }
+}
+
+@media screen and (max-width: 768px) {
+  body {
+    font-size: 13px;
+    padding: 1rem 0;
+  }
+  main{
+    padding: 1rem;
+  }
+  #search-button {
+    font-size: 1.25rem;
+  }
 }
