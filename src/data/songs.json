@@ -11,6 +11,8 @@
     "song_length": "1:55",
     "bpm": "178",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "1.0.5"
   },
   {
@@ -25,6 +27,8 @@
     "song_length": "2:10",
     "bpm": "189",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "1.0.5"
   },
   {
@@ -39,6 +43,8 @@
     "song_length": "2:12",
     "bpm": "180",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "1.0.5"
   },
   {
@@ -53,6 +59,8 @@
     "song_length": "2:21",
     "bpm": "140",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "1.0.5"
   },
   {
@@ -67,6 +75,8 @@
     "song_length": "2:13",
     "bpm": "165",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "1.0.5"
   },
   {
@@ -81,6 +91,8 @@
     "song_length": "2:28",
     "bpm": "150",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "1.0.5"
   },
   {
@@ -95,6 +107,8 @@
     "song_length": "2:30",
     "bpm": "170",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "1.0.5"
   },
   {
@@ -109,6 +123,8 @@
     "song_length": "2:28",
     "bpm": "136",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "1.0.5"
   },
   {
@@ -123,6 +139,8 @@
     "song_length": "2:04",
     "bpm": "75-210",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "1.0.5"
   },
   {
@@ -137,6 +155,8 @@
     "song_length": "2:06",
     "bpm": "190",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "1.0.5"
   },
   {
@@ -151,6 +171,8 @@
     "song_length": "2:23",
     "bpm": "144",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "1.0.5"
   },
   {
@@ -165,6 +187,8 @@
     "song_length": "2:07",
     "bpm": "75-180",
     "album_name": "Eternal Core",
+    "appended_album_name": "Eternal Core",
+    "catagory": "Main Story",
     "append_version": "1.0.8"
   },
   {
@@ -179,6 +203,8 @@
     "song_length": "2:06",
     "bpm": "165",
     "album_name": "Eternal Core",
+    "appended_album_name": "Eternal Core",
+    "catagory": "Main Story",
     "append_version": "1.0.8"
   },
   {
@@ -193,6 +219,8 @@
     "song_length": "2:09",
     "bpm": "100",
     "album_name": "Eternal Core",
+    "appended_album_name": "Eternal Core",
+    "catagory": "Main Story",
     "append_version": "1.0.8"
   },
   {
@@ -207,6 +235,8 @@
     "song_length": "2:17",
     "bpm": "174",
     "album_name": "Eternal Core",
+    "appended_album_name": "Eternal Core",
+    "catagory": "Main Story",
     "append_version": "1.0.8"
   },
   {
@@ -221,6 +251,8 @@
     "song_length": "2:03",
     "bpm": "180",
     "album_name": "Eternal Core",
+    "appended_album_name": "Eternal Core",
+    "catagory": "Main Story",
     "append_version": "1.0.8"
   },
   {
@@ -235,11 +267,13 @@
     "song_length": "2:31",
     "bpm": "164",
     "album_name": "Eternal Core",
+    "appended_album_name": "Eternal Core",
+    "catagory": "Main Story",
     "append_version": "1.0.8"
   },
   {
     "id": 17,
-    "song_name": "PRAGMATISM | PRAGMATISM -RESURRECTION-",
+    "song_name": "PRAGMATISM / PRAGMATISM -RESURRECTION-",
     "artist_name": "Laur",
     "past_level": "4",
     "present_level": "8",
@@ -249,6 +283,8 @@
     "song_length": "2:002:38",
     "bpm": "174",
     "album_name": "Eternal Core",
+    "appended_album_name": "Eternal Core",
+    "catagory": "Main Story",
     "append_version": "1.0.8"
   },
   {
@@ -263,6 +299,8 @@
     "song_length": "2:17",
     "bpm": "185",
     "album_name": "Eternal Core",
+    "appended_album_name": "Eternal Core",
+    "catagory": "Main Story",
     "append_version": "1.0.8"
   },
   {
@@ -277,6 +315,8 @@
     "song_length": "2:09",
     "bpm": "210",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "1.0.9"
   },
   {
@@ -291,6 +331,8 @@
     "song_length": "2:38",
     "bpm": "169",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "1.0.9"
   },
   {
@@ -305,6 +347,8 @@
     "song_length": "2:34",
     "bpm": "160",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "1.0.10"
   },
   {
@@ -319,6 +363,8 @@
     "song_length": "1:56",
     "bpm": "186",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "1.0.10"
   },
   {
@@ -333,6 +379,8 @@
     "song_length": "2:24",
     "bpm": "160",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "1.0.11"
   },
   {
@@ -347,6 +395,8 @@
     "song_length": "2:28",
     "bpm": "126",
     "album_name": "Crimson Solace",
+    "appended_album_name": "Crimson Solace",
+    "catagory": "Side Story",
     "append_version": "1.0.11"
   },
   {
@@ -361,6 +411,8 @@
     "song_length": "2:02",
     "bpm": "195",
     "album_name": "Crimson Solace",
+    "appended_album_name": "Crimson Solace",
+    "catagory": "Side Story",
     "append_version": "1.0.11"
   },
   {
@@ -375,6 +427,8 @@
     "song_length": "2:25",
     "bpm": "180",
     "album_name": "Crimson Solace",
+    "appended_album_name": "Crimson Solace",
+    "catagory": "Side Story",
     "append_version": "1.0.11"
   },
   {
@@ -389,6 +443,8 @@
     "song_length": "1:50",
     "bpm": "132",
     "album_name": "Crimson Solace",
+    "appended_album_name": "Crimson Solace",
+    "catagory": "Side Story",
     "append_version": "1.0.11"
   },
   {
@@ -403,6 +459,8 @@
     "song_length": "2:08",
     "bpm": "260",
     "album_name": "Crimson Solace",
+    "appended_album_name": "Crimson Solace",
+    "catagory": "Side Story",
     "append_version": "1.0.11"
   },
   {
@@ -417,6 +475,8 @@
     "song_length": "2:13",
     "bpm": "196",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "1.1.0"
   },
   {
@@ -431,6 +491,8 @@
     "song_length": "2:29",
     "bpm": "180",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "1.1.0"
   },
   {
@@ -445,6 +507,8 @@
     "song_length": "2:05",
     "bpm": "180",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "1.1.0"
   },
   {
@@ -459,6 +523,8 @@
     "song_length": "2:19",
     "bpm": "200",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "1.1.0"
   },
   {
@@ -473,6 +539,8 @@
     "song_length": "2:30",
     "bpm": "176",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "1.1.0"
   },
   {
@@ -487,6 +555,8 @@
     "song_length": "2:19",
     "bpm": "230",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "1.1.2"
   },
   {
@@ -501,6 +571,8 @@
     "song_length": "2:26",
     "bpm": "160",
     "album_name": "Dynamix Collaboration",
+    "appended_album_name": "Dynamix Collaboration",
+    "catagory": "Collaboration",
     "append_version": "1.1.2"
   },
   {
@@ -515,6 +587,8 @@
     "song_length": "1:57",
     "bpm": "180",
     "album_name": "Dynamix Collaboration",
+    "appended_album_name": "Dynamix Collaboration",
+    "catagory": "Collaboration",
     "append_version": "1.1.2"
   },
   {
@@ -529,6 +603,8 @@
     "song_length": "1:46",
     "bpm": "205",
     "album_name": "Dynamix Collaboration",
+    "appended_album_name": "Dynamix Collaboration",
+    "catagory": "Collaboration",
     "append_version": "1.1.2"
   },
   {
@@ -543,6 +619,8 @@
     "song_length": "2:22",
     "bpm": "152",
     "album_name": "Dynamix Collaboration",
+    "appended_album_name": "Dynamix Collaboration",
+    "catagory": "Collaboration",
     "append_version": "1.1.2"
   },
   {
@@ -557,11 +635,13 @@
     "song_length": "2:00",
     "bpm": "202",
     "album_name": "Dynamix Collaboration",
+    "appended_album_name": "Dynamix Collaboration",
+    "catagory": "Collaboration",
     "append_version": "1.1.2"
   },
   {
     "id": 40,
-    "song_name": "Ignotus | Ignotus Afterburn",
+    "song_name": "Ignotus / Ignotus Afterburn",
     "artist_name": "ak+q",
     "past_level": "3",
     "present_level": "6",
@@ -571,6 +651,8 @@
     "song_length": "2:262:19",
     "bpm": "170",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "1.1.3"
   },
   {
@@ -585,6 +667,8 @@
     "song_length": "1:56",
     "bpm": "184",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "1.1.3"
   },
   {
@@ -599,6 +683,8 @@
     "song_length": "2:20",
     "bpm": "185",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "1.1.4"
   },
   {
@@ -613,6 +699,8 @@
     "song_length": "2:25",
     "bpm": "138",
     "album_name": "Ambivalent Vision",
+    "appended_album_name": "Ambivalent Vision",
+    "catagory": "Side Story",
     "append_version": "1.1.4"
   },
   {
@@ -627,6 +715,8 @@
     "song_length": "2:06",
     "bpm": "187",
     "album_name": "Ambivalent Vision",
+    "appended_album_name": "Ambivalent Vision",
+    "catagory": "Side Story",
     "append_version": "1.1.4"
   },
   {
@@ -641,6 +731,8 @@
     "song_length": "2:13",
     "bpm": "180",
     "album_name": "Ambivalent Vision",
+    "appended_album_name": "Ambivalent Vision",
+    "catagory": "Side Story",
     "append_version": "1.1.4"
   },
   {
@@ -655,6 +747,8 @@
     "song_length": "2:13",
     "bpm": "132",
     "album_name": "Ambivalent Vision",
+    "appended_album_name": "Ambivalent Vision",
+    "catagory": "Side Story",
     "append_version": "1.1.4"
   },
   {
@@ -669,6 +763,8 @@
     "song_length": "2:23",
     "bpm": "155",
     "album_name": "Ambivalent Vision",
+    "appended_album_name": "Ambivalent Vision",
+    "catagory": "Side Story",
     "append_version": "1.1.4"
   },
   {
@@ -683,6 +779,8 @@
     "song_length": "2:04",
     "bpm": "183",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "1.1.4"
   },
   {
@@ -697,6 +795,8 @@
     "song_length": "2:12",
     "bpm": "270",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "1.1.6"
   },
   {
@@ -711,6 +811,8 @@
     "song_length": "2:07",
     "bpm": "165",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "1.1.6"
   },
   {
@@ -725,6 +827,8 @@
     "song_length": "2:24",
     "bpm": "154-175",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "1.5.0"
   },
   {
@@ -739,11 +843,13 @@
     "song_length": "2:19",
     "bpm": "205",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "1.5.0"
   },
   {
     "id": 53,
-    "song_name": "Red and Blue | Red and Blue and Green",
+    "song_name": "Red and Blue / Red and Blue and Green",
     "artist_name": "Silentroom",
     "past_level": "4",
     "present_level": "7+",
@@ -751,8 +857,10 @@
     "eternal_level": "",
     "beyond_level": "10",
     "song_length": "1:582:31",
-    "bpm": "150160",
+    "bpm": "150",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "1.5.0"
   },
   {
@@ -767,6 +875,8 @@
     "song_length": "2:06",
     "bpm": "140",
     "album_name": "Vicious Labyrinth",
+    "appended_album_name": "Vicious Labyrinth",
+    "catagory": "Main Story",
     "append_version": "1.5.0"
   },
   {
@@ -781,6 +891,8 @@
     "song_length": "1:45",
     "bpm": "170",
     "album_name": "Vicious Labyrinth",
+    "appended_album_name": "Vicious Labyrinth",
+    "catagory": "Main Story",
     "append_version": "1.5.0"
   },
   {
@@ -795,6 +907,8 @@
     "song_length": "2:00",
     "bpm": "190",
     "album_name": "Vicious Labyrinth",
+    "appended_album_name": "Vicious Labyrinth",
+    "catagory": "Main Story",
     "append_version": "1.5.0"
   },
   {
@@ -809,11 +923,13 @@
     "song_length": "2:08",
     "bpm": "160",
     "album_name": "Vicious Labyrinth",
+    "appended_album_name": "Vicious Labyrinth",
+    "catagory": "Main Story",
     "append_version": "1.5.0"
   },
   {
     "id": 58,
-    "song_name": "Axium Crisis | Axium Divergence",
+    "song_name": "Axium Crisis / Axium Divergence",
     "artist_name": "ak+q",
     "past_level": "5",
     "present_level": "8",
@@ -823,6 +939,8 @@
     "song_length": "2:302:36",
     "bpm": "170",
     "album_name": "Vicious Labyrinth",
+    "appended_album_name": "Vicious Labyrinth",
+    "catagory": "Main Story",
     "append_version": "1.5.0"
   },
   {
@@ -837,6 +955,8 @@
     "song_length": "2:20",
     "bpm": "210",
     "album_name": "Vicious Labyrinth",
+    "appended_album_name": "Vicious Labyrinth",
+    "catagory": "Main Story",
     "append_version": "1.5.0"
   },
   {
@@ -851,6 +971,8 @@
     "song_length": "2:27",
     "bpm": "152",
     "album_name": "Memory Archive",
+    "appended_album_name": "Stellights Collaboration",
+    "catagory": "Arcaea",
     "append_version": "1.5.2"
   },
   {
@@ -865,6 +987,8 @@
     "song_length": "2:14",
     "bpm": "172",
     "album_name": "Memory Archive",
+    "appended_album_name": "Stellights Collaboration",
+    "catagory": "Arcaea",
     "append_version": "1.5.2"
   },
   {
@@ -879,6 +1003,8 @@
     "song_length": "2:24",
     "bpm": "174",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "1.5.3"
   },
   {
@@ -893,6 +1019,8 @@
     "song_length": "2:20",
     "bpm": "178",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "1.5.3"
   },
   {
@@ -907,6 +1035,8 @@
     "song_length": "2:25",
     "bpm": "174",
     "album_name": "Lanota Collaboration",
+    "appended_album_name": "Lanota Collaboration",
+    "catagory": "Collaboration",
     "append_version": "1.5.5"
   },
   {
@@ -921,6 +1051,8 @@
     "song_length": "2:13",
     "bpm": "200",
     "album_name": "Lanota Collaboration",
+    "appended_album_name": "Lanota Collaboration",
+    "catagory": "Collaboration",
     "append_version": "1.5.5"
   },
   {
@@ -935,6 +1067,8 @@
     "song_length": "2:16",
     "bpm": "179",
     "album_name": "Lanota Collaboration",
+    "appended_album_name": "Lanota Collaboration",
+    "catagory": "Collaboration",
     "append_version": "1.5.5"
   },
   {
@@ -949,6 +1083,8 @@
     "song_length": "2:23",
     "bpm": "189",
     "album_name": "Lanota Collaboration",
+    "appended_album_name": "Lanota Collaboration",
+    "catagory": "Collaboration",
     "append_version": "1.5.5"
   },
   {
@@ -963,6 +1099,8 @@
     "song_length": "2:30",
     "bpm": "182",
     "album_name": "Lanota Collaboration",
+    "appended_album_name": "Lanota Collaboration",
+    "catagory": "Collaboration",
     "append_version": "1.5.5"
   },
   {
@@ -977,6 +1115,8 @@
     "song_length": "2:24",
     "bpm": "165",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "1.5.6"
   },
   {
@@ -991,6 +1131,8 @@
     "song_length": "2:17",
     "bpm": "180",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "1.5.7"
   },
   {
@@ -1005,6 +1147,8 @@
     "song_length": "2:12",
     "bpm": "165",
     "album_name": "Binary Enfold",
+    "appended_album_name": "Binary Enfold",
+    "catagory": "Side Story",
     "append_version": "1.6.0"
   },
   {
@@ -1019,6 +1163,8 @@
     "song_length": "2:34",
     "bpm": "158",
     "album_name": "Binary Enfold",
+    "appended_album_name": "Binary Enfold",
+    "catagory": "Side Story",
     "append_version": "1.6.0"
   },
   {
@@ -1033,6 +1179,8 @@
     "song_length": "2:13",
     "bpm": "105",
     "album_name": "Binary Enfold",
+    "appended_album_name": "Binary Enfold",
+    "catagory": "Side Story",
     "append_version": "1.6.0"
   },
   {
@@ -1047,11 +1195,13 @@
     "song_length": "2:24",
     "bpm": "178",
     "album_name": "Binary Enfold",
+    "appended_album_name": "Binary Enfold",
+    "catagory": "Side Story",
     "append_version": "1.6.0"
   },
   {
     "id": 75,
-    "song_name": "Singularity | Singularity VVVIP",
+    "song_name": "Singularity / Singularity VVVIP",
     "artist_name": "ETIA.",
     "past_level": "4",
     "present_level": "7+",
@@ -1061,6 +1211,8 @@
     "song_length": "2:062:17",
     "bpm": "175",
     "album_name": "Binary Enfold",
+    "appended_album_name": "Binary Enfold",
+    "catagory": "Side Story",
     "append_version": "1.6.0"
   },
   {
@@ -1075,6 +1227,8 @@
     "song_length": "2:21",
     "bpm": "165",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "1.6.2"
   },
   {
@@ -1089,6 +1243,8 @@
     "song_length": "2:11",
     "bpm": "202",
     "album_name": "Memory Archive",
+    "appended_album_name": "Dynamix Collaboration",
+    "catagory": "Arcaea",
     "append_version": "1.6.2"
   },
   {
@@ -1103,6 +1259,8 @@
     "song_length": "2:10",
     "bpm": "184",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "1.6.4"
   },
   {
@@ -1117,6 +1275,8 @@
     "song_length": "2:11",
     "bpm": "164",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "1.6.4"
   },
   {
@@ -1131,6 +1291,8 @@
     "song_length": "2:23",
     "bpm": "102",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "1.6.6"
   },
   {
@@ -1145,6 +1307,8 @@
     "song_length": "2:28",
     "bpm": "175",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "1.6.6"
   },
   {
@@ -1159,6 +1323,8 @@
     "song_length": "2:08",
     "bpm": "125",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "1.7.0"
   },
   {
@@ -1173,6 +1339,8 @@
     "song_length": "2:29",
     "bpm": "175",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "1.7.0"
   },
   {
@@ -1187,6 +1355,8 @@
     "song_length": "2:34",
     "bpm": "168",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "1.7.0"
   },
   {
@@ -1201,6 +1371,8 @@
     "song_length": "2:25",
     "bpm": "159",
     "album_name": "Luminous Sky",
+    "appended_album_name": "Luminous Sky",
+    "catagory": "Main Story",
     "append_version": "1.7.0"
   },
   {
@@ -1215,6 +1387,8 @@
     "song_length": "2:20",
     "bpm": "202",
     "album_name": "Luminous Sky",
+    "appended_album_name": "Luminous Sky",
+    "catagory": "Main Story",
     "append_version": "1.7.0"
   },
   {
@@ -1229,6 +1403,8 @@
     "song_length": "2:19",
     "bpm": "182",
     "album_name": "Luminous Sky",
+    "appended_album_name": "Luminous Sky",
+    "catagory": "Main Story",
     "append_version": "1.7.0"
   },
   {
@@ -1243,6 +1419,8 @@
     "song_length": "2:38",
     "bpm": "191",
     "album_name": "Luminous Sky",
+    "appended_album_name": "Luminous Sky",
+    "catagory": "Main Story",
     "append_version": "1.7.0"
   },
   {
@@ -1257,6 +1435,8 @@
     "song_length": "2:19",
     "bpm": "156",
     "album_name": "Luminous Sky",
+    "appended_album_name": "Luminous Sky",
+    "catagory": "Main Story",
     "append_version": "1.7.0"
   },
   {
@@ -1271,6 +1451,8 @@
     "song_length": "2:33",
     "bpm": "200",
     "album_name": "Luminous Sky",
+    "appended_album_name": "Luminous Sky",
+    "catagory": "Main Story",
     "append_version": "1.7.0"
   },
   {
@@ -1285,11 +1467,13 @@
     "song_length": "2:41",
     "bpm": "174.59",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "1.7.2"
   },
   {
     "id": 92,
-    "song_name": "dropdead | overdead.",
+    "song_name": "dropdead / overdead.",
     "artist_name": "Frums",
     "past_level": "1",
     "present_level": "9",
@@ -1297,8 +1481,10 @@
     "eternal_level": "",
     "beyond_level": "10",
     "song_length": "2:162:37",
-    "bpm": "50500",
+    "bpm": "50",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "1.7.2"
   },
   {
@@ -1313,6 +1499,8 @@
     "song_length": "2:30",
     "bpm": "99",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "1.7.2"
   },
   {
@@ -1327,6 +1515,8 @@
     "song_length": "2:21",
     "bpm": "192",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "1.7.4"
   },
   {
@@ -1341,6 +1531,8 @@
     "song_length": "2:29",
     "bpm": "150",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "1.7.5"
   },
   {
@@ -1355,6 +1547,8 @@
     "song_length": "2:19",
     "bpm": "146",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "1.7.5"
   },
   {
@@ -1369,6 +1563,8 @@
     "song_length": "2:18",
     "bpm": "130",
     "album_name": "Tone Sphere Collaboration",
+    "appended_album_name": "Tone Sphere Collaboration",
+    "catagory": "Collaboration",
     "append_version": "1.8.0"
   },
   {
@@ -1383,6 +1579,8 @@
     "song_length": "2:33",
     "bpm": "147",
     "album_name": "Tone Sphere Collaboration",
+    "appended_album_name": "Tone Sphere Collaboration",
+    "catagory": "Collaboration",
     "append_version": "1.8.0"
   },
   {
@@ -1397,6 +1595,8 @@
     "song_length": "2:26",
     "bpm": "145",
     "album_name": "Tone Sphere Collaboration",
+    "appended_album_name": "Tone Sphere Collaboration",
+    "catagory": "Collaboration",
     "append_version": "1.8.0"
   },
   {
@@ -1411,6 +1611,8 @@
     "song_length": "2:01",
     "bpm": "200-211.9",
     "album_name": "Tone Sphere Collaboration",
+    "appended_album_name": "Tone Sphere Collaboration",
+    "catagory": "Collaboration",
     "append_version": "1.8.0"
   },
   {
@@ -1425,6 +1627,8 @@
     "song_length": "2:24",
     "bpm": "140",
     "album_name": "Tone Sphere Collaboration",
+    "appended_album_name": "Tone Sphere Collaboration",
+    "catagory": "Collaboration",
     "append_version": "1.8.0"
   },
   {
@@ -1439,6 +1643,8 @@
     "song_length": "2:24",
     "bpm": "191",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "1.8.1"
   },
   {
@@ -1453,6 +1659,8 @@
     "song_length": "2:28",
     "bpm": "134",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "1.8.1"
   },
   {
@@ -1467,6 +1675,8 @@
     "song_length": "2:32",
     "bpm": "153",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "1.8.2"
   },
   {
@@ -1481,6 +1691,8 @@
     "song_length": "2:19",
     "bpm": "175",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "1.8.3"
   },
   {
@@ -1495,6 +1707,8 @@
     "song_length": "2:09",
     "bpm": "180",
     "album_name": "Groove Coaster Collaboration",
+    "appended_album_name": "Groove Coaster Collaboration",
+    "catagory": "Collaboration",
     "append_version": "1.9.0"
   },
   {
@@ -1509,6 +1723,8 @@
     "song_length": "1:55",
     "bpm": "160",
     "album_name": "Groove Coaster Collaboration",
+    "appended_album_name": "Groove Coaster Collaboration",
+    "catagory": "Collaboration",
     "append_version": "1.9.0"
   },
   {
@@ -1523,6 +1739,8 @@
     "song_length": "1:56",
     "bpm": "240",
     "album_name": "Groove Coaster Collaboration",
+    "appended_album_name": "Groove Coaster Collaboration",
+    "catagory": "Collaboration",
     "append_version": "1.9.0"
   },
   {
@@ -1537,6 +1755,8 @@
     "song_length": "2:09",
     "bpm": "185",
     "album_name": "Groove Coaster Collaboration",
+    "appended_album_name": "Groove Coaster Collaboration",
+    "catagory": "Collaboration",
     "append_version": "1.9.0"
   },
   {
@@ -1551,6 +1771,8 @@
     "song_length": "2:29",
     "bpm": "188",
     "album_name": "Groove Coaster Collaboration",
+    "appended_album_name": "Groove Coaster Collaboration",
+    "catagory": "Collaboration",
     "append_version": "1.9.0"
   },
   {
@@ -1565,6 +1787,8 @@
     "song_length": "2:11",
     "bpm": "160",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "1.9.2"
   },
   {
@@ -1579,6 +1803,8 @@
     "song_length": "2:53",
     "bpm": "162",
     "album_name": "Eternal Core",
+    "appended_album_name": "Eternal Core",
+    "catagory": "Main Story",
     "append_version": "1.9.3"
   },
   {
@@ -1593,6 +1819,8 @@
     "song_length": "2:30",
     "bpm": "170",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "2.0.0"
   },
   {
@@ -1607,6 +1835,8 @@
     "song_length": "2:38",
     "bpm": "115-185",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "2.0.0"
   },
   {
@@ -1621,6 +1851,8 @@
     "song_length": "2:20",
     "bpm": "172",
     "album_name": "Absolute Reason",
+    "appended_album_name": "Absolute Reason",
+    "catagory": "Side Story",
     "append_version": "2.0.0"
   },
   {
@@ -1635,6 +1867,8 @@
     "song_length": "2:19",
     "bpm": "200",
     "album_name": "Absolute Reason",
+    "appended_album_name": "Absolute Reason",
+    "catagory": "Side Story",
     "append_version": "2.0.0"
   },
   {
@@ -1649,11 +1883,13 @@
     "song_length": "2:25",
     "bpm": "170",
     "album_name": "Absolute Reason",
+    "appended_album_name": "Absolute Reason",
+    "catagory": "Side Story",
     "append_version": "2.0.0"
   },
   {
     "id": 118,
-    "song_name": "Vicious Heroism | Vicious [ANTi] Heroism",
+    "song_name": "Vicious Heroism / Vicious [ANTi] Heroism",
     "artist_name": "Kobaryo",
     "past_level": "4",
     "present_level": "7",
@@ -1661,8 +1897,10 @@
     "eternal_level": "",
     "beyond_level": "11",
     "song_length": "2:202:29",
-    "bpm": "256271",
+    "bpm": "256",
     "album_name": "Absolute Reason",
+    "appended_album_name": "Absolute Reason",
+    "catagory": "Side Story",
     "append_version": "2.0.0"
   },
   {
@@ -1677,6 +1915,8 @@
     "song_length": "2:21",
     "bpm": "200",
     "album_name": "Absolute Reason",
+    "appended_album_name": "Absolute Reason",
+    "catagory": "Side Story",
     "append_version": "2.0.0"
   },
   {
@@ -1691,6 +1931,8 @@
     "song_length": "2:21",
     "bpm": "200",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "2.0.3"
   },
   {
@@ -1705,6 +1947,8 @@
     "song_length": "2:38",
     "bpm": "150",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "2.0.3"
   },
   {
@@ -1719,6 +1963,8 @@
     "song_length": "2:11",
     "bpm": "174",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "2.0.3"
   },
   {
@@ -1733,6 +1979,8 @@
     "song_length": "2:08",
     "bpm": "256",
     "album_name": "CHUNITHM Collaboration",
+    "appended_album_name": "CHUNITHM Collaboration",
+    "catagory": "Collaboration",
     "append_version": "2.1.0"
   },
   {
@@ -1747,6 +1995,8 @@
     "song_length": "2:30",
     "bpm": "200",
     "album_name": "CHUNITHM Collaboration",
+    "appended_album_name": "CHUNITHM Collaboration",
+    "catagory": "Collaboration",
     "append_version": "2.1.0"
   },
   {
@@ -1761,6 +2011,8 @@
     "song_length": "2:45",
     "bpm": "170",
     "album_name": "CHUNITHM Collaboration",
+    "appended_album_name": "CHUNITHM Collaboration",
+    "catagory": "Collaboration",
     "append_version": "2.1.0"
   },
   {
@@ -1775,6 +2027,8 @@
     "song_length": "2:20",
     "bpm": "96-384",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "2.2.0"
   },
   {
@@ -1789,6 +2043,8 @@
     "song_length": "2:26",
     "bpm": "162-175",
     "album_name": "Adverse Prelude",
+    "appended_album_name": "Adverse Prelude",
+    "catagory": "Main Story",
     "append_version": "2.2.0"
   },
   {
@@ -1803,6 +2059,8 @@
     "song_length": "2:29",
     "bpm": "174",
     "album_name": "Adverse Prelude",
+    "appended_album_name": "Adverse Prelude",
+    "catagory": "Main Story",
     "append_version": "2.2.0"
   },
   {
@@ -1817,6 +2075,8 @@
     "song_length": "2:11",
     "bpm": "240",
     "album_name": "Adverse Prelude",
+    "appended_album_name": "Adverse Prelude",
+    "catagory": "Main Story",
     "append_version": "2.2.0"
   },
   {
@@ -1831,6 +2091,8 @@
     "song_length": "2:13",
     "bpm": "160",
     "album_name": "Adverse Prelude",
+    "appended_album_name": "Adverse Prelude",
+    "catagory": "Main Story",
     "append_version": "2.2.0"
   },
   {
@@ -1845,6 +2107,8 @@
     "song_length": "2:09",
     "bpm": "174",
     "album_name": "Sunset Radiance",
+    "appended_album_name": "Sunset Radiance",
+    "catagory": "Side Story",
     "append_version": "2.3.0"
   },
   {
@@ -1859,6 +2123,8 @@
     "song_length": "2:22",
     "bpm": "145",
     "album_name": "Sunset Radiance",
+    "appended_album_name": "Sunset Radiance",
+    "catagory": "Side Story",
     "append_version": "2.3.0"
   },
   {
@@ -1873,6 +2139,8 @@
     "song_length": "2:13",
     "bpm": "165",
     "album_name": "Sunset Radiance",
+    "appended_album_name": "Sunset Radiance",
+    "catagory": "Side Story",
     "append_version": "2.3.0"
   },
   {
@@ -1887,6 +2155,8 @@
     "song_length": "2:19",
     "bpm": "191",
     "album_name": "Sunset Radiance",
+    "appended_album_name": "Sunset Radiance",
+    "catagory": "Side Story",
     "append_version": "2.3.0"
   },
   {
@@ -1901,6 +2171,8 @@
     "song_length": "2:22",
     "bpm": "200",
     "album_name": "Sunset Radiance",
+    "appended_album_name": "Sunset Radiance",
+    "catagory": "Side Story",
     "append_version": "2.3.0"
   },
   {
@@ -1915,6 +2187,8 @@
     "song_length": "2:28",
     "bpm": "201",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "2.3.2"
   },
   {
@@ -1929,6 +2203,8 @@
     "song_length": "2:20",
     "bpm": "132",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "2.4.0"
   },
   {
@@ -1943,6 +2219,8 @@
     "song_length": "2:32",
     "bpm": "170",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "2.4.0"
   },
   {
@@ -1957,6 +2235,8 @@
     "song_length": "2:24",
     "bpm": "250",
     "album_name": "Crimson Solace",
+    "appended_album_name": "Crimson Solace",
+    "catagory": "Side Story",
     "append_version": "2.4.0"
   },
   {
@@ -1971,6 +2251,8 @@
     "song_length": "2:17",
     "bpm": "160",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "2.4.3"
   },
   {
@@ -1985,6 +2267,8 @@
     "song_length": "2:15",
     "bpm": "241",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "2.4.3"
   },
   {
@@ -1999,6 +2283,8 @@
     "song_length": "2:31",
     "bpm": "90",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "2.4.5"
   },
   {
@@ -2013,6 +2299,8 @@
     "song_length": "2:22",
     "bpm": "170",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "2.4.5"
   },
   {
@@ -2027,6 +2315,8 @@
     "song_length": "2:13",
     "bpm": "200",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "2.4.7"
   },
   {
@@ -2041,6 +2331,8 @@
     "song_length": "2:12",
     "bpm": "200",
     "album_name": "Memory Archive",
+    "appended_album_name": "HARDCORE TANO*C Collaboration",
+    "catagory": "Arcaea",
     "append_version": "2.4.9"
   },
   {
@@ -2055,6 +2347,8 @@
     "song_length": "2:23",
     "bpm": "168",
     "album_name": "Memory Archive",
+    "appended_album_name": "HARDCORE TANO*C Collaboration",
+    "catagory": "Arcaea",
     "append_version": "2.5.0"
   },
   {
@@ -2069,6 +2363,8 @@
     "song_length": "2:18",
     "bpm": "222",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "2.5.0"
   },
   {
@@ -2083,6 +2379,8 @@
     "song_length": "2:03",
     "bpm": "222",
     "album_name": "Memory Archive",
+    "appended_album_name": "HARDCORE TANO*C Collaboration",
+    "catagory": "Arcaea",
     "append_version": "2.5.0"
   },
   {
@@ -2097,6 +2395,8 @@
     "song_length": "2:22",
     "bpm": "205",
     "album_name": "Memory Archive",
+    "appended_album_name": "HARDCORE TANO*C Collaboration",
+    "catagory": "Arcaea",
     "append_version": "2.5.0"
   },
   {
@@ -2111,6 +2411,8 @@
     "song_length": "2:31",
     "bpm": "130",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "2.5.2"
   },
   {
@@ -2125,6 +2427,8 @@
     "song_length": "2:43",
     "bpm": "115",
     "album_name": "Adverse Prelude",
+    "appended_album_name": "Adverse Prelude",
+    "catagory": "Main Story",
     "append_version": "2.5.3"
   },
   {
@@ -2139,6 +2443,8 @@
     "song_length": "2:28",
     "bpm": "180",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "2.6.0"
   },
   {
@@ -2153,6 +2459,8 @@
     "song_length": "2:38",
     "bpm": "154",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "2.6.0"
   },
   {
@@ -2167,6 +2475,8 @@
     "song_length": "2:36",
     "bpm": "105",
     "album_name": "Ambivalent Vision",
+    "appended_album_name": "Ambivalent Vision",
+    "catagory": "Side Story",
     "append_version": "2.6.0"
   },
   {
@@ -2181,6 +2491,8 @@
     "song_length": "2:17",
     "bpm": "180",
     "album_name": "Black Fate",
+    "appended_album_name": "Black Fate",
+    "catagory": "Main Story",
     "append_version": "3.0.0"
   },
   {
@@ -2195,6 +2507,8 @@
     "song_length": "2:19",
     "bpm": "160",
     "album_name": "Black Fate",
+    "appended_album_name": "Black Fate",
+    "catagory": "Main Story",
     "append_version": "3.0.0"
   },
   {
@@ -2209,6 +2523,8 @@
     "song_length": "2:38",
     "bpm": "170",
     "album_name": "Black Fate",
+    "appended_album_name": "Black Fate",
+    "catagory": "Main Story",
     "append_version": "3.0.0"
   },
   {
@@ -2223,6 +2539,8 @@
     "song_length": "2:32",
     "bpm": "186",
     "album_name": "Black Fate",
+    "appended_album_name": "Black Fate",
+    "catagory": "Main Story",
     "append_version": "3.0.0"
   },
   {
@@ -2237,6 +2555,8 @@
     "song_length": "2:43",
     "bpm": "181",
     "album_name": "Black Fate",
+    "appended_album_name": "Black Fate",
+    "catagory": "Main Story",
     "append_version": "3.0.0"
   },
   {
@@ -2251,6 +2571,8 @@
     "song_length": "2:17",
     "bpm": "231",
     "album_name": "Black Fate",
+    "appended_album_name": "Black Fate",
+    "catagory": "Main Story",
     "append_version": "3.0.0"
   },
   {
@@ -2265,6 +2587,8 @@
     "song_length": "2:45",
     "bpm": "191",
     "album_name": "Black Fate",
+    "appended_album_name": "Black Fate",
+    "catagory": "Main Story",
     "append_version": "3.0.0"
   },
   {
@@ -2279,6 +2603,8 @@
     "song_length": "2:28",
     "bpm": "178",
     "album_name": "Extend Archive 1",
+    "appended_album_name": "Extend Archive 1",
+    "catagory": "Arcaea",
     "append_version": "3.0.0"
   },
   {
@@ -2293,6 +2619,8 @@
     "song_length": "2:20",
     "bpm": "130",
     "album_name": "Extend Archive 1",
+    "appended_album_name": "Extend Archive 1",
+    "catagory": "Arcaea",
     "append_version": "3.0.0"
   },
   {
@@ -2307,6 +2635,8 @@
     "song_length": "2:44",
     "bpm": "132",
     "album_name": "Extend Archive 1",
+    "appended_album_name": "Extend Archive 1",
+    "catagory": "Arcaea",
     "append_version": "3.0.0"
   },
   {
@@ -2321,6 +2651,8 @@
     "song_length": "2:36",
     "bpm": "95-190",
     "album_name": "Extend Archive 1",
+    "appended_album_name": "Extend Archive 1",
+    "catagory": "Arcaea",
     "append_version": "3.0.0"
   },
   {
@@ -2335,6 +2667,8 @@
     "song_length": "1:55",
     "bpm": "200",
     "album_name": "Extend Archive 1",
+    "appended_album_name": "Extend Archive 1",
+    "catagory": "Arcaea",
     "append_version": "3.0.0"
   },
   {
@@ -2349,6 +2683,8 @@
     "song_length": "2:32",
     "bpm": "83-90",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "3.0.0"
   },
   {
@@ -2363,6 +2699,8 @@
     "song_length": "2:37",
     "bpm": "133",
     "album_name": "Extend Archive 1",
+    "appended_album_name": "Extend Archive 1",
+    "catagory": "Arcaea",
     "append_version": "3.0.3"
   },
   {
@@ -2377,6 +2715,8 @@
     "song_length": "2:14",
     "bpm": "180",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "3.0.3"
   },
   {
@@ -2391,6 +2731,8 @@
     "song_length": "2:37",
     "bpm": "166",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "3.0.3"
   },
   {
@@ -2405,6 +2747,8 @@
     "song_length": "2:26",
     "bpm": "128",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "3.0.5"
   },
   {
@@ -2419,6 +2763,8 @@
     "song_length": "2:02",
     "bpm": "195",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "3.0.6"
   },
   {
@@ -2433,6 +2779,8 @@
     "song_length": "1:57",
     "bpm": "190",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "3.1.0"
   },
   {
@@ -2447,6 +2795,8 @@
     "song_length": "2:17",
     "bpm": "155",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "3.1.2"
   },
   {
@@ -2461,6 +2811,8 @@
     "song_length": "2:06",
     "bpm": "268",
     "album_name": "Groove Coaster Collaboration",
+    "appended_album_name": "Groove Coaster Collaboration",
+    "catagory": "Collaboration",
     "append_version": "3.2.0"
   },
   {
@@ -2475,6 +2827,8 @@
     "song_length": "2:28",
     "bpm": "200",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "3.2.0"
   },
   {
@@ -2489,6 +2843,8 @@
     "song_length": "2:09",
     "bpm": "300",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "3.2.1"
   },
   {
@@ -2503,6 +2859,8 @@
     "song_length": "2:30",
     "bpm": "200",
     "album_name": "Extend Archive 1",
+    "appended_album_name": "Extend Archive 1",
+    "catagory": "Arcaea",
     "append_version": "3.2.1"
   },
   {
@@ -2517,6 +2875,8 @@
     "song_length": "2:18",
     "bpm": "146",
     "album_name": "Extend Archive 1",
+    "appended_album_name": "Extend Archive 1",
+    "catagory": "Arcaea",
     "append_version": "3.2.2"
   },
   {
@@ -2531,6 +2891,8 @@
     "song_length": "2:24",
     "bpm": "146",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "3.2.2"
   },
   {
@@ -2545,6 +2907,8 @@
     "song_length": "2:38",
     "bpm": "170",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "3.2.3"
   },
   {
@@ -2559,6 +2923,8 @@
     "song_length": "2:30",
     "bpm": "80-134",
     "album_name": "Ephemeral Page",
+    "appended_album_name": "Ephemeral Page",
+    "catagory": "Side Story",
     "append_version": "3.3.0"
   },
   {
@@ -2573,6 +2939,8 @@
     "song_length": "2:17",
     "bpm": "132",
     "album_name": "Ephemeral Page",
+    "appended_album_name": "Ephemeral Page",
+    "catagory": "Side Story",
     "append_version": "3.3.0"
   },
   {
@@ -2587,6 +2955,8 @@
     "song_length": "2:31",
     "bpm": "190",
     "album_name": "Ephemeral Page",
+    "appended_album_name": "Ephemeral Page",
+    "catagory": "Side Story",
     "append_version": "3.3.0"
   },
   {
@@ -2601,6 +2971,8 @@
     "song_length": "2:29",
     "bpm": "133",
     "album_name": "Ephemeral Page",
+    "appended_album_name": "Ephemeral Page",
+    "catagory": "Side Story",
     "append_version": "3.3.0"
   },
   {
@@ -2615,6 +2987,8 @@
     "song_length": "2:18",
     "bpm": "155",
     "album_name": "Ephemeral Page",
+    "appended_album_name": "Ephemeral Page",
+    "catagory": "Side Story",
     "append_version": "3.3.0"
   },
   {
@@ -2629,6 +3003,8 @@
     "song_length": "2:25",
     "bpm": "170",
     "album_name": "Extend Archive 1",
+    "appended_album_name": "Extend Archive 1",
+    "catagory": "Arcaea",
     "append_version": "3.3.0"
   },
   {
@@ -2643,6 +3019,8 @@
     "song_length": "1:50",
     "bpm": "181",
     "album_name": "Ephemeral Page",
+    "appended_album_name": "The Journey Onwards",
+    "catagory": "Side Story",
     "append_version": "3.3.1"
   },
   {
@@ -2657,6 +3035,8 @@
     "song_length": "2:37",
     "bpm": "160",
     "album_name": "Ephemeral Page",
+    "appended_album_name": "The Journey Onwards",
+    "catagory": "Side Story",
     "append_version": "3.3.1"
   },
   {
@@ -2671,6 +3051,8 @@
     "song_length": "1:58",
     "bpm": "222",
     "album_name": "Ephemeral Page",
+    "appended_album_name": "The Journey Onwards",
+    "catagory": "Side Story",
     "append_version": "3.3.1"
   },
   {
@@ -2685,6 +3067,8 @@
     "song_length": "2:23",
     "bpm": "185",
     "album_name": "O.N.G.E.K.I. Collaboration",
+    "appended_album_name": "O.N.G.E.K.I. Collaboration",
+    "catagory": "Collaboration",
     "append_version": "3.4.0"
   },
   {
@@ -2699,6 +3083,8 @@
     "song_length": "2:10",
     "bpm": "220",
     "album_name": "O.N.G.E.K.I. Collaboration",
+    "appended_album_name": "O.N.G.E.K.I. Collaboration",
+    "catagory": "Collaboration",
     "append_version": "3.4.0"
   },
   {
@@ -2713,6 +3099,8 @@
     "song_length": "2:37",
     "bpm": "218",
     "album_name": "O.N.G.E.K.I. Collaboration",
+    "appended_album_name": "O.N.G.E.K.I. Collaboration",
+    "catagory": "Collaboration",
     "append_version": "3.4.0"
   },
   {
@@ -2727,6 +3115,8 @@
     "song_length": "2:45",
     "bpm": "71-192",
     "album_name": "O.N.G.E.K.I. Collaboration",
+    "appended_album_name": "O.N.G.E.K.I. Collaboration",
+    "catagory": "Collaboration",
     "append_version": "3.4.0"
   },
   {
@@ -2741,6 +3131,8 @@
     "song_length": "2:09",
     "bpm": "79",
     "album_name": "Maimai Collaboration",
+    "appended_album_name": "Maimai Collaboration",
+    "catagory": "Collaboration",
     "append_version": "3.4.1"
   },
   {
@@ -2755,6 +3147,8 @@
     "song_length": "2:09",
     "bpm": "150",
     "album_name": "Maimai Collaboration",
+    "appended_album_name": "Maimai Collaboration",
+    "catagory": "Collaboration",
     "append_version": "3.4.1"
   },
   {
@@ -2769,6 +3163,8 @@
     "song_length": "2:01",
     "bpm": "190",
     "album_name": "Maimai Collaboration",
+    "appended_album_name": "Maimai Collaboration",
+    "catagory": "Collaboration",
     "append_version": "3.4.1"
   },
   {
@@ -2783,6 +3179,8 @@
     "song_length": "2:18",
     "bpm": "185",
     "album_name": "Maimai Collaboration",
+    "appended_album_name": "Maimai Collaboration",
+    "catagory": "Collaboration",
     "append_version": "3.4.1"
   },
   {
@@ -2797,6 +3195,8 @@
     "song_length": "2:34",
     "bpm": "190",
     "album_name": "CHUNITHM Collaboration Chapter 2",
+    "appended_album_name": "CHUNITHM Collaboration Chapter 2",
+    "catagory": "Collaboration",
     "append_version": "3.5.0"
   },
   {
@@ -2811,6 +3211,8 @@
     "song_length": "2:35",
     "bpm": "238",
     "album_name": "CHUNITHM Collaboration Chapter 2",
+    "appended_album_name": "CHUNITHM Collaboration Chapter 2",
+    "catagory": "Collaboration",
     "append_version": "3.5.0"
   },
   {
@@ -2825,6 +3227,8 @@
     "song_length": "2:44",
     "bpm": "190†",
     "album_name": "CHUNITHM Collaboration Chapter 2",
+    "appended_album_name": "CHUNITHM Collaboration Chapter 2",
+    "catagory": "Collaboration",
     "append_version": "3.5.0"
   },
   {
@@ -2839,6 +3243,8 @@
     "song_length": "2:38",
     "bpm": "202",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "3.5.0"
   },
   {
@@ -2853,6 +3259,8 @@
     "song_length": "2:18",
     "bpm": "165",
     "album_name": "Extend Archive 1",
+    "appended_album_name": "Extend Archive 1",
+    "catagory": "Arcaea",
     "append_version": "3.5.0"
   },
   {
@@ -2867,6 +3275,8 @@
     "song_length": "2:12",
     "bpm": "95",
     "album_name": "Extend Archive 1",
+    "appended_album_name": "Extend Archive 1",
+    "catagory": "Arcaea",
     "append_version": "3.5.1"
   },
   {
@@ -2881,6 +3291,8 @@
     "song_length": "2:20",
     "bpm": "5-315",
     "album_name": "Extend Archive 1",
+    "appended_album_name": "Extend Archive 1",
+    "catagory": "Arcaea",
     "append_version": "3.5.1"
   },
   {
@@ -2895,6 +3307,8 @@
     "song_length": "2:13",
     "bpm": "87-110",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "3.5.2"
   },
   {
@@ -2909,6 +3323,8 @@
     "song_length": "2:26",
     "bpm": "128",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "3.5.4"
   },
   {
@@ -2923,6 +3339,8 @@
     "song_length": "2:10",
     "bpm": "133",
     "album_name": "Extend Archive 1",
+    "appended_album_name": "Extend Archive 1",
+    "catagory": "Arcaea",
     "append_version": "3.5.4"
   },
   {
@@ -2937,6 +3355,8 @@
     "song_length": "2:29",
     "bpm": "130",
     "album_name": "Esoteric Order",
+    "appended_album_name": "Esoteric Order",
+    "catagory": "Side Story",
     "append_version": "3.6.0"
   },
   {
@@ -2951,6 +3371,8 @@
     "song_length": "2:04",
     "bpm": "178",
     "album_name": "Esoteric Order",
+    "appended_album_name": "Esoteric Order",
+    "catagory": "Side Story",
     "append_version": "3.6.0"
   },
   {
@@ -2965,6 +3387,8 @@
     "song_length": "2:29",
     "bpm": "180-216",
     "album_name": "Esoteric Order",
+    "appended_album_name": "Esoteric Order",
+    "catagory": "Side Story",
     "append_version": "3.6.0"
   },
   {
@@ -2979,6 +3403,8 @@
     "song_length": "2:20",
     "bpm": "181",
     "album_name": "Esoteric Order",
+    "appended_album_name": "Esoteric Order",
+    "catagory": "Side Story",
     "append_version": "3.6.0"
   },
   {
@@ -2993,6 +3419,8 @@
     "song_length": "2:27",
     "bpm": "234",
     "album_name": "Esoteric Order",
+    "appended_album_name": "Esoteric Order",
+    "catagory": "Side Story",
     "append_version": "3.6.0"
   },
   {
@@ -3007,6 +3435,8 @@
     "song_length": "2:29",
     "bpm": "110",
     "album_name": "Esoteric Order",
+    "appended_album_name": "Pale Tapestry",
+    "catagory": "Side Story",
     "append_version": "3.6.0"
   },
   {
@@ -3021,6 +3451,8 @@
     "song_length": "2:24",
     "bpm": "174",
     "album_name": "Esoteric Order",
+    "appended_album_name": "Pale Tapestry",
+    "catagory": "Side Story",
     "append_version": "3.6.0"
   },
   {
@@ -3035,6 +3467,8 @@
     "song_length": "2:29",
     "bpm": "200",
     "album_name": "Esoteric Order",
+    "appended_album_name": "Pale Tapestry",
+    "catagory": "Side Story",
     "append_version": "3.6.0"
   },
   {
@@ -3049,6 +3483,8 @@
     "song_length": "2:30",
     "bpm": "194",
     "album_name": "Extend Archive 1",
+    "appended_album_name": "Extend Archive 1",
+    "catagory": "Arcaea",
     "append_version": "3.6.0"
   },
   {
@@ -3063,6 +3499,8 @@
     "song_length": "2:29",
     "bpm": "128-170",
     "album_name": "Extend Archive 1",
+    "appended_album_name": "Extend Archive 1",
+    "catagory": "Arcaea",
     "append_version": "3.6.2"
   },
   {
@@ -3077,6 +3515,8 @@
     "song_length": "2:28",
     "bpm": "200",
     "album_name": "Memory Archive",
+    "appended_album_name": "HARDCORE TANO*C Collaboration Part 2",
+    "catagory": "Arcaea",
     "append_version": "3.6.4"
   },
   {
@@ -3091,6 +3531,8 @@
     "song_length": "2:22",
     "bpm": "240",
     "album_name": "Memory Archive",
+    "appended_album_name": "HARDCORE TANO*C Collaboration Part 2",
+    "catagory": "Arcaea",
     "append_version": "3.6.4"
   },
   {
@@ -3105,6 +3547,8 @@
     "song_length": "2:13",
     "bpm": "220",
     "album_name": "Esoteric Order",
+    "appended_album_name": "Light of Salvation",
+    "catagory": "Side Story",
     "append_version": "3.7.0"
   },
   {
@@ -3119,6 +3563,8 @@
     "song_length": "2:27",
     "bpm": "220-245",
     "album_name": "Esoteric Order",
+    "appended_album_name": "Light of Salvation",
+    "catagory": "Side Story",
     "append_version": "3.7.0"
   },
   {
@@ -3133,6 +3579,8 @@
     "song_length": "2:22",
     "bpm": "172",
     "album_name": "Esoteric Order",
+    "appended_album_name": "Light of Salvation",
+    "catagory": "Side Story",
     "append_version": "3.7.0"
   },
   {
@@ -3147,6 +3595,8 @@
     "song_length": "2:18",
     "bpm": "175",
     "album_name": "Esoteric Order",
+    "appended_album_name": "Esoteric Order",
+    "catagory": "Side Story",
     "append_version": "3.7.0"
   },
   {
@@ -3161,6 +3611,8 @@
     "song_length": "2:29",
     "bpm": "155",
     "album_name": "Extend Archive 1",
+    "appended_album_name": "Extend Archive 1",
+    "catagory": "Arcaea",
     "append_version": "3.7.0"
   },
   {
@@ -3175,6 +3627,8 @@
     "song_length": "2:13",
     "bpm": "252",
     "album_name": "Extend Archive 1",
+    "appended_album_name": "Extend Archive 1",
+    "catagory": "Arcaea",
     "append_version": "3.7.0"
   },
   {
@@ -3189,6 +3643,8 @@
     "song_length": "2:04",
     "bpm": "170",
     "album_name": "WACCA Collaboration",
+    "appended_album_name": "WACCA Collaboration",
+    "catagory": "Collaboration",
     "append_version": "3.8.0"
   },
   {
@@ -3203,6 +3659,8 @@
     "song_length": "2:20",
     "bpm": "155",
     "album_name": "WACCA Collaboration",
+    "appended_album_name": "WACCA Collaboration",
+    "catagory": "Collaboration",
     "append_version": "3.8.0"
   },
   {
@@ -3217,6 +3675,8 @@
     "song_length": "2:27",
     "bpm": "185",
     "album_name": "WACCA Collaboration",
+    "appended_album_name": "WACCA Collaboration",
+    "catagory": "Collaboration",
     "append_version": "3.8.0"
   },
   {
@@ -3231,6 +3691,8 @@
     "song_length": "2:09",
     "bpm": "155",
     "album_name": "WACCA Collaboration",
+    "appended_album_name": "WACCA Collaboration",
+    "catagory": "Collaboration",
     "append_version": "3.8.0"
   },
   {
@@ -3245,6 +3707,8 @@
     "song_length": "2:19",
     "bpm": "250-390",
     "album_name": "WACCA Collaboration",
+    "appended_album_name": "WACCA Collaboration",
+    "catagory": "Collaboration",
     "append_version": "3.8.0"
   },
   {
@@ -3259,6 +3723,8 @@
     "song_length": "2:04",
     "bpm": "200",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "3.8.0"
   },
   {
@@ -3273,6 +3739,8 @@
     "song_length": "2:08",
     "bpm": "170",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "3.8.2"
   },
   {
@@ -3287,6 +3755,8 @@
     "song_length": "2:24",
     "bpm": "100-172",
     "album_name": "Extend Archive 1",
+    "appended_album_name": "Extend Archive 1",
+    "catagory": "Arcaea",
     "append_version": "3.8.2"
   },
   {
@@ -3301,6 +3771,8 @@
     "song_length": "2:03",
     "bpm": "160",
     "album_name": "Extend Archive 1",
+    "appended_album_name": "Extend Archive 1",
+    "catagory": "Arcaea",
     "append_version": "3.8.4"
   },
   {
@@ -3315,6 +3787,8 @@
     "song_length": "2:40",
     "bpm": "153",
     "album_name": "Extend Archive 1",
+    "appended_album_name": "Extend Archive 1",
+    "catagory": "Arcaea",
     "append_version": "3.8.6"
   },
   {
@@ -3329,6 +3803,8 @@
     "song_length": "3:04",
     "bpm": "133",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "3.8.6"
   },
   {
@@ -3343,6 +3819,8 @@
     "song_length": "3:04",
     "bpm": "139",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "3.8.6"
   },
   {
@@ -3357,6 +3835,8 @@
     "song_length": "2:12",
     "bpm": "150",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "3.8.8"
   },
   {
@@ -3371,6 +3851,8 @@
     "song_length": "2:25",
     "bpm": "110",
     "album_name": "Binary Enfold",
+    "appended_album_name": "Shared Time",
+    "catagory": "Side Story",
     "append_version": "3.9.0"
   },
   {
@@ -3385,6 +3867,8 @@
     "song_length": "2:24",
     "bpm": "145",
     "album_name": "Binary Enfold",
+    "appended_album_name": "Shared Time",
+    "catagory": "Side Story",
     "append_version": "3.9.0"
   },
   {
@@ -3399,6 +3883,8 @@
     "song_length": "2:16",
     "bpm": "153",
     "album_name": "Binary Enfold",
+    "appended_album_name": "Shared Time",
+    "catagory": "Side Story",
     "append_version": "3.9.0"
   },
   {
@@ -3413,6 +3899,8 @@
     "song_length": "2:30",
     "bpm": "160",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "3.9.0"
   },
   {
@@ -3427,6 +3915,8 @@
     "song_length": "2:40",
     "bpm": "88",
     "album_name": "Divided Heart",
+    "appended_album_name": "Divided Heart",
+    "catagory": "Side Story",
     "append_version": "3.10.0"
   },
   {
@@ -3441,6 +3931,8 @@
     "song_length": "2:36",
     "bpm": "250-295",
     "album_name": "Divided Heart",
+    "appended_album_name": "Divided Heart",
+    "catagory": "Side Story",
     "append_version": "3.10.0"
   },
   {
@@ -3455,6 +3947,8 @@
     "song_length": "2:14",
     "bpm": "148",
     "album_name": "Divided Heart",
+    "appended_album_name": "Divided Heart",
+    "catagory": "Side Story",
     "append_version": "3.10.0"
   },
   {
@@ -3469,6 +3963,8 @@
     "song_length": "2:13",
     "bpm": "190",
     "album_name": "Divided Heart",
+    "appended_album_name": "Divided Heart",
+    "catagory": "Side Story",
     "append_version": "3.10.0"
   },
   {
@@ -3483,6 +3979,8 @@
     "song_length": "2:07",
     "bpm": "190",
     "album_name": "Divided Heart",
+    "appended_album_name": "Divided Heart",
+    "catagory": "Side Story",
     "append_version": "3.10.0"
   },
   {
@@ -3497,6 +3995,8 @@
     "song_length": "1:40",
     "bpm": "180",
     "album_name": "Muse Dash Collaboration",
+    "appended_album_name": "Muse Dash Collaboration",
+    "catagory": "Collaboration",
     "append_version": "3.11.0"
   },
   {
@@ -3511,6 +4011,8 @@
     "song_length": "2:17",
     "bpm": "180",
     "album_name": "Muse Dash Collaboration",
+    "appended_album_name": "Muse Dash Collaboration",
+    "catagory": "Collaboration",
     "append_version": "3.11.0"
   },
   {
@@ -3525,6 +4027,8 @@
     "song_length": "2:32",
     "bpm": "180",
     "album_name": "Muse Dash Collaboration",
+    "appended_album_name": "Muse Dash Collaboration",
+    "catagory": "Collaboration",
     "append_version": "3.11.0"
   },
   {
@@ -3539,6 +4043,8 @@
     "song_length": "2:04",
     "bpm": "165",
     "album_name": "Muse Dash Collaboration",
+    "appended_album_name": "Muse Dash Collaboration",
+    "catagory": "Collaboration",
     "append_version": "3.11.0"
   },
   {
@@ -3553,6 +4059,8 @@
     "song_length": "2:24",
     "bpm": "180",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "3.11.2"
   },
   {
@@ -3567,6 +4075,8 @@
     "song_length": "2:45",
     "bpm": "130",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "3.12.0"
   },
   {
@@ -3581,6 +4091,8 @@
     "song_length": "1:59",
     "bpm": "175",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "3.12.0"
   },
   {
@@ -3595,6 +4107,8 @@
     "song_length": "2:32",
     "bpm": "100",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "3.12.0"
   },
   {
@@ -3609,6 +4123,8 @@
     "song_length": "2:02",
     "bpm": "163",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "3.12.0"
   },
   {
@@ -3623,6 +4139,8 @@
     "song_length": "2:32",
     "bpm": "170",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "3.12.0"
   },
   {
@@ -3637,6 +4155,8 @@
     "song_length": "2:26",
     "bpm": "170",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "3.12.0"
   },
   {
@@ -3651,6 +4171,8 @@
     "song_length": "2:32",
     "bpm": "168",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "3.12.0"
   },
   {
@@ -3665,6 +4187,8 @@
     "song_length": "2:17",
     "bpm": "122-230",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "3.12.4"
   },
   {
@@ -3679,6 +4203,8 @@
     "song_length": "1:58",
     "bpm": "138",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "3.12.4"
   },
   {
@@ -3693,6 +4219,8 @@
     "song_length": "2:25",
     "bpm": "132-165",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "3.12.4"
   },
   {
@@ -3707,6 +4235,8 @@
     "song_length": "2:56",
     "bpm": "107-109",
     "album_name": "Lanota Collaboration Chapter 2",
+    "appended_album_name": "Lanota Collaboration Chapter 2",
+    "catagory": "Collaboration",
     "append_version": "3.12.8"
   },
   {
@@ -3721,6 +4251,8 @@
     "song_length": "2:48",
     "bpm": "140",
     "album_name": "Lanota Collaboration Chapter 2",
+    "appended_album_name": "Lanota Collaboration Chapter 2",
+    "catagory": "Collaboration",
     "append_version": "3.12.8"
   },
   {
@@ -3735,6 +4267,8 @@
     "song_length": "2:34",
     "bpm": "180",
     "album_name": "Lanota Collaboration Chapter 2",
+    "appended_album_name": "Lanota Collaboration Chapter 2",
+    "catagory": "Collaboration",
     "append_version": "3.12.8"
   },
   {
@@ -3749,6 +4283,8 @@
     "song_length": "2:20",
     "bpm": "185",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "3.12.8"
   },
   {
@@ -3763,6 +4299,8 @@
     "song_length": "2:17",
     "bpm": "148",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "3.12.8"
   },
   {
@@ -3777,6 +4315,8 @@
     "song_length": "2:30",
     "bpm": "140-190",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "3.12.10"
   },
   {
@@ -3791,6 +4331,8 @@
     "song_length": "2:47",
     "bpm": "170",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "3.12.10"
   },
   {
@@ -3805,6 +4347,8 @@
     "song_length": "2:21",
     "bpm": "170",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "4.0.0"
   },
   {
@@ -3819,6 +4363,8 @@
     "song_length": "2:32",
     "bpm": "155",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "4.0.0"
   },
   {
@@ -3833,6 +4379,8 @@
     "song_length": "2:54",
     "bpm": "80",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "4.0.0"
   },
   {
@@ -3847,6 +4395,8 @@
     "song_length": "2:07",
     "bpm": "202",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "4.0.0"
   },
   {
@@ -3861,6 +4411,8 @@
     "song_length": "2:30",
     "bpm": "160",
     "album_name": "Final Verdict",
+    "appended_album_name": "Final Verdict",
+    "catagory": "Main Story",
     "append_version": "4.0.0"
   },
   {
@@ -3875,6 +4427,8 @@
     "song_length": "2:50",
     "bpm": "198",
     "album_name": "Final Verdict",
+    "appended_album_name": "Final Verdict",
+    "catagory": "Main Story",
     "append_version": "4.0.0"
   },
   {
@@ -3889,6 +4443,8 @@
     "song_length": "2:38",
     "bpm": "190-280",
     "album_name": "Final Verdict",
+    "appended_album_name": "Final Verdict",
+    "catagory": "Main Story",
     "append_version": "4.0.0"
   },
   {
@@ -3903,6 +4459,8 @@
     "song_length": "2:43",
     "bpm": "200-222",
     "album_name": "Final Verdict",
+    "appended_album_name": "Final Verdict",
+    "catagory": "Main Story",
     "append_version": "4.0.0"
   },
   {
@@ -3917,6 +4475,8 @@
     "song_length": "3:00",
     "bpm": "211",
     "album_name": "Final Verdict",
+    "appended_album_name": "Final Verdict",
+    "catagory": "Main Story",
     "append_version": "4.0.0"
   },
   {
@@ -3931,6 +4491,8 @@
     "song_length": "2:56",
     "bpm": "178",
     "album_name": "Final Verdict",
+    "appended_album_name": "Final Verdict",
+    "catagory": "Main Story",
     "append_version": "4.0.0"
   },
   {
@@ -3945,6 +4507,8 @@
     "song_length": "2:45",
     "bpm": "99",
     "album_name": "Silent Answer",
+    "appended_album_name": "Silent Answer",
+    "catagory": "Main Story",
     "append_version": "4.0.255"
   },
   {
@@ -3959,6 +4523,8 @@
     "song_length": "2:27",
     "bpm": "175",
     "album_name": "Silent Answer",
+    "appended_album_name": "Silent Answer",
+    "catagory": "Main Story",
     "append_version": "4.0.255"
   },
   {
@@ -3973,6 +4539,8 @@
     "song_length": "2:41",
     "bpm": "95",
     "album_name": "Silent Answer",
+    "appended_album_name": "Silent Answer",
+    "catagory": "Main Story",
     "append_version": "4.0.255"
   },
   {
@@ -3987,6 +4555,8 @@
     "song_length": "2:28",
     "bpm": "80",
     "album_name": "O.N.G.E.K.I. Collaboration Chapter 2",
+    "appended_album_name": "O.N.G.E.K.I. Collaboration Chapter 2",
+    "catagory": "Collaboration",
     "append_version": "4.1.0"
   },
   {
@@ -4001,6 +4571,8 @@
     "song_length": "2:17",
     "bpm": "175",
     "album_name": "O.N.G.E.K.I. Collaboration Chapter 2",
+    "appended_album_name": "O.N.G.E.K.I. Collaboration Chapter 2",
+    "catagory": "Collaboration",
     "append_version": "4.1.0"
   },
   {
@@ -4015,6 +4587,8 @@
     "song_length": "2:27",
     "bpm": "252",
     "album_name": "O.N.G.E.K.I. Collaboration Chapter 2",
+    "appended_album_name": "O.N.G.E.K.I. Collaboration Chapter 2",
+    "catagory": "Collaboration",
     "append_version": "4.1.0"
   },
   {
@@ -4029,6 +4603,8 @@
     "song_length": "2:07",
     "bpm": "185",
     "album_name": "O.N.G.E.K.I. Collaboration Chapter 2",
+    "appended_album_name": "O.N.G.E.K.I. Collaboration Chapter 2",
+    "catagory": "Collaboration",
     "append_version": "4.1.0"
   },
   {
@@ -4043,6 +4619,8 @@
     "song_length": "2:26",
     "bpm": "199",
     "album_name": "O.N.G.E.K.I. Collaboration Chapter 2",
+    "appended_album_name": "O.N.G.E.K.I. Collaboration Chapter 2",
+    "catagory": "Collaboration",
     "append_version": "4.1.0"
   },
   {
@@ -4057,6 +4635,8 @@
     "song_length": "2:33",
     "bpm": "153",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "4.1.4"
   },
   {
@@ -4071,6 +4651,8 @@
     "song_length": "2:42",
     "bpm": "144",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "4.1.4"
   },
   {
@@ -4085,6 +4667,8 @@
     "song_length": "2:19",
     "bpm": "210",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "4.1.6"
   },
   {
@@ -4099,6 +4683,8 @@
     "song_length": "2:01",
     "bpm": "130",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "4.1.6"
   },
   {
@@ -4113,6 +4699,8 @@
     "song_length": "2:10",
     "bpm": "160",
     "album_name": "Extend Archive 2",
+    "appended_album_name": "Extend Archive 2",
+    "catagory": "Arcaea",
     "append_version": "4.2.0"
   },
   {
@@ -4127,6 +4715,8 @@
     "song_length": "2:34",
     "bpm": "135",
     "album_name": "Extend Archive 2",
+    "appended_album_name": "Extend Archive 2",
+    "catagory": "Arcaea",
     "append_version": "4.2.0"
   },
   {
@@ -4141,6 +4731,8 @@
     "song_length": "2:45",
     "bpm": "200",
     "album_name": "Extend Archive 2",
+    "appended_album_name": "Extend Archive 2",
+    "catagory": "Arcaea",
     "append_version": "4.2.0"
   },
   {
@@ -4155,6 +4747,8 @@
     "song_length": "2:21",
     "bpm": "225",
     "album_name": "Extend Archive 2",
+    "appended_album_name": "Extend Archive 2",
+    "catagory": "Arcaea",
     "append_version": "4.2.0"
   },
   {
@@ -4169,6 +4763,8 @@
     "song_length": "2:25",
     "bpm": "221",
     "album_name": "Extend Archive 2",
+    "appended_album_name": "Extend Archive 2",
+    "catagory": "Arcaea",
     "append_version": "4.2.0"
   },
   {
@@ -4183,6 +4779,8 @@
     "song_length": "3:03",
     "bpm": "177",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "4.2.0"
   },
   {
@@ -4197,6 +4795,8 @@
     "song_length": "2:15",
     "bpm": "210",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "4.3.0"
   },
   {
@@ -4211,6 +4811,8 @@
     "song_length": "2:32",
     "bpm": "195",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "4.3.0"
   },
   {
@@ -4225,6 +4827,8 @@
     "song_length": "2:40",
     "bpm": "150",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "4.3.0"
   },
   {
@@ -4239,6 +4843,8 @@
     "song_length": "2:27",
     "bpm": "210",
     "album_name": "Extend Archive 2",
+    "appended_album_name": "Extend Archive 2",
+    "catagory": "Arcaea",
     "append_version": "4.3.0"
   },
   {
@@ -4253,6 +4859,8 @@
     "song_length": "2:01",
     "bpm": "135",
     "album_name": "Maimai Collaboration Chapter 2",
+    "appended_album_name": "Maimai Collaboration Chapter 2",
+    "catagory": "Collaboration",
     "append_version": "4.3.0"
   },
   {
@@ -4267,6 +4875,8 @@
     "song_length": "2:13",
     "bpm": "222",
     "album_name": "Maimai Collaboration Chapter 2",
+    "appended_album_name": "Maimai Collaboration Chapter 2",
+    "catagory": "Collaboration",
     "append_version": "4.3.0"
   },
   {
@@ -4281,6 +4891,8 @@
     "song_length": "2:25",
     "bpm": "162-180",
     "album_name": "Maimai Collaboration Chapter 2",
+    "appended_album_name": "Maimai Collaboration Chapter 2",
+    "catagory": "Collaboration",
     "append_version": "4.3.0"
   },
   {
@@ -4295,6 +4907,8 @@
     "song_length": "2:21",
     "bpm": "160",
     "album_name": "Maimai Collaboration Chapter 2",
+    "appended_album_name": "Maimai Collaboration Chapter 2",
+    "catagory": "Collaboration",
     "append_version": "4.3.0"
   },
   {
@@ -4309,6 +4923,8 @@
     "song_length": "2:44",
     "bpm": "205",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "4.3.2"
   },
   {
@@ -4323,6 +4939,8 @@
     "song_length": "2:22",
     "bpm": "129",
     "album_name": "CHUNITHM Collaboration Chapter 3",
+    "appended_album_name": "CHUNITHM Collaboration Chapter 3",
+    "catagory": "Collaboration",
     "append_version": "4.4.0"
   },
   {
@@ -4337,6 +4955,8 @@
     "song_length": "2:30",
     "bpm": "210",
     "album_name": "CHUNITHM Collaboration Chapter 3",
+    "appended_album_name": "CHUNITHM Collaboration Chapter 3",
+    "catagory": "Collaboration",
     "append_version": "4.4.0"
   },
   {
@@ -4351,6 +4971,8 @@
     "song_length": "2:04",
     "bpm": "150",
     "album_name": "CHUNITHM Collaboration Chapter 3",
+    "appended_album_name": "CHUNITHM Collaboration Chapter 3",
+    "catagory": "Collaboration",
     "append_version": "4.4.0"
   },
   {
@@ -4365,6 +4987,8 @@
     "song_length": "2:27",
     "bpm": "155",
     "album_name": "CHUNITHM Collaboration Chapter 3",
+    "appended_album_name": "CHUNITHM Collaboration Chapter 3",
+    "catagory": "Collaboration",
     "append_version": "4.4.0"
   },
   {
@@ -4379,6 +5003,8 @@
     "song_length": "2:21",
     "bpm": "180",
     "album_name": "CHUNITHM Collaboration Chapter 3",
+    "appended_album_name": "CHUNITHM Collaboration Chapter 3",
+    "catagory": "Collaboration",
     "append_version": "4.4.0"
   },
   {
@@ -4393,6 +5019,8 @@
     "song_length": "2:40",
     "bpm": "172",
     "album_name": "Extend Archive 2",
+    "appended_album_name": "Extend Archive 2",
+    "catagory": "Arcaea",
     "append_version": "4.4.4"
   },
   {
@@ -4407,6 +5035,8 @@
     "song_length": "2:04",
     "bpm": "143",
     "album_name": "Extend Archive 2",
+    "appended_album_name": "Extend Archive 2",
+    "catagory": "Arcaea",
     "append_version": "4.4.4"
   },
   {
@@ -4421,6 +5051,8 @@
     "song_length": "3:10",
     "bpm": "132",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "4.4.4"
   },
   {
@@ -4435,6 +5067,8 @@
     "song_length": "2:31",
     "bpm": "160",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "4.4.4"
   },
   {
@@ -4449,6 +5083,8 @@
     "song_length": "2:42",
     "bpm": "145",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "4.4.6"
   },
   {
@@ -4463,6 +5099,8 @@
     "song_length": "2:36",
     "bpm": "148",
     "album_name": "Extend Archive 2",
+    "appended_album_name": "Extend Archive 2",
+    "catagory": "Arcaea",
     "append_version": "4.4.6"
   },
   {
@@ -4477,6 +5115,8 @@
     "song_length": "2:48",
     "bpm": "183",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "4.4.6"
   },
   {
@@ -4491,6 +5131,8 @@
     "song_length": "2:42",
     "bpm": "158",
     "album_name": "Extend Archive 2",
+    "appended_album_name": "Extend Archive 2",
+    "catagory": "Arcaea",
     "append_version": "4.4.6"
   },
   {
@@ -4505,6 +5147,8 @@
     "song_length": "2:46",
     "bpm": "186",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "4.4.6"
   },
   {
@@ -4519,6 +5163,8 @@
     "song_length": "3:01",
     "bpm": "185",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "4.5.0"
   },
   {
@@ -4533,6 +5179,8 @@
     "song_length": "2:30",
     "bpm": "107",
     "album_name": "Cytus II Collaboration",
+    "appended_album_name": "Cytus II Collaboration",
+    "catagory": "Collaboration",
     "append_version": "4.5.0"
   },
   {
@@ -4547,6 +5195,8 @@
     "song_length": "2:06",
     "bpm": "160",
     "album_name": "Cytus II Collaboration",
+    "appended_album_name": "Cytus II Collaboration",
+    "catagory": "Collaboration",
     "append_version": "4.5.0"
   },
   {
@@ -4561,6 +5211,8 @@
     "song_length": "2:39",
     "bpm": "170-200",
     "album_name": "Cytus II Collaboration",
+    "appended_album_name": "Cytus II Collaboration",
+    "catagory": "Collaboration",
     "append_version": "4.5.0"
   },
   {
@@ -4575,6 +5227,8 @@
     "song_length": "2:49",
     "bpm": "150",
     "album_name": "Cytus II Collaboration",
+    "appended_album_name": "Cytus II Collaboration",
+    "catagory": "Collaboration",
     "append_version": "4.5.0"
   },
   {
@@ -4589,6 +5243,8 @@
     "song_length": "3:06",
     "bpm": "140",
     "album_name": "Cytus II Collaboration",
+    "appended_album_name": "Cytus II Collaboration",
+    "catagory": "Collaboration",
     "append_version": "4.5.0"
   },
   {
@@ -4603,6 +5259,8 @@
     "song_length": "2:55",
     "bpm": "200",
     "album_name": "Extend Archive 2",
+    "appended_album_name": "Extend Archive 2",
+    "catagory": "Arcaea",
     "append_version": "4.6.0"
   },
   {
@@ -4617,6 +5275,8 @@
     "song_length": "2:28",
     "bpm": "76-96",
     "album_name": "Cytus II Collaboration Chapter 2",
+    "appended_album_name": "Cytus II Collaboration Chapter 2",
+    "catagory": "Collaboration",
     "append_version": "4.6.0"
   },
   {
@@ -4631,6 +5291,8 @@
     "song_length": "1:58",
     "bpm": "155",
     "album_name": "Cytus II Collaboration Chapter 2",
+    "appended_album_name": "Cytus II Collaboration Chapter 2",
+    "catagory": "Collaboration",
     "append_version": "4.6.0"
   },
   {
@@ -4645,6 +5307,8 @@
     "song_length": "2:42",
     "bpm": "185",
     "album_name": "Cytus II Collaboration Chapter 2",
+    "appended_album_name": "Cytus II Collaboration Chapter 2",
+    "catagory": "Collaboration",
     "append_version": "4.6.0"
   },
   {
@@ -4659,6 +5323,8 @@
     "song_length": "2:44",
     "bpm": "130-150",
     "album_name": "Cytus II Collaboration Chapter 2",
+    "appended_album_name": "Cytus II Collaboration Chapter 2",
+    "catagory": "Collaboration",
     "append_version": "4.6.0"
   },
   {
@@ -4673,6 +5339,8 @@
     "song_length": "2:25",
     "bpm": "160",
     "album_name": "Cytus II Collaboration Chapter 2",
+    "appended_album_name": "Cytus II Collaboration Chapter 2",
+    "catagory": "Collaboration",
     "append_version": "4.6.0"
   },
   {
@@ -4687,6 +5355,8 @@
     "song_length": "2:14",
     "bpm": "180",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "4.7.0"
   },
   {
@@ -4701,6 +5371,8 @@
     "song_length": "2:40",
     "bpm": "163",
     "album_name": "Extend Archive 2",
+    "appended_album_name": "Extend Archive 2",
+    "catagory": "Arcaea",
     "append_version": "4.7.0"
   },
   {
@@ -4715,6 +5387,8 @@
     "song_length": "2:11",
     "bpm": "188",
     "album_name": "Lasting Eden",
+    "appended_album_name": "Lasting Eden",
+    "catagory": "Main Story Act II",
     "append_version": "4.7.0"
   },
   {
@@ -4729,6 +5403,8 @@
     "song_length": "2:31",
     "bpm": "165",
     "album_name": "Lasting Eden",
+    "appended_album_name": "Lasting Eden",
+    "catagory": "Main Story Act II",
     "append_version": "4.7.0"
   },
   {
@@ -4743,6 +5419,8 @@
     "song_length": "2:20",
     "bpm": "182-212",
     "album_name": "Lasting Eden",
+    "appended_album_name": "Lasting Eden",
+    "catagory": "Main Story Act II",
     "append_version": "4.7.0"
   },
   {
@@ -4757,6 +5435,8 @@
     "song_length": "2:35",
     "bpm": "110-165",
     "album_name": "Lasting Eden",
+    "appended_album_name": "Lasting Eden",
+    "catagory": "Main Story Act II",
     "append_version": "4.7.0"
   },
   {
@@ -4771,6 +5451,8 @@
     "song_length": "2:41",
     "bpm": "216",
     "album_name": "Lasting Eden",
+    "appended_album_name": "Lasting Eden",
+    "catagory": "Main Story Act II",
     "append_version": "4.7.0"
   },
   {
@@ -4785,6 +5467,8 @@
     "song_length": "2:33",
     "bpm": "178",
     "album_name": "Extend Archive 2",
+    "appended_album_name": "Extend Archive 2",
+    "catagory": "Arcaea",
     "append_version": "4.7.2"
   },
   {
@@ -4799,6 +5483,8 @@
     "song_length": "2:36",
     "bpm": "183",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "4.7.2"
   },
   {
@@ -4813,6 +5499,8 @@
     "song_length": "2:39",
     "bpm": "130",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "5.0.0"
   },
   {
@@ -4827,6 +5515,8 @@
     "song_length": "2:34",
     "bpm": "180",
     "album_name": "Extend Archive 2",
+    "appended_album_name": "Extend Archive 2",
+    "catagory": "Arcaea",
     "append_version": "5.0.0"
   },
   {
@@ -4841,6 +5531,8 @@
     "song_length": "2:13",
     "bpm": "105",
     "album_name": "Extend Archive 2",
+    "appended_album_name": "Extend Archive 2",
+    "catagory": "Arcaea",
     "append_version": "5.0.0"
   },
   {
@@ -4855,6 +5547,8 @@
     "song_length": "2:08",
     "bpm": "170",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "5.0.0"
   },
   {
@@ -4869,6 +5563,8 @@
     "song_length": "2:13",
     "bpm": "120",
     "album_name": "Lasting Eden Chapter 2",
+    "appended_album_name": "Lasting Eden Chapter 2",
+    "catagory": "Main Story Act II",
     "append_version": "5.0.0"
   },
   {
@@ -4883,6 +5579,8 @@
     "song_length": "2:31",
     "bpm": "175",
     "album_name": "Lasting Eden Chapter 2",
+    "appended_album_name": "Lasting Eden Chapter 2",
+    "catagory": "Main Story Act II",
     "append_version": "5.0.0"
   },
   {
@@ -4897,6 +5595,8 @@
     "song_length": "2:17",
     "bpm": "189",
     "album_name": "Lasting Eden Chapter 2",
+    "appended_album_name": "Lasting Eden Chapter 2",
+    "catagory": "Main Story Act II",
     "append_version": "5.0.0"
   },
   {
@@ -4911,6 +5611,8 @@
     "song_length": "2:35",
     "bpm": "178",
     "album_name": "Lasting Eden Chapter 2",
+    "appended_album_name": "Lasting Eden Chapter 2",
+    "catagory": "Main Story Act II",
     "append_version": "5.0.0"
   },
   {
@@ -4925,6 +5627,8 @@
     "song_length": "2:33",
     "bpm": "185",
     "album_name": "Lasting Eden Chapter 2",
+    "appended_album_name": "Lasting Eden Chapter 2",
+    "catagory": "Main Story Act II",
     "append_version": "5.0.0"
   },
   {
@@ -4939,6 +5643,8 @@
     "song_length": "2:22",
     "bpm": "170",
     "album_name": "Extend Archive 2",
+    "appended_album_name": "Extend Archive 2",
+    "catagory": "Arcaea",
     "append_version": "5.1.0"
   },
   {
@@ -4953,6 +5659,8 @@
     "song_length": "2:38",
     "bpm": "115-132",
     "album_name": "Shifting Veil",
+    "appended_album_name": "Shifting Veil",
+    "catagory": "Main Story Act II",
     "append_version": "5.1.0"
   },
   {
@@ -4967,6 +5675,8 @@
     "song_length": "2:37",
     "bpm": "200",
     "album_name": "Shifting Veil",
+    "appended_album_name": "Shifting Veil",
+    "catagory": "Main Story Act II",
     "append_version": "5.1.0"
   },
   {
@@ -4981,6 +5691,8 @@
     "song_length": "2:22",
     "bpm": "154",
     "album_name": "Shifting Veil",
+    "appended_album_name": "Shifting Veil",
+    "catagory": "Main Story Act II",
     "append_version": "5.1.0"
   },
   {
@@ -4995,6 +5707,8 @@
     "song_length": "2:05",
     "bpm": "175",
     "album_name": "WACCA Collaboration Chapter 2",
+    "appended_album_name": "WACCA Collaboration Chapter 2",
+    "catagory": "Collaboration",
     "append_version": "5.2.0"
   },
   {
@@ -5009,6 +5723,8 @@
     "song_length": "2:21",
     "bpm": "200",
     "album_name": "WACCA Collaboration Chapter 2",
+    "appended_album_name": "WACCA Collaboration Chapter 2",
+    "catagory": "Collaboration",
     "append_version": "5.2.0"
   },
   {
@@ -5023,6 +5739,8 @@
     "song_length": "2:21",
     "bpm": "205",
     "album_name": "WACCA Collaboration Chapter 2",
+    "appended_album_name": "WACCA Collaboration Chapter 2",
+    "catagory": "Collaboration",
     "append_version": "5.2.0"
   },
   {
@@ -5037,6 +5755,8 @@
     "song_length": "2:23",
     "bpm": "246",
     "album_name": "WACCA Collaboration Chapter 2",
+    "appended_album_name": "WACCA Collaboration Chapter 2",
+    "catagory": "Collaboration",
     "append_version": "5.2.0"
   },
   {
@@ -5051,6 +5771,8 @@
     "song_length": "2:29",
     "bpm": "205",
     "album_name": "WACCA Collaboration Chapter 2",
+    "appended_album_name": "WACCA Collaboration Chapter 2",
+    "catagory": "Collaboration",
     "append_version": "5.2.0"
   },
   {
@@ -5065,6 +5787,8 @@
     "song_length": "2:19",
     "bpm": "100",
     "album_name": "Extend Archive 2",
+    "appended_album_name": "Extend Archive 2",
+    "catagory": "Arcaea",
     "append_version": "5.2.0"
   },
   {
@@ -5079,6 +5803,8 @@
     "song_length": "2:39",
     "bpm": "218",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "5.2.0"
   },
   {
@@ -5093,6 +5819,8 @@
     "song_length": "2:13",
     "bpm": "200",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "5.2.2"
   },
   {
@@ -5107,6 +5835,8 @@
     "song_length": "2:50",
     "bpm": "180",
     "album_name": "Extend Archive 2",
+    "appended_album_name": "Extend Archive 2",
+    "catagory": "Arcaea",
     "append_version": "5.2.2"
   },
   {
@@ -5121,6 +5851,8 @@
     "song_length": "2:00",
     "bpm": "170",
     "album_name": "Extend Archive 2",
+    "appended_album_name": "Extend Archive 2",
+    "catagory": "Arcaea",
     "append_version": "5.2.2"
   },
   {
@@ -5135,6 +5867,8 @@
     "song_length": "2:01",
     "bpm": "190",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "5.2.2"
   },
   {
@@ -5149,6 +5883,8 @@
     "song_length": "2:40",
     "bpm": "159",
     "album_name": "Sunset Radiance",
+    "appended_album_name": "Sunset Radiance",
+    "catagory": "Side Story",
     "append_version": "5.2.6"
   },
   {
@@ -5163,6 +5899,8 @@
     "song_length": "2:23",
     "bpm": "144",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "5.3.0"
   },
   {
@@ -5177,6 +5915,8 @@
     "song_length": "1:59",
     "bpm": "174",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "5.3.0"
   },
   {
@@ -5191,6 +5931,8 @@
     "song_length": "2:47",
     "bpm": "170",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "5.4.0"
   },
   {
@@ -5205,6 +5947,8 @@
     "song_length": "2:47",
     "bpm": "190",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "5.4.0"
   },
   {
@@ -5219,6 +5963,8 @@
     "song_length": "2:12",
     "bpm": "220-254",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "5.4.0"
   },
   {
@@ -5233,6 +5979,8 @@
     "song_length": "2:20",
     "bpm": "35-400",
     "album_name": "Extend Archive 2",
+    "appended_album_name": "Extend Archive 2",
+    "catagory": "Arcaea",
     "append_version": "5.4.0"
   },
   {
@@ -5247,6 +5995,8 @@
     "song_length": "2:25",
     "bpm": "175",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "5.4.0"
   },
   {
@@ -5261,6 +6011,8 @@
     "song_length": "2:40",
     "bpm": "205",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "5.4.0"
   },
   {
@@ -5275,6 +6027,8 @@
     "song_length": "2:41",
     "bpm": "122",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "5.4.0"
   },
   {
@@ -5289,6 +6043,8 @@
     "song_length": "2:20",
     "bpm": "155",
     "album_name": "Extend Archive 3",
+    "appended_album_name": "Extend Archive 3",
+    "catagory": "Arcaea",
     "append_version": "5.5.0"
   },
   {
@@ -5303,6 +6059,8 @@
     "song_length": "2:22",
     "bpm": "145",
     "album_name": "Extend Archive 3",
+    "appended_album_name": "Extend Archive 3",
+    "catagory": "Arcaea",
     "append_version": "5.5.0"
   },
   {
@@ -5317,6 +6075,8 @@
     "song_length": "2:15",
     "bpm": "125",
     "album_name": "Extend Archive 3",
+    "appended_album_name": "Extend Archive 3",
+    "catagory": "Arcaea",
     "append_version": "5.5.0"
   },
   {
@@ -5331,6 +6091,8 @@
     "song_length": "2:22",
     "bpm": "102",
     "album_name": "Extend Archive 3",
+    "appended_album_name": "Extend Archive 3",
+    "catagory": "Arcaea",
     "append_version": "5.5.0"
   },
   {
@@ -5345,6 +6107,8 @@
     "song_length": "2:41",
     "bpm": "190",
     "album_name": "Extend Archive 3",
+    "appended_album_name": "Extend Archive 3",
+    "catagory": "Arcaea",
     "append_version": "5.5.0"
   },
   {
@@ -5359,6 +6123,8 @@
     "song_length": "2:38",
     "bpm": "180",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "5.5.0"
   },
   {
@@ -5373,6 +6139,8 @@
     "song_length": "2:38",
     "bpm": "150",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "5.5.6"
   },
   {
@@ -5387,6 +6155,8 @@
     "song_length": "2:07",
     "bpm": "150",
     "album_name": "Extend Archive 3",
+    "appended_album_name": "Extend Archive 3",
+    "catagory": "Arcaea",
     "append_version": "5.6.0"
   },
   {
@@ -5401,6 +6171,8 @@
     "song_length": "2:41",
     "bpm": "150",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "5.6.0"
   },
   {
@@ -5415,6 +6187,8 @@
     "song_length": "2:37",
     "bpm": "174",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "5.6.0"
   },
   {
@@ -5429,6 +6203,8 @@
     "song_length": "2:32",
     "bpm": "179",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "5.6.0"
   },
   {
@@ -5443,6 +6219,8 @@
     "song_length": "2:46",
     "bpm": "180-230",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "5.6.0"
   },
   {
@@ -5457,6 +6235,8 @@
     "song_length": "2:24",
     "bpm": "155",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "5.7.0"
   },
   {
@@ -5471,6 +6251,8 @@
     "song_length": "1:50",
     "bpm": "194",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "5.7.0"
   },
   {
@@ -5485,6 +6267,8 @@
     "song_length": "2:46",
     "bpm": "205",
     "album_name": "Extend Archive 3",
+    "appended_album_name": "Extend Archive 3",
+    "catagory": "Arcaea",
     "append_version": "5.7.0"
   },
   {
@@ -5499,6 +6283,8 @@
     "song_length": "2:21",
     "bpm": "188",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "5.7.0"
   },
   {
@@ -5513,6 +6299,8 @@
     "song_length": "2:35",
     "bpm": "420",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "5.7.0"
   },
   {
@@ -5527,6 +6315,8 @@
     "song_length": "2:01",
     "bpm": "150",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "5.8.0"
   },
   {
@@ -5541,6 +6331,8 @@
     "song_length": "2:14",
     "bpm": "160",
     "album_name": "Groove Coaster Chapter 2",
+    "appended_album_name": "Groove Coaster Chapter 2",
+    "catagory": "Collaboration",
     "append_version": "5.8.0"
   },
   {
@@ -5555,6 +6347,8 @@
     "song_length": "2:09",
     "bpm": "128-185",
     "album_name": "Groove Coaster Chapter 2",
+    "appended_album_name": "Groove Coaster Chapter 2",
+    "catagory": "Collaboration",
     "append_version": "5.8.0"
   },
   {
@@ -5569,6 +6363,8 @@
     "song_length": "2:13",
     "bpm": "192",
     "album_name": "Groove Coaster Chapter 2",
+    "appended_album_name": "Groove Coaster Chapter 2",
+    "catagory": "Collaboration",
     "append_version": "5.8.0"
   },
   {
@@ -5583,6 +6379,8 @@
     "song_length": "2:38",
     "bpm": "155",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "5.8.0"
   },
   {
@@ -5597,6 +6395,8 @@
     "song_length": "2:29",
     "bpm": "200",
     "album_name": "Extend Archive 3",
+    "appended_album_name": "Extend Archive 3",
+    "catagory": "Arcaea",
     "append_version": "5.9.0"
   },
   {
@@ -5611,6 +6411,8 @@
     "song_length": "2:02",
     "bpm": "180",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "5.9.0"
   },
   {
@@ -5625,6 +6427,8 @@
     "song_length": "2:33",
     "bpm": "165",
     "album_name": "Absolute Nihil",
+    "appended_album_name": "Absolute Nihil",
+    "catagory": "Main Story Act II",
     "append_version": "5.9.0"
   },
   {
@@ -5639,6 +6443,8 @@
     "song_length": "2:33",
     "bpm": "160",
     "album_name": "Absolute Nihil",
+    "appended_album_name": "Absolute Nihil",
+    "catagory": "Main Story Act II",
     "append_version": "5.9.0"
   },
   {
@@ -5653,6 +6459,8 @@
     "song_length": "2:28",
     "bpm": "172",
     "album_name": "Absolute Nihil",
+    "appended_album_name": "Absolute Nihil",
+    "catagory": "Main Story Act II",
     "append_version": "5.9.0"
   },
   {
@@ -5667,6 +6475,8 @@
     "song_length": "2:52",
     "bpm": "200",
     "album_name": "Absolute Nihil",
+    "appended_album_name": "Absolute Nihil",
+    "catagory": "Main Story Act II",
     "append_version": "5.9.0"
   },
   {
@@ -5681,6 +6491,8 @@
     "song_length": "2:40",
     "bpm": "195",
     "album_name": "Absolute Nihil",
+    "appended_album_name": "Absolute Nihil",
+    "catagory": "Main Story Act II",
     "append_version": "5.9.0"
   },
   {
@@ -5695,6 +6507,8 @@
     "song_length": "2:49",
     "bpm": "183",
     "album_name": "Extend Archive 3",
+    "appended_album_name": "Extend Archive 3",
+    "catagory": "Arcaea",
     "append_version": "5.10.0"
   },
   {
@@ -5709,6 +6523,8 @@
     "song_length": "2:11",
     "bpm": "220",
     "album_name": "Rotaeno Collaboration",
+    "appended_album_name": "Rotaeno Collaboration",
+    "catagory": "Collaboration",
     "append_version": "5.10.0"
   },
   {
@@ -5723,6 +6539,8 @@
     "song_length": "2:21",
     "bpm": "222",
     "album_name": "Rotaeno Collaboration",
+    "appended_album_name": "Rotaeno Collaboration",
+    "catagory": "Collaboration",
     "append_version": "5.10.0"
   },
   {
@@ -5737,6 +6555,8 @@
     "song_length": "2:13",
     "bpm": "180",
     "album_name": "Rotaeno Collaboration",
+    "appended_album_name": "Rotaeno Collaboration",
+    "catagory": "Collaboration",
     "append_version": "5.10.0"
   },
   {
@@ -5751,6 +6571,8 @@
     "song_length": "2:50",
     "bpm": "175",
     "album_name": "Rotaeno Collaboration",
+    "appended_album_name": "Rotaeno Collaboration",
+    "catagory": "Collaboration",
     "append_version": "5.10.0"
   },
   {
@@ -5765,6 +6587,8 @@
     "song_length": "2:43",
     "bpm": "212",
     "album_name": "Rotaeno Collaboration",
+    "appended_album_name": "Rotaeno Collaboration",
+    "catagory": "Collaboration",
     "append_version": "5.10.0"
   },
   {
@@ -5779,6 +6603,8 @@
     "song_length": "2:30",
     "bpm": "195",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "5.10.2"
   },
   {
@@ -5793,6 +6619,8 @@
     "song_length": "2:27",
     "bpm": "164",
     "album_name": "Adverse Prelude",
+    "appended_album_name": "Adverse Prelude",
+    "catagory": "Main Story",
     "append_version": "5.10.4"
   },
   {
@@ -5807,6 +6635,8 @@
     "song_length": "2:09",
     "bpm": "180",
     "album_name": "Extend Archive 3",
+    "appended_album_name": "Extend Archive 3",
+    "catagory": "Arcaea",
     "append_version": "5.10.4"
   },
   {
@@ -5821,6 +6651,8 @@
     "song_length": "2:01",
     "bpm": "155",
     "album_name": "Extend Archive 3",
+    "appended_album_name": "Extend Archive 3",
+    "catagory": "Arcaea",
     "append_version": "5.10.4"
   },
   {
@@ -5835,6 +6667,8 @@
     "song_length": "2:32",
     "bpm": "230",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "5.10.4"
   },
   {
@@ -5849,6 +6683,8 @@
     "song_length": "2:31",
     "bpm": "132",
     "album_name": "Extend Archive 3",
+    "appended_album_name": "Extend Archive 3",
+    "catagory": "Arcaea",
     "append_version": "5.10.6"
   },
   {
@@ -5863,6 +6699,8 @@
     "song_length": "2:44",
     "bpm": "145",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "5.10.6"
   },
   {
@@ -5877,6 +6715,8 @@
     "song_length": "2:38",
     "bpm": "75-225",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "5.10.6"
   },
   {
@@ -5891,6 +6731,8 @@
     "song_length": "2:29",
     "bpm": "180",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "5.10.6"
   },
   {
@@ -5905,6 +6747,8 @@
     "song_length": "2:33",
     "bpm": "172",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "5.10.6"
   },
   {
@@ -5919,6 +6763,8 @@
     "song_length": "2:36",
     "bpm": "174",
     "album_name": "Extend Archive 3",
+    "appended_album_name": "Extend Archive 3",
+    "catagory": "Arcaea",
     "append_version": "6.0.0"
   },
   {
@@ -5933,6 +6779,8 @@
     "song_length": "2:15",
     "bpm": "137",
     "album_name": "O.N.G.E.K.I. Collaboration Chapter 3",
+    "appended_album_name": "O.N.G.E.K.I. Collaboration Chapter 3",
+    "catagory": "Collaboration",
     "append_version": "6.0.0"
   },
   {
@@ -5947,6 +6795,8 @@
     "song_length": "2:31",
     "bpm": "200",
     "album_name": "O.N.G.E.K.I. Collaboration Chapter 3",
+    "appended_album_name": "O.N.G.E.K.I. Collaboration Chapter 3",
+    "catagory": "Collaboration",
     "append_version": "6.0.0"
   },
   {
@@ -5961,6 +6811,8 @@
     "song_length": "2:39",
     "bpm": "190-200",
     "album_name": "O.N.G.E.K.I. Collaboration Chapter 3",
+    "appended_album_name": "O.N.G.E.K.I. Collaboration Chapter 3",
+    "catagory": "Collaboration",
     "append_version": "6.0.0"
   },
   {
@@ -5975,6 +6827,8 @@
     "song_length": "2:49",
     "bpm": "210-220",
     "album_name": "O.N.G.E.K.I. Collaboration Chapter 3",
+    "appended_album_name": "O.N.G.E.K.I. Collaboration Chapter 3",
+    "catagory": "Collaboration",
     "append_version": "6.0.0"
   },
   {
@@ -5989,6 +6843,8 @@
     "song_length": "2:42",
     "bpm": "148",
     "album_name": "Lucent Historia",
+    "appended_album_name": "Lucent Historia",
+    "catagory": "Main Story Act II",
     "append_version": "6.0.0"
   },
   {
@@ -6003,6 +6859,8 @@
     "song_length": "2:25",
     "bpm": "186",
     "album_name": "Lucent Historia",
+    "appended_album_name": "Lucent Historia",
+    "catagory": "Main Story Act II",
     "append_version": "6.0.0"
   },
   {
@@ -6017,6 +6875,8 @@
     "song_length": "2:11",
     "bpm": "200",
     "album_name": "Lucent Historia",
+    "appended_album_name": "Lucent Historia",
+    "catagory": "Main Story Act II",
     "append_version": "6.0.0"
   },
   {
@@ -6031,6 +6891,8 @@
     "song_length": "2:38",
     "bpm": "172",
     "album_name": "Lucent Historia",
+    "appended_album_name": "Lucent Historia",
+    "catagory": "Main Story Act II",
     "append_version": "6.0.0"
   },
   {
@@ -6045,6 +6907,8 @@
     "song_length": "2:45",
     "bpm": "200",
     "album_name": "Lucent Historia",
+    "appended_album_name": "Lucent Historia",
+    "catagory": "Main Story Act II",
     "append_version": "6.0.0"
   },
   {
@@ -6059,6 +6923,8 @@
     "song_length": "2:58",
     "bpm": "200",
     "album_name": "Lucent Historia",
+    "appended_album_name": "Lucent Historia",
+    "catagory": "Main Story Act II",
     "append_version": "6.0.0"
   },
   {
@@ -6073,6 +6939,8 @@
     "song_length": "2:35",
     "bpm": "185",
     "album_name": "Lucent Historia",
+    "appended_album_name": "Lucent Historia",
+    "catagory": "Main Story Act II",
     "append_version": "6.0.0"
   },
   {
@@ -6087,6 +6955,8 @@
     "song_length": "2:17",
     "bpm": "160",
     "album_name": "CHUNITHM Collaboration Chapter 4",
+    "appended_album_name": "CHUNITHM Collaboration Chapter 4",
+    "catagory": "Collaboration",
     "append_version": "6.1.0"
   },
   {
@@ -6101,6 +6971,8 @@
     "song_length": "2:20",
     "bpm": "150",
     "album_name": "CHUNITHM Collaboration Chapter 4",
+    "appended_album_name": "CHUNITHM Collaboration Chapter 4",
+    "catagory": "Collaboration",
     "append_version": "6.1.0"
   },
   {
@@ -6115,6 +6987,8 @@
     "song_length": "2:29",
     "bpm": "168",
     "album_name": "CHUNITHM Collaboration Chapter 4",
+    "appended_album_name": "CHUNITHM Collaboration Chapter 4",
+    "catagory": "Collaboration",
     "append_version": "6.1.0"
   },
   {
@@ -6129,6 +7003,8 @@
     "song_length": "2:42",
     "bpm": "222",
     "album_name": "CHUNITHM Collaboration Chapter 4",
+    "appended_album_name": "CHUNITHM Collaboration Chapter 4",
+    "catagory": "Collaboration",
     "append_version": "6.1.0"
   },
   {
@@ -6143,6 +7019,8 @@
     "song_length": "2:30",
     "bpm": "165",
     "album_name": "Maimai Collaboration Chapter 3",
+    "appended_album_name": "Maimai Collaboration Chapter 3",
+    "catagory": "Collaboration",
     "append_version": "6.2.0"
   },
   {
@@ -6157,6 +7035,8 @@
     "song_length": "2:30",
     "bpm": "90",
     "album_name": "Maimai Collaboration Chapter 3",
+    "appended_album_name": "Maimai Collaboration Chapter 3",
+    "catagory": "Collaboration",
     "append_version": "6.2.0"
   },
   {
@@ -6171,6 +7051,8 @@
     "song_length": "2:25",
     "bpm": "225",
     "album_name": "Maimai Collaboration Chapter 3",
+    "appended_album_name": "Maimai Collaboration Chapter 3",
+    "catagory": "Collaboration",
     "append_version": "6.2.0"
   },
   {
@@ -6185,6 +7067,8 @@
     "song_length": "2:27",
     "bpm": "188",
     "album_name": "Maimai Collaboration Chapter 3",
+    "appended_album_name": "Maimai Collaboration Chapter 3",
+    "catagory": "Collaboration",
     "append_version": "6.2.0"
   },
   {
@@ -6199,6 +7083,8 @@
     "song_length": "2:45",
     "bpm": "180",
     "album_name": "CHUNITHM Collaboration Chapter 4",
+    "appended_album_name": "CHUNITHM Collaboration Chapter 4",
+    "catagory": "Collaboration",
     "append_version": "6.2.6"
   },
   {
@@ -6213,6 +7099,8 @@
     "song_length": "1:58",
     "bpm": "239",
     "album_name": "UNDERTALE Collaboration",
+    "appended_album_name": "UNDERTALE Collaboration",
+    "catagory": "Variety",
     "append_version": "6.3.0"
   },
   {
@@ -6227,6 +7115,8 @@
     "song_length": "2:17",
     "bpm": "148",
     "album_name": "UNDERTALE Collaboration",
+    "appended_album_name": "UNDERTALE Collaboration",
+    "catagory": "Variety",
     "append_version": "6.3.0"
   },
   {
@@ -6241,6 +7131,8 @@
     "song_length": "2:55",
     "bpm": "190",
     "album_name": "UNDERTALE Collaboration",
+    "appended_album_name": "UNDERTALE Collaboration",
+    "catagory": "Variety",
     "append_version": "6.3.0"
   },
   {
@@ -6255,6 +7147,8 @@
     "song_length": "2:18",
     "bpm": "180",
     "album_name": "UNDERTALE Collaboration",
+    "appended_album_name": "UNDERTALE Collaboration",
+    "catagory": "Variety",
     "append_version": "6.3.0"
   },
   {
@@ -6269,6 +7163,8 @@
     "song_length": "2:36",
     "bpm": "240",
     "album_name": "UNDERTALE Collaboration",
+    "appended_album_name": "UNDERTALE Collaboration",
+    "catagory": "Variety",
     "append_version": "6.3.0"
   },
   {
@@ -6283,6 +7179,8 @@
     "song_length": "2:46",
     "bpm": "242",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "6.3.0"
   },
   {
@@ -6297,6 +7195,8 @@
     "song_length": "2:38",
     "bpm": "270",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "6.3.0"
   },
   {
@@ -6311,6 +7211,8 @@
     "song_length": "2:31",
     "bpm": "130",
     "album_name": "Extend Archive 3",
+    "appended_album_name": "Extend Archive 3",
+    "catagory": "Arcaea",
     "append_version": "6.3.2"
   },
   {
@@ -6325,6 +7227,8 @@
     "song_length": "2:23",
     "bpm": "199",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "6.3.2"
   },
   {
@@ -6339,6 +7243,8 @@
     "song_length": "2:04",
     "bpm": "150",
     "album_name": "Extend Archive 3",
+    "appended_album_name": "Extend Archive 3",
+    "catagory": "Arcaea",
     "append_version": "6.3.2"
   },
   {
@@ -6353,6 +7259,8 @@
     "song_length": "2:23",
     "bpm": "155",
     "album_name": "Extend Archive 3",
+    "appended_album_name": "Extend Archive 3",
+    "catagory": "Arcaea",
     "append_version": "6.4.0"
   },
   {
@@ -6367,6 +7275,8 @@
     "song_length": "2:15",
     "bpm": "128-160",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "6.4.0"
   },
   {
@@ -6381,6 +7291,8 @@
     "song_length": "2:14",
     "bpm": "165",
     "album_name": "Extend Archive 3",
+    "appended_album_name": "Extend Archive 3",
+    "catagory": "Arcaea",
     "append_version": "6.5.0"
   },
   {
@@ -6395,6 +7307,8 @@
     "song_length": "2:08",
     "bpm": "175",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "6.5.0"
   },
   {
@@ -6409,6 +7323,8 @@
     "song_length": "2:06",
     "bpm": "136",
     "album_name": "DJMAX Collaboration",
+    "appended_album_name": "DJMAX Collaboration",
+    "catagory": "Collaboration",
     "append_version": "6.5.0"
   },
   {
@@ -6423,6 +7339,8 @@
     "song_length": "1:52",
     "bpm": "155",
     "album_name": "DJMAX Collaboration",
+    "appended_album_name": "DJMAX Collaboration",
+    "catagory": "Collaboration",
     "append_version": "6.5.0"
   },
   {
@@ -6437,6 +7355,8 @@
     "song_length": "2:05",
     "bpm": "129",
     "album_name": "DJMAX Collaboration",
+    "appended_album_name": "DJMAX Collaboration",
+    "catagory": "Collaboration",
     "append_version": "6.5.0"
   },
   {
@@ -6451,6 +7371,8 @@
     "song_length": "2:00",
     "bpm": "141",
     "album_name": "DJMAX Collaboration",
+    "appended_album_name": "DJMAX Collaboration",
+    "catagory": "Collaboration",
     "append_version": "6.5.0"
   },
   {
@@ -6465,6 +7387,8 @@
     "song_length": "2:05",
     "bpm": "190",
     "album_name": "DJMAX Collaboration",
+    "appended_album_name": "DJMAX Collaboration",
+    "catagory": "Collaboration",
     "append_version": "6.5.0"
   },
   {
@@ -6479,6 +7403,8 @@
     "song_length": "2:14",
     "bpm": "126",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "6.5.0"
   },
   {
@@ -6493,6 +7419,8 @@
     "song_length": "2:29",
     "bpm": "180",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "6.6.0"
   },
   {
@@ -6507,6 +7435,8 @@
     "song_length": "2:02",
     "bpm": "136",
     "album_name": "Extend Archive 3",
+    "appended_album_name": "Extend Archive 3",
+    "catagory": "Arcaea",
     "append_version": "6.6.0"
   },
   {
@@ -6521,6 +7451,8 @@
     "song_length": "2:08",
     "bpm": "130",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "6.6.0"
   },
   {
@@ -6535,6 +7467,8 @@
     "song_length": "1:47",
     "bpm": "140",
     "album_name": "DJMAX Collaboration Chapter 2",
+    "appended_album_name": "DJMAX Collaboration Chapter 2",
+    "catagory": "Collaboration",
     "append_version": "6.6.0"
   },
   {
@@ -6549,6 +7483,8 @@
     "song_length": "2:07",
     "bpm": "135",
     "album_name": "DJMAX Collaboration Chapter 2",
+    "appended_album_name": "DJMAX Collaboration Chapter 2",
+    "catagory": "Collaboration",
     "append_version": "6.6.0"
   },
   {
@@ -6563,6 +7499,8 @@
     "song_length": "2:15",
     "bpm": "140",
     "album_name": "DJMAX Collaboration Chapter 2",
+    "appended_album_name": "DJMAX Collaboration Chapter 2",
+    "catagory": "Collaboration",
     "append_version": "6.6.0"
   },
   {
@@ -6577,6 +7515,8 @@
     "song_length": "2:16",
     "bpm": "180",
     "album_name": "DJMAX Collaboration Chapter 2",
+    "appended_album_name": "DJMAX Collaboration Chapter 2",
+    "catagory": "Collaboration",
     "append_version": "6.6.0"
   },
   {
@@ -6591,6 +7531,8 @@
     "song_length": "2:16",
     "bpm": "180",
     "album_name": "DJMAX Collaboration Chapter 2",
+    "appended_album_name": "DJMAX Collaboration Chapter 2",
+    "catagory": "Collaboration",
     "append_version": "6.6.0"
   },
   {
@@ -6605,6 +7547,8 @@
     "song_length": "2:04",
     "bpm": "86",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "6.7.0"
   },
   {
@@ -6619,6 +7563,8 @@
     "song_length": "2:24",
     "bpm": "136",
     "album_name": "Extant Anima",
+    "appended_album_name": "Extant Anima",
+    "catagory": "Side Story",
     "append_version": "6.7.0"
   },
   {
@@ -6633,6 +7579,8 @@
     "song_length": "2:26",
     "bpm": "108-184",
     "album_name": "Extant Anima",
+    "appended_album_name": "Extant Anima",
+    "catagory": "Side Story",
     "append_version": "6.7.0"
   },
   {
@@ -6647,6 +7595,8 @@
     "song_length": "2:30",
     "bpm": "155",
     "album_name": "Extant Anima",
+    "appended_album_name": "Extant Anima",
+    "catagory": "Side Story",
     "append_version": "6.7.0"
   },
   {
@@ -6661,6 +7611,8 @@
     "song_length": "2:40",
     "bpm": "235",
     "album_name": "Extant Anima",
+    "appended_album_name": "Extant Anima",
+    "catagory": "Side Story",
     "append_version": "6.7.0"
   },
   {
@@ -6675,6 +7627,8 @@
     "song_length": "2:39",
     "bpm": "180-300",
     "album_name": "Extant Anima",
+    "appended_album_name": "Extant Anima",
+    "catagory": "Side Story",
     "append_version": "6.7.0"
   },
   {
@@ -6689,6 +7643,8 @@
     "song_length": "2:13",
     "bpm": "135",
     "album_name": "Extend Archive 3",
+    "appended_album_name": "Extend Archive 3",
+    "catagory": "Arcaea",
     "append_version": "6.8.0"
   },
   {
@@ -6703,6 +7659,8 @@
     "song_length": "2:25",
     "bpm": "168",
     "album_name": "Extant Anima",
+    "appended_album_name": "Chapter Experientia",
+    "catagory": "Side Story",
     "append_version": "6.8.0"
   },
   {
@@ -6717,6 +7675,8 @@
     "song_length": "2:24",
     "bpm": "208",
     "album_name": "Extant Anima",
+    "appended_album_name": "Chapter Experientia",
+    "catagory": "Side Story",
     "append_version": "6.8.0"
   },
   {
@@ -6731,6 +7691,8 @@
     "song_length": "2:23",
     "bpm": "480",
     "album_name": "Extant Anima",
+    "appended_album_name": "Chapter Experientia",
+    "catagory": "Side Story",
     "append_version": "6.8.0"
   },
   {
@@ -6745,6 +7707,8 @@
     "song_length": "2:36",
     "bpm": "110-305",
     "album_name": "Extant Anima",
+    "appended_album_name": "Chapter Experientia",
+    "catagory": "Side Story",
     "append_version": "6.8.0"
   },
   {
@@ -6759,6 +7723,8 @@
     "song_length": "2:23",
     "bpm": "199",
     "album_name": "Extant Anima",
+    "appended_album_name": "Chapter Experientia",
+    "catagory": "Side Story",
     "append_version": "6.8.0"
   },
   {
@@ -6773,6 +7739,8 @@
     "song_length": "2:31",
     "bpm": "175-145",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "6.8.2"
   },
   {
@@ -6787,6 +7755,8 @@
     "song_length": "2:40",
     "bpm": "170",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "6.8.4"
   },
   {
@@ -6801,6 +7771,8 @@
     "song_length": "2:20",
     "bpm": "135",
     "album_name": "Extend Archive 3",
+    "appended_album_name": "Extend Archive 3",
+    "catagory": "Arcaea",
     "append_version": "6.9.0"
   },
   {
@@ -6815,6 +7787,8 @@
     "song_length": "2:35",
     "bpm": "162",
     "album_name": "Liminal Eclipse",
+    "appended_album_name": "Liminal Eclipse",
+    "catagory": "Main Story Act II",
     "append_version": "6.9.0"
   },
   {
@@ -6829,6 +7803,8 @@
     "song_length": "2:35",
     "bpm": "180",
     "album_name": "Liminal Eclipse",
+    "appended_album_name": "Liminal Eclipse",
+    "catagory": "Main Story Act II",
     "append_version": "6.9.0"
   },
   {
@@ -6843,6 +7819,8 @@
     "song_length": "2:13",
     "bpm": "153",
     "album_name": "Liminal Eclipse",
+    "appended_album_name": "Liminal Eclipse",
+    "catagory": "Main Story Act II",
     "append_version": "6.9.0"
   },
   {
@@ -6857,6 +7835,8 @@
     "song_length": "2:35",
     "bpm": "148",
     "album_name": "Liminal Eclipse",
+    "appended_album_name": "Liminal Eclipse",
+    "catagory": "Main Story Act II",
     "append_version": "6.9.0"
   },
   {
@@ -6871,6 +7851,8 @@
     "song_length": "2:44",
     "bpm": "63",
     "album_name": "Liminal Eclipse",
+    "appended_album_name": "Liminal Eclipse",
+    "catagory": "Main Story Act II",
     "append_version": "6.9.0"
   },
   {
@@ -6885,6 +7867,8 @@
     "song_length": "2:23",
     "bpm": "168",
     "album_name": "World Extend 4",
+    "appended_album_name": "World Extend 4",
+    "catagory": "Arcaea",
     "append_version": "6.10.0"
   },
   {
@@ -6899,6 +7883,8 @@
     "song_length": "2:34",
     "bpm": "128",
     "album_name": "World Extend 4",
+    "appended_album_name": "World Extend 4",
+    "catagory": "Arcaea",
     "append_version": "6.10.0"
   },
   {
@@ -6913,6 +7899,8 @@
     "song_length": "2:25",
     "bpm": "152",
     "album_name": "World Extend 4",
+    "appended_album_name": "World Extend 4",
+    "catagory": "Arcaea",
     "append_version": "6.10.0"
   },
   {
@@ -6927,6 +7915,8 @@
     "song_length": "2:16",
     "bpm": "142",
     "album_name": "World Extend 4",
+    "appended_album_name": "World Extend 4",
+    "catagory": "Arcaea",
     "append_version": "6.10.0"
   },
   {
@@ -6941,6 +7931,8 @@
     "song_length": "2:25",
     "bpm": "165",
     "album_name": "World Extend 4",
+    "appended_album_name": "World Extend 4",
+    "catagory": "Arcaea",
     "append_version": "6.10.0"
   },
   {
@@ -6955,6 +7947,8 @@
     "song_length": "2:39",
     "bpm": "196",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "6.10.0"
   },
   {
@@ -6969,6 +7963,8 @@
     "song_length": "2:48",
     "bpm": "128-256",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "6.10.0"
   },
   {
@@ -6983,6 +7979,8 @@
     "song_length": "2:48",
     "bpm": "155",
     "album_name": "Arcaea Next Stage",
+    "appended_album_name": "Arcaea Next Stage",
+    "catagory": "Variety",
     "append_version": "6.10.8"
   },
   {
@@ -6997,6 +7995,8 @@
     "song_length": "2:46",
     "bpm": "195",
     "album_name": "Arcaea Next Stage",
+    "appended_album_name": "Arcaea Next Stage",
+    "catagory": "Variety",
     "append_version": "6.10.8"
   },
   {
@@ -7011,6 +8011,8 @@
     "song_length": "3:01",
     "bpm": "234",
     "album_name": "Arcaea Next Stage",
+    "appended_album_name": "Arcaea Next Stage",
+    "catagory": "Variety",
     "append_version": "6.10.8"
   },
   {
@@ -7025,6 +8027,8 @@
     "song_length": "2:23",
     "bpm": "200",
     "album_name": "Arcaea Next Stage",
+    "appended_album_name": "Arcaea Next Stage",
+    "catagory": "Variety",
     "append_version": "6.10.8"
   },
   {
@@ -7039,6 +8043,8 @@
     "song_length": "2:36",
     "bpm": "200",
     "album_name": "Arcaea Next Stage",
+    "appended_album_name": "Arcaea Next Stage",
+    "catagory": "Variety",
     "append_version": "6.10.8"
   },
   {
@@ -7053,6 +8059,8 @@
     "song_length": "2:38",
     "bpm": "180",
     "album_name": "Arcaea Next Stage",
+    "appended_album_name": "Arcaea Next Stage",
+    "catagory": "Variety",
     "append_version": "6.10.8"
   },
   {
@@ -7067,6 +8075,8 @@
     "song_length": "2:20",
     "bpm": "180",
     "album_name": "World Extend 4",
+    "appended_album_name": "World Extend 4",
+    "catagory": "Arcaea",
     "append_version": "6.11.0"
   },
   {
@@ -7081,6 +8091,8 @@
     "song_length": "2:48",
     "bpm": "168",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "6.11.0"
   },
   {
@@ -7095,6 +8107,8 @@
     "song_length": "2:22",
     "bpm": "110",
     "album_name": "World Extend 4",
+    "appended_album_name": "World Extend 4",
+    "catagory": "Arcaea",
     "append_version": "6.11.2"
   },
   {
@@ -7109,6 +8123,8 @@
     "song_length": "2:40",
     "bpm": "213.5",
     "album_name": "World Extend 4",
+    "appended_album_name": "World Extend 4",
+    "catagory": "Arcaea",
     "append_version": "6.11.2"
   },
   {
@@ -7123,6 +8139,8 @@
     "song_length": "2:38",
     "bpm": "180",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "6.11.2"
   },
   {
@@ -7137,6 +8155,8 @@
     "song_length": "2:27",
     "bpm": "120",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "6.11.6"
   },
   {
@@ -7151,6 +8171,8 @@
     "song_length": "2:39",
     "bpm": "161",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "6.11.8"
   },
   {
@@ -7165,6 +8187,8 @@
     "song_length": "2:22",
     "bpm": "133",
     "album_name": "World Extend 4",
+    "appended_album_name": "World Extend 4",
+    "catagory": "Arcaea",
     "append_version": "6.12.0"
   },
   {
@@ -7179,6 +8203,8 @@
     "song_length": "2:31",
     "bpm": "172",
     "album_name": "MEGAREX Collaboration",
+    "appended_album_name": "MEGAREX Collaboration",
+    "catagory": "Collaboration",
     "append_version": "6.12.0"
   },
   {
@@ -7193,6 +8219,8 @@
     "song_length": "2:26",
     "bpm": "123",
     "album_name": "MEGAREX Collaboration",
+    "appended_album_name": "MEGAREX Collaboration",
+    "catagory": "Collaboration",
     "append_version": "6.12.0"
   },
   {
@@ -7207,6 +8235,8 @@
     "song_length": "2:48",
     "bpm": "144-168",
     "album_name": "MEGAREX Collaboration",
+    "appended_album_name": "MEGAREX Collaboration",
+    "catagory": "Collaboration",
     "append_version": "6.12.0"
   },
   {
@@ -7221,6 +8251,8 @@
     "song_length": "2:36",
     "bpm": "156",
     "album_name": "MEGAREX Collaboration",
+    "appended_album_name": "MEGAREX Collaboration",
+    "catagory": "Collaboration",
     "append_version": "6.12.0"
   },
   {
@@ -7235,6 +8267,8 @@
     "song_length": "2:45",
     "bpm": "175",
     "album_name": "MEGAREX Collaboration",
+    "appended_album_name": "MEGAREX Collaboration",
+    "catagory": "Collaboration",
     "append_version": "6.12.0"
   },
   {
@@ -7249,6 +8283,8 @@
     "song_length": "2:25",
     "bpm": "180",
     "album_name": "Arcaea",
+    "appended_album_name": "Arcaea",
+    "catagory": "Arcaea",
     "append_version": "6.12.10"
   },
   {
@@ -7263,6 +8299,8 @@
     "song_length": "2:43",
     "bpm": "192",
     "album_name": "World Extend 4",
+    "appended_album_name": "World Extend 4",
+    "catagory": "Arcaea",
     "append_version": "6.12.10"
   },
   {
@@ -7277,6 +8315,8 @@
     "song_length": "2:25",
     "bpm": "145",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "6.12.10"
   },
   {
@@ -7291,6 +8331,8 @@
     "song_length": "???",
     "bpm": "130",
     "album_name": "World Extend 4",
+    "appended_album_name": "World Extend 4",
+    "catagory": "Arcaea",
     "append_version": "6.13.0"
   },
   {
@@ -7305,6 +8347,8 @@
     "song_length": "???",
     "bpm": "180",
     "album_name": "World Extend 4",
+    "appended_album_name": "World Extend 4",
+    "catagory": "Arcaea",
     "append_version": "6.13.0"
   },
   {
@@ -7319,6 +8363,8 @@
     "song_length": "2:00",
     "bpm": "222",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "6.13.0"
   },
   {
@@ -7333,6 +8379,8 @@
     "song_length": "2:20",
     "bpm": "145",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "6.13.0"
   },
   {
@@ -7347,6 +8395,8 @@
     "song_length": "???",
     "bpm": "216",
     "album_name": "Memory Archive",
+    "appended_album_name": "Memory Archive",
+    "catagory": "Arcaea",
     "append_version": "6.13.0"
   }
 ]

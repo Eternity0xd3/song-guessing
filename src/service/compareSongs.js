@@ -17,6 +17,7 @@ export function compareSongs(selectedSong, targetedSong) {
   const isCorrect = selectedSong.id === targetedSong.id;
   const isSameArtist = selectedSong.artist_name === targetedSong.artist_name;
   const isSameAlbum = selectedSong.album_name === targetedSong.album_name;
+  const isSameCatagory = selectedSong.catagory === targetedSong.catagory;
   console.log(isCorrect, isSameArtist, isSameAlbum);
 
   // handle the BPM feedback
@@ -167,6 +168,7 @@ export function compareSongs(selectedSong, targetedSong) {
     isCorrect: isCorrect,
     isSameArtist: isSameArtist,
     isSameAlbum: isSameAlbum,
+    isSameCatagory: isSameCatagory,
     bpmDirection: bpmDirection,
     futureDirection: futureDirection,
     eternalDirection: eternalDirection,

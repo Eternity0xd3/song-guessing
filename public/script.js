@@ -121,6 +121,7 @@ function generateGuessCard(attempt) {
     <div class="properties">
       ${generatePropertyDiv("曲师", eachSong.artist_name, eachResult.isSameArtist, eachResult.isCorrect)}
       ${generatePropertyDiv("曲包", eachSong.album_name, eachResult.isSameAlbum, eachResult.isCorrect)}
+      ${generatePropertyDiv("曲包分类", eachSong.catagory, eachResult.isSameCatagory, eachResult.isCorrect)}
       ${generatePropertyDiv("BPM", eachSong.bpm, eachResult.bpmDirection, eachResult.isCorrect)}
       ${generatePropertyDiv("Future", eachSong.future_level, eachResult.futureDirection, eachResult.isCorrect)}
       ${generatePropertyDiv("Eternal", eachSong.eternal_level, eachResult.eternalDirection, eachResult.isCorrect)}
