@@ -4,7 +4,7 @@ import {
   searchSong,
   getAllSongs,
 } from "../service/songServices.js";
-import { getDailySong } from "../service/getDailySong.js";
+import { getDailySong, getRandomSong } from "../service/getSong.js";
 import { compareSongs } from "../service/compareSongs.js";
 
 const router = Router();
@@ -14,6 +14,10 @@ router.get('/song-list', (req, res) => {
 });
 
 router.get('/random-song', (req, res) => {
+    return res.json(getRandomSong());
+});
+
+router.get('/daily-song', (req, res) => {
     return res.json(getDailySong());
 });
 
@@ -37,13 +41,14 @@ router.get('/song/:id', (req, res) => {
 
 router.post('/guess', (req, res) => {
     const selectedSongId = req.body.selectedSongId;
-    console.log('Received guess for song ID:', selectedSongId);
+    const randomseed = req.body.seed;
+
     const selectedSong = getSongById(selectedSongId);
     if (!selectedSong) {
         return res.status(404).json({ error: 'Invalid song ID' });
     }
-    const dailySong = getDailySong();
-    const result = compareSongs(selectedSong, dailySong);
+    const targetSong = randomseed === 0 ? getDailySong() : getRandomSong(randomseed);
+    const result = compareSongs(selectedSong, targetSong);
     return res.json(result);
 });
 

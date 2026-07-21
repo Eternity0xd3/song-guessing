@@ -7,7 +7,14 @@ const dialog = document.getElementById("about-dialog");
 const songs = [];
 let attempts = [];
 let searchedSongs = [];
+let randomseed = 0;
 
+// gamemode
+const randomMode = true; // if true, the daily song will be random, otherwise it will be the same every day
+
+if(randomMode) {
+  randomseed = Math.floor(Math.random() * 1000000); // random seed for the random song
+}
 let isDesktop = navigator["userAgent"].match(
   /(ipad|iphone|ipod|android|windows phone)/i,
 )
@@ -29,7 +36,6 @@ function mappingResult(result) {
   return resultMap[result] || result;
 }
 
-
 async function getSongs() {
   resJson = await (await fetch("/api/song-list")).json();
   songs.push(...resJson);
@@ -44,7 +50,9 @@ async function toggleGuess(songDiv) {
       headers: {
         "Content-Type": "application/json",
       },
-      body: JSON.stringify({ selectedSongId: Number(songId) }),
+      body: JSON.stringify({ selectedSongId: Number(songId),
+        seed: randomseed
+       }),
     })
   ).json();
   addAndRefreshDisplayResults(songData, guessResult);

@@ -24,3 +24,10 @@ export function getDailySong() {
   const randomSong = songs[randomIndex];
   return randomSong;
 }
+
+export function getRandomSong(seed) {
+  const hash = hashing(String(seed));
+  const randomIndex = hash % songs.length;
+  const randomSong = songs[randomIndex];
+  return randomSong;
+}
