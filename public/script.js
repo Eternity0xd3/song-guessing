@@ -58,26 +58,47 @@ async function toggleGuess(songDiv) {
   addAndRefreshDisplayResults(songData, guessResult);
 }
 
+// ranking the results by accuracy
+function smartSearch(keyword) {
+  keyword = keyword.toLowerCase().trim();
+
+  if(!keyword) {
+    return [];
+  }
+
+  return songs.map((song) => {
+    const songName = song.song_name.toLowerCase();
+    const artistName = song.artist_name.toLowerCase();
+    let score = 0;
+    if (songName === keyword) {
+      score += 1000;
+    }
+    else if (artistName === keyword) {
+      score += 900;
+    }
+    else if (songName.startsWith(keyword)) {
+      score += 500;
+    }
+    else if (artistName.startsWith(keyword)) {
+      score += 400;
+    }
+    else if (songName.includes(keyword)) {
+      score += 100;
+    }
+    else if (artistName.includes(keyword)) {
+      score += 100;
+    }
+
+    return { song, score };
+  })
+  .filter((item) => item.score > 0)
+  .sort((a, b) => b.score - a.score)
+  .map((item) => item.song);
+}
+
 function searchSongs() {
   const input = searchBar.value;
-  if (!input) {
-    displaySelections([]);
-    return;
-  }
-  const filteredSongs = [];
-  filteredSongs.push(
-    ...songs.filter((song) =>
-      song.song_name.toLowerCase().includes(input.toLowerCase()),
-    ),
-  );
-  filteredSongs.push(
-    ...songs.filter(
-      (song) =>
-        song.artist_name.toLowerCase().includes(input.toLowerCase()) &&
-        !filteredSongs.includes(song),
-    ),
-  );
-  searchedSongs = filteredSongs;
+  searchedSongs = smartSearch(input);
   displaySelections(searchedSongs);
 }
 
