@@ -67,7 +67,7 @@ main {
   border-spacing: 0;
   background: #cae5ec;
   border-radius: 0.3125rem;
-  max-height: 25rem;
+  max-height: 34rem;
   overflow-y: auto;
 }
 
@@ -143,8 +143,8 @@ main {
 
 
 .close {
-    background: #ebc230;
-    color:black;
+    background: #c2b203;
+    color:white;
 }
 
 dialog {

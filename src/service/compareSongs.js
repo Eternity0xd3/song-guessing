@@ -17,8 +17,9 @@ export function compareSongs(selectedSong, targetedSong) {
   const isCorrect = selectedSong.id === targetedSong.id;
   const isSameArtist = selectedSong.artist_name === targetedSong.artist_name;
   const isSameAlbum = selectedSong.album_name === targetedSong.album_name;
+  const isSameDetailedAlbum = selectedSong.appended_album_name === targetedSong.appended_album_name;
   const isSameCatagory = selectedSong.catagory === targetedSong.catagory;
-  console.log(isCorrect, isSameArtist, isSameAlbum);
+  console.log(isCorrect, isSameArtist, isSameAlbum, isSameDetailedAlbum, isSameCatagory);
 
   // handle the BPM feedback
   let selectedSongBpmDetail;
@@ -104,6 +105,9 @@ export function compareSongs(selectedSong, targetedSong) {
           : "smaller";
     bpmDirection = direction;
   }
+  if(isCorrect) {
+    bpmDirection = "correct";
+  }
   console.log(bpmDirection);
 
   // handle the level feedback
@@ -164,10 +168,12 @@ export function compareSongs(selectedSong, targetedSong) {
         ? "larger"
         : "smaller";
   console.log(versionDirection);
+
   return {
     isCorrect: isCorrect,
     isSameArtist: isSameArtist,
     isSameAlbum: isSameAlbum,
+    isSameDetailedAlbum: isSameDetailedAlbum,
     isSameCatagory: isSameCatagory,
     bpmDirection: bpmDirection,
     futureDirection: futureDirection,

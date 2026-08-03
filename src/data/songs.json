@@ -570,7 +570,7 @@
     "beyond_level": "",
     "song_length": "2:26",
     "bpm": "160",
-    "album_name": "Dynamix Collaboration",
+    "album_name": "Dynamix",
     "appended_album_name": "Dynamix Collaboration",
     "catagory": "Collaboration",
     "append_version": "1.1.2"
@@ -586,7 +586,7 @@
     "beyond_level": "",
     "song_length": "1:57",
     "bpm": "180",
-    "album_name": "Dynamix Collaboration",
+    "album_name": "Dynamix",
     "appended_album_name": "Dynamix Collaboration",
     "catagory": "Collaboration",
     "append_version": "1.1.2"
@@ -602,7 +602,7 @@
     "beyond_level": "",
     "song_length": "1:46",
     "bpm": "205",
-    "album_name": "Dynamix Collaboration",
+    "album_name": "Dynamix",
     "appended_album_name": "Dynamix Collaboration",
     "catagory": "Collaboration",
     "append_version": "1.1.2"
@@ -618,7 +618,7 @@
     "beyond_level": "",
     "song_length": "2:22",
     "bpm": "152",
-    "album_name": "Dynamix Collaboration",
+    "album_name": "Dynamix",
     "appended_album_name": "Dynamix Collaboration",
     "catagory": "Collaboration",
     "append_version": "1.1.2"
@@ -634,7 +634,7 @@
     "beyond_level": "",
     "song_length": "2:00",
     "bpm": "202",
-    "album_name": "Dynamix Collaboration",
+    "album_name": "Dynamix",
     "appended_album_name": "Dynamix Collaboration",
     "catagory": "Collaboration",
     "append_version": "1.1.2"
@@ -857,7 +857,7 @@
     "eternal_level": "",
     "beyond_level": "10",
     "song_length": "1:582:31",
-    "bpm": "150",
+    "bpm": "150160",
     "album_name": "Arcaea",
     "appended_album_name": "Arcaea",
     "catagory": "Arcaea",
@@ -1034,7 +1034,7 @@
     "beyond_level": "",
     "song_length": "2:25",
     "bpm": "174",
-    "album_name": "Lanota Collaboration",
+    "album_name": "Lanota",
     "appended_album_name": "Lanota Collaboration",
     "catagory": "Collaboration",
     "append_version": "1.5.5"
@@ -1050,7 +1050,7 @@
     "beyond_level": "",
     "song_length": "2:13",
     "bpm": "200",
-    "album_name": "Lanota Collaboration",
+    "album_name": "Lanota",
     "appended_album_name": "Lanota Collaboration",
     "catagory": "Collaboration",
     "append_version": "1.5.5"
@@ -1066,7 +1066,7 @@
     "beyond_level": "",
     "song_length": "2:16",
     "bpm": "179",
-    "album_name": "Lanota Collaboration",
+    "album_name": "Lanota",
     "appended_album_name": "Lanota Collaboration",
     "catagory": "Collaboration",
     "append_version": "1.5.5"
@@ -1082,7 +1082,7 @@
     "beyond_level": "",
     "song_length": "2:23",
     "bpm": "189",
-    "album_name": "Lanota Collaboration",
+    "album_name": "Lanota",
     "appended_album_name": "Lanota Collaboration",
     "catagory": "Collaboration",
     "append_version": "1.5.5"
@@ -1098,7 +1098,7 @@
     "beyond_level": "",
     "song_length": "2:30",
     "bpm": "182",
-    "album_name": "Lanota Collaboration",
+    "album_name": "Lanota",
     "appended_album_name": "Lanota Collaboration",
     "catagory": "Collaboration",
     "append_version": "1.5.5"
@@ -1481,7 +1481,7 @@
     "eternal_level": "",
     "beyond_level": "10",
     "song_length": "2:162:37",
-    "bpm": "50",
+    "bpm": "50500",
     "album_name": "Memory Archive",
     "appended_album_name": "Memory Archive",
     "catagory": "Arcaea",
@@ -1562,7 +1562,7 @@
     "beyond_level": "",
     "song_length": "2:18",
     "bpm": "130",
-    "album_name": "Tone Sphere Collaboration",
+    "album_name": "Tone Sphere",
     "appended_album_name": "Tone Sphere Collaboration",
     "catagory": "Collaboration",
     "append_version": "1.8.0"
@@ -1578,7 +1578,7 @@
     "beyond_level": "",
     "song_length": "2:33",
     "bpm": "147",
-    "album_name": "Tone Sphere Collaboration",
+    "album_name": "Tone Sphere",
     "appended_album_name": "Tone Sphere Collaboration",
     "catagory": "Collaboration",
     "append_version": "1.8.0"
@@ -1594,7 +1594,7 @@
     "beyond_level": "",
     "song_length": "2:26",
     "bpm": "145",
-    "album_name": "Tone Sphere Collaboration",
+    "album_name": "Tone Sphere",
     "appended_album_name": "Tone Sphere Collaboration",
     "catagory": "Collaboration",
     "append_version": "1.8.0"
@@ -1610,7 +1610,7 @@
     "beyond_level": "",
     "song_length": "2:01",
     "bpm": "200-211.9",
-    "album_name": "Tone Sphere Collaboration",
+    "album_name": "Tone Sphere",
     "appended_album_name": "Tone Sphere Collaboration",
     "catagory": "Collaboration",
     "append_version": "1.8.0"
@@ -1625,8 +1625,8 @@
     "eternal_level": "",
     "beyond_level": "",
     "song_length": "2:24",
-    "bpm": "140",
-    "album_name": "Tone Sphere Collaboration",
+    "bpm": "140?",
+    "album_name": "Tone Sphere",
     "appended_album_name": "Tone Sphere Collaboration",
     "catagory": "Collaboration",
     "append_version": "1.8.0"
@@ -1706,7 +1706,7 @@
     "beyond_level": "9",
     "song_length": "2:09",
     "bpm": "180",
-    "album_name": "Groove Coaster Collaboration",
+    "album_name": "Groove Coaster",
     "appended_album_name": "Groove Coaster Collaboration",
     "catagory": "Collaboration",
     "append_version": "1.9.0"
@@ -1722,7 +1722,7 @@
     "beyond_level": "",
     "song_length": "1:55",
     "bpm": "160",
-    "album_name": "Groove Coaster Collaboration",
+    "album_name": "Groove Coaster",
     "appended_album_name": "Groove Coaster Collaboration",
     "catagory": "Collaboration",
     "append_version": "1.9.0"
@@ -1738,7 +1738,7 @@
     "beyond_level": "10",
     "song_length": "1:56",
     "bpm": "240",
-    "album_name": "Groove Coaster Collaboration",
+    "album_name": "Groove Coaster",
     "appended_album_name": "Groove Coaster Collaboration",
     "catagory": "Collaboration",
     "append_version": "1.9.0"
@@ -1754,7 +1754,7 @@
     "beyond_level": "",
     "song_length": "2:09",
     "bpm": "185",
-    "album_name": "Groove Coaster Collaboration",
+    "album_name": "Groove Coaster",
     "appended_album_name": "Groove Coaster Collaboration",
     "catagory": "Collaboration",
     "append_version": "1.9.0"
@@ -1770,7 +1770,7 @@
     "beyond_level": "",
     "song_length": "2:29",
     "bpm": "188",
-    "album_name": "Groove Coaster Collaboration",
+    "album_name": "Groove Coaster",
     "appended_album_name": "Groove Coaster Collaboration",
     "catagory": "Collaboration",
     "append_version": "1.9.0"
@@ -1897,7 +1897,7 @@
     "eternal_level": "",
     "beyond_level": "11",
     "song_length": "2:202:29",
-    "bpm": "256",
+    "bpm": "256271",
     "album_name": "Absolute Reason",
     "appended_album_name": "Absolute Reason",
     "catagory": "Side Story",
@@ -1978,7 +1978,7 @@
     "beyond_level": "",
     "song_length": "2:08",
     "bpm": "256",
-    "album_name": "CHUNITHM Collaboration",
+    "album_name": "CHUNITHM",
     "appended_album_name": "CHUNITHM Collaboration",
     "catagory": "Collaboration",
     "append_version": "2.1.0"
@@ -1994,7 +1994,7 @@
     "beyond_level": "",
     "song_length": "2:30",
     "bpm": "200",
-    "album_name": "CHUNITHM Collaboration",
+    "album_name": "CHUNITHM",
     "appended_album_name": "CHUNITHM Collaboration",
     "catagory": "Collaboration",
     "append_version": "2.1.0"
@@ -2010,7 +2010,7 @@
     "beyond_level": "",
     "song_length": "2:45",
     "bpm": "170",
-    "album_name": "CHUNITHM Collaboration",
+    "album_name": "CHUNITHM",
     "appended_album_name": "CHUNITHM Collaboration",
     "catagory": "Collaboration",
     "append_version": "2.1.0"
@@ -2810,7 +2810,7 @@
     "beyond_level": "",
     "song_length": "2:06",
     "bpm": "268",
-    "album_name": "Groove Coaster Collaboration",
+    "album_name": "Groove Coaster",
     "appended_album_name": "Groove Coaster Collaboration",
     "catagory": "Collaboration",
     "append_version": "3.2.0"
@@ -3066,7 +3066,7 @@
     "beyond_level": "",
     "song_length": "2:23",
     "bpm": "185",
-    "album_name": "O.N.G.E.K.I. Collaboration",
+    "album_name": "O.N.G.E.K.I.",
     "appended_album_name": "O.N.G.E.K.I. Collaboration",
     "catagory": "Collaboration",
     "append_version": "3.4.0"
@@ -3082,7 +3082,7 @@
     "beyond_level": "",
     "song_length": "2:10",
     "bpm": "220",
-    "album_name": "O.N.G.E.K.I. Collaboration",
+    "album_name": "O.N.G.E.K.I.",
     "appended_album_name": "O.N.G.E.K.I. Collaboration",
     "catagory": "Collaboration",
     "append_version": "3.4.0"
@@ -3098,7 +3098,7 @@
     "beyond_level": "",
     "song_length": "2:37",
     "bpm": "218",
-    "album_name": "O.N.G.E.K.I. Collaboration",
+    "album_name": "O.N.G.E.K.I.",
     "appended_album_name": "O.N.G.E.K.I. Collaboration",
     "catagory": "Collaboration",
     "append_version": "3.4.0"
@@ -3114,7 +3114,7 @@
     "beyond_level": "",
     "song_length": "2:45",
     "bpm": "71-192",
-    "album_name": "O.N.G.E.K.I. Collaboration",
+    "album_name": "O.N.G.E.K.I.",
     "appended_album_name": "O.N.G.E.K.I. Collaboration",
     "catagory": "Collaboration",
     "append_version": "3.4.0"
@@ -3130,7 +3130,7 @@
     "beyond_level": "",
     "song_length": "2:09",
     "bpm": "79",
-    "album_name": "Maimai Collaboration",
+    "album_name": "Maimai",
     "appended_album_name": "Maimai Collaboration",
     "catagory": "Collaboration",
     "append_version": "3.4.1"
@@ -3146,7 +3146,7 @@
     "beyond_level": "",
     "song_length": "2:09",
     "bpm": "150",
-    "album_name": "Maimai Collaboration",
+    "album_name": "Maimai",
     "appended_album_name": "Maimai Collaboration",
     "catagory": "Collaboration",
     "append_version": "3.4.1"
@@ -3162,7 +3162,7 @@
     "beyond_level": "",
     "song_length": "2:01",
     "bpm": "190",
-    "album_name": "Maimai Collaboration",
+    "album_name": "Maimai",
     "appended_album_name": "Maimai Collaboration",
     "catagory": "Collaboration",
     "append_version": "3.4.1"
@@ -3178,7 +3178,7 @@
     "beyond_level": "",
     "song_length": "2:18",
     "bpm": "185",
-    "album_name": "Maimai Collaboration",
+    "album_name": "Maimai",
     "appended_album_name": "Maimai Collaboration",
     "catagory": "Collaboration",
     "append_version": "3.4.1"
@@ -3194,7 +3194,7 @@
     "beyond_level": "",
     "song_length": "2:34",
     "bpm": "190",
-    "album_name": "CHUNITHM Collaboration Chapter 2",
+    "album_name": "CHUNITHM",
     "appended_album_name": "CHUNITHM Collaboration Chapter 2",
     "catagory": "Collaboration",
     "append_version": "3.5.0"
@@ -3210,7 +3210,7 @@
     "beyond_level": "",
     "song_length": "2:35",
     "bpm": "238",
-    "album_name": "CHUNITHM Collaboration Chapter 2",
+    "album_name": "CHUNITHM",
     "appended_album_name": "CHUNITHM Collaboration Chapter 2",
     "catagory": "Collaboration",
     "append_version": "3.5.0"
@@ -3226,7 +3226,7 @@
     "beyond_level": "",
     "song_length": "2:44",
     "bpm": "190†",
-    "album_name": "CHUNITHM Collaboration Chapter 2",
+    "album_name": "CHUNITHM",
     "appended_album_name": "CHUNITHM Collaboration Chapter 2",
     "catagory": "Collaboration",
     "append_version": "3.5.0"
@@ -3642,7 +3642,7 @@
     "beyond_level": "10",
     "song_length": "2:04",
     "bpm": "170",
-    "album_name": "WACCA Collaboration",
+    "album_name": "WACCA",
     "appended_album_name": "WACCA Collaboration",
     "catagory": "Collaboration",
     "append_version": "3.8.0"
@@ -3658,7 +3658,7 @@
     "beyond_level": "",
     "song_length": "2:20",
     "bpm": "155",
-    "album_name": "WACCA Collaboration",
+    "album_name": "WACCA",
     "appended_album_name": "WACCA Collaboration",
     "catagory": "Collaboration",
     "append_version": "3.8.0"
@@ -3674,7 +3674,7 @@
     "beyond_level": "",
     "song_length": "2:27",
     "bpm": "185",
-    "album_name": "WACCA Collaboration",
+    "album_name": "WACCA",
     "appended_album_name": "WACCA Collaboration",
     "catagory": "Collaboration",
     "append_version": "3.8.0"
@@ -3690,7 +3690,7 @@
     "beyond_level": "",
     "song_length": "2:09",
     "bpm": "155",
-    "album_name": "WACCA Collaboration",
+    "album_name": "WACCA",
     "appended_album_name": "WACCA Collaboration",
     "catagory": "Collaboration",
     "append_version": "3.8.0"
@@ -3706,7 +3706,7 @@
     "beyond_level": "",
     "song_length": "2:19",
     "bpm": "250-390",
-    "album_name": "WACCA Collaboration",
+    "album_name": "WACCA",
     "appended_album_name": "WACCA Collaboration",
     "catagory": "Collaboration",
     "append_version": "3.8.0"
@@ -3994,7 +3994,7 @@
     "beyond_level": "",
     "song_length": "1:40",
     "bpm": "180",
-    "album_name": "Muse Dash Collaboration",
+    "album_name": "Muse Dash",
     "appended_album_name": "Muse Dash Collaboration",
     "catagory": "Collaboration",
     "append_version": "3.11.0"
@@ -4010,7 +4010,7 @@
     "beyond_level": "",
     "song_length": "2:17",
     "bpm": "180",
-    "album_name": "Muse Dash Collaboration",
+    "album_name": "Muse Dash",
     "appended_album_name": "Muse Dash Collaboration",
     "catagory": "Collaboration",
     "append_version": "3.11.0"
@@ -4026,7 +4026,7 @@
     "beyond_level": "",
     "song_length": "2:32",
     "bpm": "180",
-    "album_name": "Muse Dash Collaboration",
+    "album_name": "Muse Dash",
     "appended_album_name": "Muse Dash Collaboration",
     "catagory": "Collaboration",
     "append_version": "3.11.0"
@@ -4042,7 +4042,7 @@
     "beyond_level": "",
     "song_length": "2:04",
     "bpm": "165",
-    "album_name": "Muse Dash Collaboration",
+    "album_name": "Muse Dash",
     "appended_album_name": "Muse Dash Collaboration",
     "catagory": "Collaboration",
     "append_version": "3.11.0"
@@ -4234,7 +4234,7 @@
     "beyond_level": "",
     "song_length": "2:56",
     "bpm": "107-109",
-    "album_name": "Lanota Collaboration Chapter 2",
+    "album_name": "Lanota",
     "appended_album_name": "Lanota Collaboration Chapter 2",
     "catagory": "Collaboration",
     "append_version": "3.12.8"
@@ -4250,7 +4250,7 @@
     "beyond_level": "",
     "song_length": "2:48",
     "bpm": "140",
-    "album_name": "Lanota Collaboration Chapter 2",
+    "album_name": "Lanota",
     "appended_album_name": "Lanota Collaboration Chapter 2",
     "catagory": "Collaboration",
     "append_version": "3.12.8"
@@ -4266,7 +4266,7 @@
     "beyond_level": "",
     "song_length": "2:34",
     "bpm": "180",
-    "album_name": "Lanota Collaboration Chapter 2",
+    "album_name": "Lanota",
     "appended_album_name": "Lanota Collaboration Chapter 2",
     "catagory": "Collaboration",
     "append_version": "3.12.8"
@@ -4554,7 +4554,7 @@
     "beyond_level": "",
     "song_length": "2:28",
     "bpm": "80",
-    "album_name": "O.N.G.E.K.I. Collaboration Chapter 2",
+    "album_name": "O.N.G.E.K.I.",
     "appended_album_name": "O.N.G.E.K.I. Collaboration Chapter 2",
     "catagory": "Collaboration",
     "append_version": "4.1.0"
@@ -4570,7 +4570,7 @@
     "beyond_level": "",
     "song_length": "2:17",
     "bpm": "175",
-    "album_name": "O.N.G.E.K.I. Collaboration Chapter 2",
+    "album_name": "O.N.G.E.K.I.",
     "appended_album_name": "O.N.G.E.K.I. Collaboration Chapter 2",
     "catagory": "Collaboration",
     "append_version": "4.1.0"
@@ -4586,7 +4586,7 @@
     "beyond_level": "",
     "song_length": "2:27",
     "bpm": "252",
-    "album_name": "O.N.G.E.K.I. Collaboration Chapter 2",
+    "album_name": "O.N.G.E.K.I.",
     "appended_album_name": "O.N.G.E.K.I. Collaboration Chapter 2",
     "catagory": "Collaboration",
     "append_version": "4.1.0"
@@ -4602,7 +4602,7 @@
     "beyond_level": "",
     "song_length": "2:07",
     "bpm": "185",
-    "album_name": "O.N.G.E.K.I. Collaboration Chapter 2",
+    "album_name": "O.N.G.E.K.I.",
     "appended_album_name": "O.N.G.E.K.I. Collaboration Chapter 2",
     "catagory": "Collaboration",
     "append_version": "4.1.0"
@@ -4618,7 +4618,7 @@
     "beyond_level": "",
     "song_length": "2:26",
     "bpm": "199",
-    "album_name": "O.N.G.E.K.I. Collaboration Chapter 2",
+    "album_name": "O.N.G.E.K.I.",
     "appended_album_name": "O.N.G.E.K.I. Collaboration Chapter 2",
     "catagory": "Collaboration",
     "append_version": "4.1.0"
@@ -4858,7 +4858,7 @@
     "beyond_level": "",
     "song_length": "2:01",
     "bpm": "135",
-    "album_name": "Maimai Collaboration Chapter 2",
+    "album_name": "Maimai",
     "appended_album_name": "Maimai Collaboration Chapter 2",
     "catagory": "Collaboration",
     "append_version": "4.3.0"
@@ -4874,7 +4874,7 @@
     "beyond_level": "",
     "song_length": "2:13",
     "bpm": "222",
-    "album_name": "Maimai Collaboration Chapter 2",
+    "album_name": "Maimai",
     "appended_album_name": "Maimai Collaboration Chapter 2",
     "catagory": "Collaboration",
     "append_version": "4.3.0"
@@ -4890,7 +4890,7 @@
     "beyond_level": "",
     "song_length": "2:25",
     "bpm": "162-180",
-    "album_name": "Maimai Collaboration Chapter 2",
+    "album_name": "Maimai",
     "appended_album_name": "Maimai Collaboration Chapter 2",
     "catagory": "Collaboration",
     "append_version": "4.3.0"
@@ -4906,7 +4906,7 @@
     "beyond_level": "",
     "song_length": "2:21",
     "bpm": "160",
-    "album_name": "Maimai Collaboration Chapter 2",
+    "album_name": "Maimai",
     "appended_album_name": "Maimai Collaboration Chapter 2",
     "catagory": "Collaboration",
     "append_version": "4.3.0"
@@ -4938,7 +4938,7 @@
     "beyond_level": "",
     "song_length": "2:22",
     "bpm": "129",
-    "album_name": "CHUNITHM Collaboration Chapter 3",
+    "album_name": "CHUNITHM",
     "appended_album_name": "CHUNITHM Collaboration Chapter 3",
     "catagory": "Collaboration",
     "append_version": "4.4.0"
@@ -4954,7 +4954,7 @@
     "beyond_level": "10",
     "song_length": "2:30",
     "bpm": "210",
-    "album_name": "CHUNITHM Collaboration Chapter 3",
+    "album_name": "CHUNITHM",
     "appended_album_name": "CHUNITHM Collaboration Chapter 3",
     "catagory": "Collaboration",
     "append_version": "4.4.0"
@@ -4970,7 +4970,7 @@
     "beyond_level": "",
     "song_length": "2:04",
     "bpm": "150",
-    "album_name": "CHUNITHM Collaboration Chapter 3",
+    "album_name": "CHUNITHM",
     "appended_album_name": "CHUNITHM Collaboration Chapter 3",
     "catagory": "Collaboration",
     "append_version": "4.4.0"
@@ -4986,7 +4986,7 @@
     "beyond_level": "",
     "song_length": "2:27",
     "bpm": "155",
-    "album_name": "CHUNITHM Collaboration Chapter 3",
+    "album_name": "CHUNITHM",
     "appended_album_name": "CHUNITHM Collaboration Chapter 3",
     "catagory": "Collaboration",
     "append_version": "4.4.0"
@@ -5002,7 +5002,7 @@
     "beyond_level": "",
     "song_length": "2:21",
     "bpm": "180",
-    "album_name": "CHUNITHM Collaboration Chapter 3",
+    "album_name": "CHUNITHM",
     "appended_album_name": "CHUNITHM Collaboration Chapter 3",
     "catagory": "Collaboration",
     "append_version": "4.4.0"
@@ -5178,7 +5178,7 @@
     "beyond_level": "",
     "song_length": "2:30",
     "bpm": "107",
-    "album_name": "Cytus II Collaboration",
+    "album_name": "Cytus II",
     "appended_album_name": "Cytus II Collaboration",
     "catagory": "Collaboration",
     "append_version": "4.5.0"
@@ -5194,7 +5194,7 @@
     "beyond_level": "",
     "song_length": "2:06",
     "bpm": "160",
-    "album_name": "Cytus II Collaboration",
+    "album_name": "Cytus II",
     "appended_album_name": "Cytus II Collaboration",
     "catagory": "Collaboration",
     "append_version": "4.5.0"
@@ -5210,7 +5210,7 @@
     "beyond_level": "",
     "song_length": "2:39",
     "bpm": "170-200",
-    "album_name": "Cytus II Collaboration",
+    "album_name": "Cytus II",
     "appended_album_name": "Cytus II Collaboration",
     "catagory": "Collaboration",
     "append_version": "4.5.0"
@@ -5226,7 +5226,7 @@
     "beyond_level": "",
     "song_length": "2:49",
     "bpm": "150",
-    "album_name": "Cytus II Collaboration",
+    "album_name": "Cytus II",
     "appended_album_name": "Cytus II Collaboration",
     "catagory": "Collaboration",
     "append_version": "4.5.0"
@@ -5242,7 +5242,7 @@
     "beyond_level": "",
     "song_length": "3:06",
     "bpm": "140",
-    "album_name": "Cytus II Collaboration",
+    "album_name": "Cytus II",
     "appended_album_name": "Cytus II Collaboration",
     "catagory": "Collaboration",
     "append_version": "4.5.0"
@@ -5274,7 +5274,7 @@
     "beyond_level": "",
     "song_length": "2:28",
     "bpm": "76-96",
-    "album_name": "Cytus II Collaboration Chapter 2",
+    "album_name": "Cytus II",
     "appended_album_name": "Cytus II Collaboration Chapter 2",
     "catagory": "Collaboration",
     "append_version": "4.6.0"
@@ -5290,7 +5290,7 @@
     "beyond_level": "",
     "song_length": "1:58",
     "bpm": "155",
-    "album_name": "Cytus II Collaboration Chapter 2",
+    "album_name": "Cytus II",
     "appended_album_name": "Cytus II Collaboration Chapter 2",
     "catagory": "Collaboration",
     "append_version": "4.6.0"
@@ -5306,7 +5306,7 @@
     "beyond_level": "",
     "song_length": "2:42",
     "bpm": "185",
-    "album_name": "Cytus II Collaboration Chapter 2",
+    "album_name": "Cytus II",
     "appended_album_name": "Cytus II Collaboration Chapter 2",
     "catagory": "Collaboration",
     "append_version": "4.6.0"
@@ -5322,7 +5322,7 @@
     "beyond_level": "",
     "song_length": "2:44",
     "bpm": "130-150",
-    "album_name": "Cytus II Collaboration Chapter 2",
+    "album_name": "Cytus II",
     "appended_album_name": "Cytus II Collaboration Chapter 2",
     "catagory": "Collaboration",
     "append_version": "4.6.0"
@@ -5338,7 +5338,7 @@
     "beyond_level": "",
     "song_length": "2:25",
     "bpm": "160",
-    "album_name": "Cytus II Collaboration Chapter 2",
+    "album_name": "Cytus II",
     "appended_album_name": "Cytus II Collaboration Chapter 2",
     "catagory": "Collaboration",
     "append_version": "4.6.0"
@@ -5706,7 +5706,7 @@
     "beyond_level": "",
     "song_length": "2:05",
     "bpm": "175",
-    "album_name": "WACCA Collaboration Chapter 2",
+    "album_name": "WACCA",
     "appended_album_name": "WACCA Collaboration Chapter 2",
     "catagory": "Collaboration",
     "append_version": "5.2.0"
@@ -5722,7 +5722,7 @@
     "beyond_level": "",
     "song_length": "2:21",
     "bpm": "200",
-    "album_name": "WACCA Collaboration Chapter 2",
+    "album_name": "WACCA",
     "appended_album_name": "WACCA Collaboration Chapter 2",
     "catagory": "Collaboration",
     "append_version": "5.2.0"
@@ -5738,7 +5738,7 @@
     "beyond_level": "",
     "song_length": "2:21",
     "bpm": "205",
-    "album_name": "WACCA Collaboration Chapter 2",
+    "album_name": "WACCA",
     "appended_album_name": "WACCA Collaboration Chapter 2",
     "catagory": "Collaboration",
     "append_version": "5.2.0"
@@ -5754,7 +5754,7 @@
     "beyond_level": "",
     "song_length": "2:23",
     "bpm": "246",
-    "album_name": "WACCA Collaboration Chapter 2",
+    "album_name": "WACCA",
     "appended_album_name": "WACCA Collaboration Chapter 2",
     "catagory": "Collaboration",
     "append_version": "5.2.0"
@@ -5770,7 +5770,7 @@
     "beyond_level": "",
     "song_length": "2:29",
     "bpm": "205",
-    "album_name": "WACCA Collaboration Chapter 2",
+    "album_name": "WACCA",
     "appended_album_name": "WACCA Collaboration Chapter 2",
     "catagory": "Collaboration",
     "append_version": "5.2.0"
@@ -6522,7 +6522,7 @@
     "beyond_level": "",
     "song_length": "2:11",
     "bpm": "220",
-    "album_name": "Rotaeno Collaboration",
+    "album_name": "Rotaeno",
     "appended_album_name": "Rotaeno Collaboration",
     "catagory": "Collaboration",
     "append_version": "5.10.0"
@@ -6538,7 +6538,7 @@
     "beyond_level": "",
     "song_length": "2:21",
     "bpm": "222",
-    "album_name": "Rotaeno Collaboration",
+    "album_name": "Rotaeno",
     "appended_album_name": "Rotaeno Collaboration",
     "catagory": "Collaboration",
     "append_version": "5.10.0"
@@ -6554,7 +6554,7 @@
     "beyond_level": "",
     "song_length": "2:13",
     "bpm": "180",
-    "album_name": "Rotaeno Collaboration",
+    "album_name": "Rotaeno",
     "appended_album_name": "Rotaeno Collaboration",
     "catagory": "Collaboration",
     "append_version": "5.10.0"
@@ -6570,7 +6570,7 @@
     "beyond_level": "",
     "song_length": "2:50",
     "bpm": "175",
-    "album_name": "Rotaeno Collaboration",
+    "album_name": "Rotaeno",
     "appended_album_name": "Rotaeno Collaboration",
     "catagory": "Collaboration",
     "append_version": "5.10.0"
@@ -6586,7 +6586,7 @@
     "beyond_level": "",
     "song_length": "2:43",
     "bpm": "212",
-    "album_name": "Rotaeno Collaboration",
+    "album_name": "Rotaeno",
     "appended_album_name": "Rotaeno Collaboration",
     "catagory": "Collaboration",
     "append_version": "5.10.0"
@@ -6778,7 +6778,7 @@
     "beyond_level": "",
     "song_length": "2:15",
     "bpm": "137",
-    "album_name": "O.N.G.E.K.I. Collaboration Chapter 3",
+    "album_name": "O.N.G.E.K.I.",
     "appended_album_name": "O.N.G.E.K.I. Collaboration Chapter 3",
     "catagory": "Collaboration",
     "append_version": "6.0.0"
@@ -6794,7 +6794,7 @@
     "beyond_level": "",
     "song_length": "2:31",
     "bpm": "200",
-    "album_name": "O.N.G.E.K.I. Collaboration Chapter 3",
+    "album_name": "O.N.G.E.K.I.",
     "appended_album_name": "O.N.G.E.K.I. Collaboration Chapter 3",
     "catagory": "Collaboration",
     "append_version": "6.0.0"
@@ -6810,7 +6810,7 @@
     "beyond_level": "",
     "song_length": "2:39",
     "bpm": "190-200",
-    "album_name": "O.N.G.E.K.I. Collaboration Chapter 3",
+    "album_name": "O.N.G.E.K.I.",
     "appended_album_name": "O.N.G.E.K.I. Collaboration Chapter 3",
     "catagory": "Collaboration",
     "append_version": "6.0.0"
@@ -6826,7 +6826,7 @@
     "beyond_level": "",
     "song_length": "2:49",
     "bpm": "210-220",
-    "album_name": "O.N.G.E.K.I. Collaboration Chapter 3",
+    "album_name": "O.N.G.E.K.I.",
     "appended_album_name": "O.N.G.E.K.I. Collaboration Chapter 3",
     "catagory": "Collaboration",
     "append_version": "6.0.0"
@@ -6954,7 +6954,7 @@
     "beyond_level": "",
     "song_length": "2:17",
     "bpm": "160",
-    "album_name": "CHUNITHM Collaboration Chapter 4",
+    "album_name": "CHUNITHM",
     "appended_album_name": "CHUNITHM Collaboration Chapter 4",
     "catagory": "Collaboration",
     "append_version": "6.1.0"
@@ -6970,7 +6970,7 @@
     "beyond_level": "",
     "song_length": "2:20",
     "bpm": "150",
-    "album_name": "CHUNITHM Collaboration Chapter 4",
+    "album_name": "CHUNITHM",
     "appended_album_name": "CHUNITHM Collaboration Chapter 4",
     "catagory": "Collaboration",
     "append_version": "6.1.0"
@@ -6986,7 +6986,7 @@
     "beyond_level": "",
     "song_length": "2:29",
     "bpm": "168",
-    "album_name": "CHUNITHM Collaboration Chapter 4",
+    "album_name": "CHUNITHM",
     "appended_album_name": "CHUNITHM Collaboration Chapter 4",
     "catagory": "Collaboration",
     "append_version": "6.1.0"
@@ -7002,7 +7002,7 @@
     "beyond_level": "",
     "song_length": "2:42",
     "bpm": "222",
-    "album_name": "CHUNITHM Collaboration Chapter 4",
+    "album_name": "CHUNITHM",
     "appended_album_name": "CHUNITHM Collaboration Chapter 4",
     "catagory": "Collaboration",
     "append_version": "6.1.0"
@@ -7018,7 +7018,7 @@
     "beyond_level": "",
     "song_length": "2:30",
     "bpm": "165",
-    "album_name": "Maimai Collaboration Chapter 3",
+    "album_name": "Maimai",
     "appended_album_name": "Maimai Collaboration Chapter 3",
     "catagory": "Collaboration",
     "append_version": "6.2.0"
@@ -7034,7 +7034,7 @@
     "beyond_level": "",
     "song_length": "2:30",
     "bpm": "90",
-    "album_name": "Maimai Collaboration Chapter 3",
+    "album_name": "Maimai",
     "appended_album_name": "Maimai Collaboration Chapter 3",
     "catagory": "Collaboration",
     "append_version": "6.2.0"
@@ -7050,7 +7050,7 @@
     "beyond_level": "",
     "song_length": "2:25",
     "bpm": "225",
-    "album_name": "Maimai Collaboration Chapter 3",
+    "album_name": "Maimai",
     "appended_album_name": "Maimai Collaboration Chapter 3",
     "catagory": "Collaboration",
     "append_version": "6.2.0"
@@ -7066,7 +7066,7 @@
     "beyond_level": "",
     "song_length": "2:27",
     "bpm": "188",
-    "album_name": "Maimai Collaboration Chapter 3",
+    "album_name": "Maimai",
     "appended_album_name": "Maimai Collaboration Chapter 3",
     "catagory": "Collaboration",
     "append_version": "6.2.0"
@@ -7082,7 +7082,7 @@
     "beyond_level": "",
     "song_length": "2:45",
     "bpm": "180",
-    "album_name": "CHUNITHM Collaboration Chapter 4",
+    "album_name": "CHUNITHM",
     "appended_album_name": "CHUNITHM Collaboration Chapter 4",
     "catagory": "Collaboration",
     "append_version": "6.2.6"
@@ -7098,7 +7098,7 @@
     "beyond_level": "",
     "song_length": "1:58",
     "bpm": "239",
-    "album_name": "UNDERTALE Collaboration",
+    "album_name": "UNDERTALE",
     "appended_album_name": "UNDERTALE Collaboration",
     "catagory": "Variety",
     "append_version": "6.3.0"
@@ -7114,7 +7114,7 @@
     "beyond_level": "",
     "song_length": "2:17",
     "bpm": "148",
-    "album_name": "UNDERTALE Collaboration",
+    "album_name": "UNDERTALE",
     "appended_album_name": "UNDERTALE Collaboration",
     "catagory": "Variety",
     "append_version": "6.3.0"
@@ -7130,7 +7130,7 @@
     "beyond_level": "10",
     "song_length": "2:55",
     "bpm": "190",
-    "album_name": "UNDERTALE Collaboration",
+    "album_name": "UNDERTALE",
     "appended_album_name": "UNDERTALE Collaboration",
     "catagory": "Variety",
     "append_version": "6.3.0"
@@ -7146,7 +7146,7 @@
     "beyond_level": "",
     "song_length": "2:18",
     "bpm": "180",
-    "album_name": "UNDERTALE Collaboration",
+    "album_name": "UNDERTALE",
     "appended_album_name": "UNDERTALE Collaboration",
     "catagory": "Variety",
     "append_version": "6.3.0"
@@ -7162,7 +7162,7 @@
     "beyond_level": "",
     "song_length": "2:36",
     "bpm": "240",
-    "album_name": "UNDERTALE Collaboration",
+    "album_name": "UNDERTALE",
     "appended_album_name": "UNDERTALE Collaboration",
     "catagory": "Variety",
     "append_version": "6.3.0"
@@ -7322,7 +7322,7 @@
     "beyond_level": "",
     "song_length": "2:06",
     "bpm": "136",
-    "album_name": "DJMAX Collaboration",
+    "album_name": "DJMAX",
     "appended_album_name": "DJMAX Collaboration",
     "catagory": "Collaboration",
     "append_version": "6.5.0"
@@ -7338,7 +7338,7 @@
     "beyond_level": "",
     "song_length": "1:52",
     "bpm": "155",
-    "album_name": "DJMAX Collaboration",
+    "album_name": "DJMAX",
     "appended_album_name": "DJMAX Collaboration",
     "catagory": "Collaboration",
     "append_version": "6.5.0"
@@ -7354,7 +7354,7 @@
     "beyond_level": "",
     "song_length": "2:05",
     "bpm": "129",
-    "album_name": "DJMAX Collaboration",
+    "album_name": "DJMAX",
     "appended_album_name": "DJMAX Collaboration",
     "catagory": "Collaboration",
     "append_version": "6.5.0"
@@ -7370,7 +7370,7 @@
     "beyond_level": "",
     "song_length": "2:00",
     "bpm": "141",
-    "album_name": "DJMAX Collaboration",
+    "album_name": "DJMAX",
     "appended_album_name": "DJMAX Collaboration",
     "catagory": "Collaboration",
     "append_version": "6.5.0"
@@ -7386,7 +7386,7 @@
     "beyond_level": "",
     "song_length": "2:05",
     "bpm": "190",
-    "album_name": "DJMAX Collaboration",
+    "album_name": "DJMAX",
     "appended_album_name": "DJMAX Collaboration",
     "catagory": "Collaboration",
     "append_version": "6.5.0"
@@ -7466,7 +7466,7 @@
     "beyond_level": "",
     "song_length": "1:47",
     "bpm": "140",
-    "album_name": "DJMAX Collaboration Chapter 2",
+    "album_name": "DJMAX",
     "appended_album_name": "DJMAX Collaboration Chapter 2",
     "catagory": "Collaboration",
     "append_version": "6.6.0"
@@ -7482,7 +7482,7 @@
     "beyond_level": "",
     "song_length": "2:07",
     "bpm": "135",
-    "album_name": "DJMAX Collaboration Chapter 2",
+    "album_name": "DJMAX",
     "appended_album_name": "DJMAX Collaboration Chapter 2",
     "catagory": "Collaboration",
     "append_version": "6.6.0"
@@ -7498,7 +7498,7 @@
     "beyond_level": "",
     "song_length": "2:15",
     "bpm": "140",
-    "album_name": "DJMAX Collaboration Chapter 2",
+    "album_name": "DJMAX",
     "appended_album_name": "DJMAX Collaboration Chapter 2",
     "catagory": "Collaboration",
     "append_version": "6.6.0"
@@ -7514,7 +7514,7 @@
     "beyond_level": "",
     "song_length": "2:16",
     "bpm": "180",
-    "album_name": "DJMAX Collaboration Chapter 2",
+    "album_name": "DJMAX",
     "appended_album_name": "DJMAX Collaboration Chapter 2",
     "catagory": "Collaboration",
     "append_version": "6.6.0"
@@ -7530,7 +7530,7 @@
     "beyond_level": "",
     "song_length": "2:16",
     "bpm": "180",
-    "album_name": "DJMAX Collaboration Chapter 2",
+    "album_name": "DJMAX",
     "appended_album_name": "DJMAX Collaboration Chapter 2",
     "catagory": "Collaboration",
     "append_version": "6.6.0"
@@ -8202,7 +8202,7 @@
     "beyond_level": "",
     "song_length": "2:31",
     "bpm": "172",
-    "album_name": "MEGAREX Collaboration",
+    "album_name": "MEGAREX",
     "appended_album_name": "MEGAREX Collaboration",
     "catagory": "Collaboration",
     "append_version": "6.12.0"
@@ -8218,7 +8218,7 @@
     "beyond_level": "",
     "song_length": "2:26",
     "bpm": "123",
-    "album_name": "MEGAREX Collaboration",
+    "album_name": "MEGAREX",
     "appended_album_name": "MEGAREX Collaboration",
     "catagory": "Collaboration",
     "append_version": "6.12.0"
@@ -8234,7 +8234,7 @@
     "beyond_level": "",
     "song_length": "2:48",
     "bpm": "144-168",
-    "album_name": "MEGAREX Collaboration",
+    "album_name": "MEGAREX",
     "appended_album_name": "MEGAREX Collaboration",
     "catagory": "Collaboration",
     "append_version": "6.12.0"
@@ -8250,7 +8250,7 @@
     "beyond_level": "",
     "song_length": "2:36",
     "bpm": "156",
-    "album_name": "MEGAREX Collaboration",
+    "album_name": "MEGAREX",
     "appended_album_name": "MEGAREX Collaboration",
     "catagory": "Collaboration",
     "append_version": "6.12.0"
@@ -8266,7 +8266,7 @@
     "beyond_level": "",
     "song_length": "2:45",
     "bpm": "175",
-    "album_name": "MEGAREX Collaboration",
+    "album_name": "MEGAREX",
     "appended_album_name": "MEGAREX Collaboration",
     "catagory": "Collaboration",
     "append_version": "6.12.0"
@@ -8398,5 +8398,85 @@
     "appended_album_name": "Memory Archive",
     "catagory": "Arcaea",
     "append_version": "6.13.0"
+  },
+  {
+    "id": 525,
+    "song_name": "Riot in the System",
+    "artist_name": "Laur & Massive New Krew feat. 社築",
+    "past_level": "4",
+    "present_level": "7",
+    "future_level": "9",
+    "eternal_level": "10",
+    "beyond_level": "",
+    "song_length": "2:31",
+    "bpm": "200",
+    "album_name": "World Extend 4",
+    "appended_album_name": "World Extend 4",
+    "catagory": "Arcaea",
+    "append_version": "6.14.0"
+  },
+  {
+    "id": 526,
+    "song_name": "MIRROR - kamome sano remix",
+    "artist_name": "kamome sano",
+    "past_level": "4",
+    "present_level": "7",
+    "future_level": "9+",
+    "eternal_level": "",
+    "beyond_level": "",
+    "song_length": "???",
+    "bpm": "177",
+    "album_name": "World Extend 4",
+    "appended_album_name": "World Extend 4",
+    "catagory": "Arcaea",
+    "append_version": "6.14.0"
+  },
+  {
+    "id": 527,
+    "song_name": "Spider Dance",
+    "artist_name": "Toby Fox",
+    "past_level": "2",
+    "present_level": "5",
+    "future_level": "7+",
+    "eternal_level": "9",
+    "beyond_level": "",
+    "song_length": "1:47",
+    "bpm": "230",
+    "album_name": "UNDERTALE",
+    "appended_album_name": "UNDERTALE Pack Append",
+    "catagory": "Variety",
+    "append_version": "6.14.0"
+  },
+  {
+    "id": 528,
+    "song_name": "Spear of Justice",
+    "artist_name": "Toby Fox",
+    "past_level": "3",
+    "present_level": "6",
+    "future_level": "8",
+    "eternal_level": "9+",
+    "beyond_level": "",
+    "song_length": "1:56",
+    "bpm": "263",
+    "album_name": "UNDERTALE",
+    "appended_album_name": "UNDERTALE Pack Append",
+    "catagory": "Variety",
+    "append_version": "6.14.0"
+  },
+  {
+    "id": 529,
+    "song_name": "ASGORE",
+    "artist_name": "Toby Fox",
+    "past_level": "4",
+    "present_level": "7",
+    "future_level": "8+",
+    "eternal_level": "10",
+    "beyond_level": "",
+    "song_length": "2:37",
+    "bpm": "229.69",
+    "album_name": "UNDERTALE",
+    "appended_album_name": "UNDERTALE Pack Append",
+    "catagory": "Variety",
+    "append_version": "6.14.0"
   }
 ]

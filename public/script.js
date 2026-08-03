@@ -11,10 +11,15 @@ let randomseed = 0;
 
 // gamemode
 const randomMode = true; // if true, the daily song will be random, otherwise it will be the same every day
+const debugMode = false;
 
 if(randomMode) {
   randomseed = Math.floor(Math.random() * 1000000); // random seed for the random song
 }
+if(debugMode) {
+  randomseed = 26; // fixed seed for testing purposes
+}
+
 let isDesktop = navigator["userAgent"].match(
   /(ipad|iphone|ipod|android|windows phone)/i,
 )
@@ -26,6 +31,7 @@ const resultMap = {
   "true": "正确",
   "false": "错误",
   "correct": "正确",
+  "close": "接近",
   "larger": "太大",
   "smaller": "太小",
   "in range": "在范围内",
@@ -118,6 +124,7 @@ function displaySelections(songs) {
   });
 }
 
+// generate the guess card - one judgement
 function generatePropertyDiv(key, value, result, isTotallyCorrect) {
   divContent = `
     <div class="property${(result === "correct" || result.toString() === "true" || isTotallyCorrect) ? " correct" : ""}">
@@ -126,6 +133,40 @@ function generatePropertyDiv(key, value, result, isTotallyCorrect) {
       <span class="property-value">${value || "-"}</span>
       <hr>
       <span class="property-result">${mappingResult(result)}</span>
+    </div>
+    `;
+    return divContent;
+}
+
+// generate the guess card - two judgements
+function generatePropertyDiv2(key, value1, value2, result1, result2, isTotallyCorrect) {
+  overallJudgement =
+    result1 === "correct" || result1.toString() === "true" || isTotallyCorrect;
+  detailedJudgement =
+    result2 === "correct" || result2.toString() === "true" || isTotallyCorrect;
+
+  let className = "property";
+  let valueDisplay = value1;
+  let finalResult = "false";
+  if(overallJudgement && detailedJudgement) {
+    className += " correct";
+    if(value1 !== value2) {
+      valueDisplay += " → " + value2;
+    }
+    finalResult = "correct";
+  }else if(overallJudgement && !detailedJudgement) {
+    className += " close";
+    valueDisplay += " → " + value2;
+    finalResult = "close";
+  }
+
+  divContent = `
+    <div class="${className}">
+      <span class="property-label">${key}</span>
+      <br>
+      <span class="property-value">${valueDisplay || "-"}</span>
+      <hr>
+      <span class="property-result">${mappingResult(finalResult)}</span>
     </div>
     `;
     return divContent;
@@ -149,7 +190,7 @@ function generateGuessCard(attempt) {
   let propertiesDiv = `
     <div class="properties">
       ${generatePropertyDiv("曲师", eachSong.artist_name, eachResult.isSameArtist, eachResult.isCorrect)}
-      ${generatePropertyDiv("曲包", eachSong.album_name, eachResult.isSameAlbum, eachResult.isCorrect)}
+      ${generatePropertyDiv2("曲包", eachSong.album_name, eachSong.appended_album_name, eachResult.isSameAlbum, eachResult.isSameDetailedAlbum, eachResult.isCorrect)}
       ${generatePropertyDiv("曲包分类", eachSong.catagory, eachResult.isSameCatagory, eachResult.isCorrect)}
       ${generatePropertyDiv("BPM", eachSong.bpm, eachResult.bpmDirection, eachResult.isCorrect)}
       ${generatePropertyDiv("Future", eachSong.future_level, eachResult.futureDirection, eachResult.isCorrect)}
